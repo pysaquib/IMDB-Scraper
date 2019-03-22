@@ -1,0 +1,93 @@
+{
+    "Bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0052333",
+            "Name": "Kanu Bannerjee"
+        },
+        {
+            "IMDB_ID": "nm0052334",
+            "Name": "Karuna Bannerjee"
+        },
+        {
+            "IMDB_ID": "nm0222447",
+            "Name": "Chunibala Devi"
+        },
+        {
+            "IMDB_ID": "nm0201871",
+            "Name": "Uma Das Gupta"
+        },
+        {
+            "IMDB_ID": "nm0052343",
+            "Name": "Subir Banerjee"
+        },
+        {
+            "IMDB_ID": "nm0051846",
+            "Name": "Runki Banerjee"
+        },
+        {
+            "IMDB_ID": "nm0222480",
+            "Name": "Reba Devi"
+        },
+        {
+            "IMDB_ID": "nm0222436",
+            "Name": "Aparna Devi"
+        },
+        {
+            "IMDB_ID": "nm0149831",
+            "Name": "Tulsi Chakraborty"
+        },
+        {
+            "IMDB_ID": "nm0051836",
+            "Name": "Haren Banerjee"
+        },
+        {
+            "IMDB_ID": "nm5580026",
+            "Name": "Rampada Das"
+        },
+        {
+            "IMDB_ID": "nm0222467",
+            "Name": "Nibhanani Devi"
+        },
+        {
+            "IMDB_ID": "nm0304346",
+            "Name": "Rama Gangopadhaya"
+        },
+        {
+            "IMDB_ID": "nm0304351",
+            "Name": "Roma Ganguli"
+        },
+        {
+            "IMDB_ID": "nm0611518",
+            "Name": "Binoy Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm5570266",
+            "Name": "Haridhan Nag"
+        },
+        {
+            "IMDB_ID": "nm0619049",
+            "Name": "Harimohan Nag"
+        },
+        {
+            "IMDB_ID": "nm0747091",
+            "Name": "Kshirod Roy"
+        },
+        {
+            "IMDB_ID": "nm5583219",
+            "Name": "Suren Roy"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Satyajit Ray"
+    ],
+    "Genre": [
+        "Drama"
+    ],
+    "Languages": [
+        "Bengali"
+    ],
+    "Name": "Pather Panchali",
+    "Runtime": 125
+}

@@ -1,0 +1,96 @@
+{
+    "Bio": "Theeran, a police officer, tries to decode a series of cold blood events based on same pattern.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1912683",
+            "Name": "Karthi"
+        },
+        {
+            "IMDB_ID": "nm5114849",
+            "Name": "Rakul Preet Singh"
+        },
+        {
+            "IMDB_ID": "nm1358872",
+            "Name": "Abhimanyu Singh"
+        },
+        {
+            "IMDB_ID": "nm3163756",
+            "Name": "Bose Venkat"
+        },
+        {
+            "IMDB_ID": "nm0695595",
+            "Name": "Praveena"
+        },
+        {
+            "IMDB_ID": "nm1007581",
+            "Name": "Manobala"
+        },
+        {
+            "IMDB_ID": "nm3561501",
+            "Name": "Sathyan"
+        },
+        {
+            "IMDB_ID": "nm9497174",
+            "Name": "Sonia"
+        },
+        {
+            "IMDB_ID": "nm3830348",
+            "Name": "R.N.R. Manohar"
+        },
+        {
+            "IMDB_ID": "nm0434263",
+            "Name": "Kishore Kadam"
+        },
+        {
+            "IMDB_ID": "nm9497172",
+            "Name": "Varghese Mathew"
+        },
+        {
+            "IMDB_ID": "nm2982943",
+            "Name": "Rohit Pathak"
+        },
+        {
+            "IMDB_ID": "nm8135135",
+            "Name": "Narra Srinivas"
+        },
+        {
+            "IMDB_ID": "nm9497173",
+            "Name": "Surender Thakur"
+        },
+        {
+            "IMDB_ID": "nm5560667",
+            "Name": "Prayas Mann"
+        },
+        {
+            "IMDB_ID": "nm0451239",
+            "Name": "Jameel Khan"
+        },
+        {
+            "IMDB_ID": "nm6442108",
+            "Name": "Kalyani N."
+        },
+        {
+            "IMDB_ID": "nm9103143",
+            "Name": "Abhirami"
+        },
+        {
+            "IMDB_ID": "nm5805978",
+            "Name": "Scarlett Mellish Wilson"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "H. Vinoth"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "Languages": [
+        "Tamil",
+        "Telugu"
+    ],
+    "Name": "Theeran Adhigaaram Ondru",
+    "Runtime": 157
+}

@@ -1,0 +1,442 @@
+{
+    "Bio": "The fear of his elder brother's death starts to haunt an innocent, hearing impaired guy after they both join forces to overthrow the unlawful 30 year long regime of their village's president.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm2776304",
+            "Name": "Ram Charan"
+        },
+        {
+            "IMDB_ID": "nm3606487",
+            "Name": "Samantha Ruth Prabhu"
+        },
+        {
+            "IMDB_ID": "nm3942577",
+            "Name": "Aadhi"
+        },
+        {
+            "IMDB_ID": "nm0045075",
+            "Name": "Jagapathi Babu"
+        },
+        {
+            "IMDB_ID": "nm9706424",
+            "Name": "Mahesh Achanta"
+        },
+        {
+            "IMDB_ID": "nm9855614",
+            "Name": "Aditya"
+        },
+        {
+            "IMDB_ID": "nm9855622",
+            "Name": "Anil"
+        },
+        {
+            "IMDB_ID": "nm4757665",
+            "Name": "Annie"
+        },
+        {
+            "IMDB_ID": "nm9855612",
+            "Name": "Appu"
+        },
+        {
+            "IMDB_ID": "nm9855560",
+            "Name": "Fm Babai"
+        },
+        {
+            "IMDB_ID": "nm9855593",
+            "Name": "Sathi Babu"
+        },
+        {
+            "IMDB_ID": "nm9855624",
+            "Name": "Suri Babu"
+        },
+        {
+            "IMDB_ID": "nm0051857",
+            "Name": "Banerjee"
+        },
+        {
+            "IMDB_ID": "nm9855619",
+            "Name": "Basha"
+        },
+        {
+            "IMDB_ID": "nm7850258",
+            "Name": "Anasuya Bharadwaj"
+        },
+        {
+            "IMDB_ID": "nm9855588",
+            "Name": "Bhaskar"
+        },
+        {
+            "IMDB_ID": "nm9855559",
+            "Name": "Sai Bhuktha"
+        },
+        {
+            "IMDB_ID": "nm0103976",
+            "Name": "Brahmaji"
+        },
+        {
+            "IMDB_ID": "nm9855586",
+            "Name": "Muni Chandra"
+        },
+        {
+            "IMDB_ID": "nm9855613",
+            "Name": "Deva"
+        },
+        {
+            "IMDB_ID": "nm9855618",
+            "Name": "Durgaji"
+        },
+        {
+            "IMDB_ID": "nm9855571",
+            "Name": "Ganapathi"
+        },
+        {
+            "IMDB_ID": "nm8752976",
+            "Name": "Gangadhar"
+        },
+        {
+            "IMDB_ID": "nm9855615",
+            "Name": "Ghani"
+        },
+        {
+            "IMDB_ID": "nm4886752",
+            "Name": "Ajay Ghosh"
+        },
+        {
+            "IMDB_ID": "nm2145958",
+            "Name": "Vajja Venkata Giridhar"
+        },
+        {
+            "IMDB_ID": "nm8412336",
+            "Name": "Gopal"
+        },
+        {
+            "IMDB_ID": "nm9855589",
+            "Name": "Muralidhar Goud"
+        },
+        {
+            "IMDB_ID": "nm9855570",
+            "Name": "Govind"
+        },
+        {
+            "IMDB_ID": "nm9855629",
+            "Name": "Hari"
+        },
+        {
+            "IMDB_ID": "nm5249562",
+            "Name": "Pooja Hegde"
+        },
+        {
+            "IMDB_ID": "nm9855627",
+            "Name": "Kaasulu"
+        },
+        {
+            "IMDB_ID": "nm1960306",
+            "Name": "Rajeev Kanakala"
+        },
+        {
+            "IMDB_ID": "nm6176295",
+            "Name": "Kadambari Kiran"
+        },
+        {
+            "IMDB_ID": "nm9855566",
+            "Name": "Kittayya"
+        },
+        {
+            "IMDB_ID": "nm9366892",
+            "Name": "Krishnamurthy"
+        },
+        {
+            "IMDB_ID": "nm9855569",
+            "Name": "Arun Kumar"
+        },
+        {
+            "IMDB_ID": "nm9855568",
+            "Name": "Raj Kumar"
+        },
+        {
+            "IMDB_ID": "nm9855587",
+            "Name": "Shiva Kumar"
+        },
+        {
+            "IMDB_ID": "nm9855592",
+            "Name": "Vijay Kumar"
+        },
+        {
+            "IMDB_ID": "nm7956654",
+            "Name": "Lakshmikanth"
+        },
+        {
+            "IMDB_ID": "nm9855585",
+            "Name": "Maarkandeyulu"
+        },
+        {
+            "IMDB_ID": "nm9855596",
+            "Name": "Naga Mahesh"
+        },
+        {
+            "IMDB_ID": "nm9855623",
+            "Name": "Mallayya"
+        },
+        {
+            "IMDB_ID": "nm9855609",
+            "Name": "Mallesh"
+        },
+        {
+            "IMDB_ID": "nm9855561",
+            "Name": "Koru Mamidi"
+        },
+        {
+            "IMDB_ID": "nm9855607",
+            "Name": "Ring Mani"
+        },
+        {
+            "IMDB_ID": "nm1351327",
+            "Name": "Nageshwara Rao"
+        },
+        {
+            "IMDB_ID": "nm6200067",
+            "Name": "Jogi Naidu"
+        },
+        {
+            "IMDB_ID": "nm9855631",
+            "Name": "Lakshmi Narayana"
+        },
+        {
+            "IMDB_ID": "nm0621418",
+            "Name": "V.K. Naresh"
+        },
+        {
+            "IMDB_ID": "nm7188724",
+            "Name": "Naveen Neni"
+        },
+        {
+            "IMDB_ID": "nm9855555",
+            "Name": "Poojitha Ponnada"
+        },
+        {
+            "IMDB_ID": "nm7948832",
+            "Name": "Pujita Ponnada"
+        },
+        {
+            "IMDB_ID": "nm9855599",
+            "Name": "Shiva Prasad"
+        },
+        {
+            "IMDB_ID": "nm5182167",
+            "Name": "Prithviraj"
+        },
+        {
+            "IMDB_ID": "nm9855628",
+            "Name": "Puttayya"
+        },
+        {
+            "IMDB_ID": "nm0695177",
+            "Name": "Prakash Raj"
+        },
+        {
+            "IMDB_ID": "nm9855604",
+            "Name": "Rajshekar"
+        },
+        {
+            "IMDB_ID": "nm6571214",
+            "Name": "Jogi Krishnam Raju"
+        },
+        {
+            "IMDB_ID": "nm8752951",
+            "Name": "Ramakrishna"
+        },
+        {
+            "IMDB_ID": "nm9855630",
+            "Name": "Sunkara Rangarao"
+        },
+        {
+            "IMDB_ID": "nm9855574",
+            "Name": "Koteshwara Rao"
+        },
+        {
+            "IMDB_ID": "nm9855575",
+            "Name": "Krishneshwar Rao"
+        },
+        {
+            "IMDB_ID": "nm9855567",
+            "Name": "Muneshwara Rao"
+        },
+        {
+            "IMDB_ID": "nm9855573",
+            "Name": "Narasimha Rao"
+        },
+        {
+            "IMDB_ID": "nm9855564",
+            "Name": "Raghav Rao"
+        },
+        {
+            "IMDB_ID": "nm9855577",
+            "Name": "Venkateshwara Rao"
+        },
+        {
+            "IMDB_ID": "nm6836532",
+            "Name": "Josh Ravi"
+        },
+        {
+            "IMDB_ID": "nm9855621",
+            "Name": "Ravindra"
+        },
+        {
+            "IMDB_ID": "nm9855565",
+            "Name": "Katam Reddy"
+        },
+        {
+            "IMDB_ID": "nm7948045",
+            "Name": "Malla Reddy"
+        },
+        {
+            "IMDB_ID": "nm9855602",
+            "Name": "Narasimha Reddy"
+        },
+        {
+            "IMDB_ID": "nm1094188",
+            "Name": "Rohini"
+        },
+        {
+            "IMDB_ID": "nm4452909",
+            "Name": "Srinivas Rudra"
+        },
+        {
+            "IMDB_ID": "nm9855558",
+            "Name": "Pammi Sai"
+        },
+        {
+            "IMDB_ID": "nm9855605",
+            "Name": "Sri Sai"
+        },
+        {
+            "IMDB_ID": "nm5623923",
+            "Name": "Satya"
+        },
+        {
+            "IMDB_ID": "nm7697392",
+            "Name": "Noel Sean"
+        },
+        {
+            "IMDB_ID": "nm6252873",
+            "Name": "Chandra Sekhar"
+        },
+        {
+            "IMDB_ID": "nm9061355",
+            "Name": "Shaking Seshu"
+        },
+        {
+            "IMDB_ID": "nm9855625",
+            "Name": "Sharath"
+        },
+        {
+            "IMDB_ID": "nm9227040",
+            "Name": "Amit Sharma"
+        },
+        {
+            "IMDB_ID": "nm9061357",
+            "Name": "Shatru"
+        },
+        {
+            "IMDB_ID": "nm9855557",
+            "Name": "Shekhar"
+        },
+        {
+            "IMDB_ID": "nm9855591",
+            "Name": "Shyamala"
+        },
+        {
+            "IMDB_ID": "nm9855610",
+            "Name": "Siddha"
+        },
+        {
+            "IMDB_ID": "nm9855611",
+            "Name": "Srikanth"
+        },
+        {
+            "IMDB_ID": "nm9855603",
+            "Name": "Srinivas"
+        },
+        {
+            "IMDB_ID": "nm9855563",
+            "Name": "Geddam Srinivas"
+        },
+        {
+            "IMDB_ID": "nm9855600",
+            "Name": "Pappu Srinivas"
+        },
+        {
+            "IMDB_ID": "nm9855606",
+            "Name": "Subramanyam"
+        },
+        {
+            "IMDB_ID": "nm9855617",
+            "Name": "Sai Sudheer"
+        },
+        {
+            "IMDB_ID": "nm9855562",
+            "Name": "Sundarayya"
+        },
+        {
+            "IMDB_ID": "nm9855597",
+            "Name": "Pavan Suresh"
+        },
+        {
+            "IMDB_ID": "nm9855608",
+            "Name": "Shiva Surya"
+        },
+        {
+            "IMDB_ID": "nm9855594",
+            "Name": "Teja"
+        },
+        {
+            "IMDB_ID": "nm9855595",
+            "Name": "Pavan Teja"
+        },
+        {
+            "IMDB_ID": "nm9691122",
+            "Name": "Sreenu Get Up"
+        },
+        {
+            "IMDB_ID": "nm9855620",
+            "Name": "Surya Varma"
+        },
+        {
+            "IMDB_ID": "nm9855601",
+            "Name": "Veerendra"
+        },
+        {
+            "IMDB_ID": "nm9855590",
+            "Name": "Venkatesh"
+        },
+        {
+            "IMDB_ID": "nm9855584",
+            "Name": "Rao Venkateshwara"
+        },
+        {
+            "IMDB_ID": "nm9855576",
+            "Name": "Vivek"
+        },
+        {
+            "IMDB_ID": "nm9855556",
+            "Name": "Yaani"
+        },
+        {
+            "IMDB_ID": "nm9855572",
+            "Name": "Swamy Naidu Yerubandhi"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Sukumar"
+    ],
+    "Genre": [
+        "Action",
+        "Drama"
+    ],
+    "Languages": [
+        "Telugu"
+    ],
+    "Name": "Rangasthalam",
+    "Runtime": 170
+}

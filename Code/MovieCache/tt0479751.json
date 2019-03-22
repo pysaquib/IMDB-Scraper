@@ -1,0 +1,273 @@
+{
+    "Bio": "A software engineer comes to India to serve the nation and invest in nation's welfare. A few corrupt officials and politicians try to stop him but he overcomes all obstacles.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0707425",
+            "Name": "Rajinikanth"
+        },
+        {
+            "IMDB_ID": "nm1328152",
+            "Name": "Shriya Saran"
+        },
+        {
+            "IMDB_ID": "nm0838520",
+            "Name": "Suman"
+        },
+        {
+            "IMDB_ID": "nm0900266",
+            "Name": "Vivek"
+        },
+        {
+            "IMDB_ID": "nm3675354",
+            "Name": "Ala Aljundi"
+        },
+        {
+            "IMDB_ID": "nm3280031",
+            "Name": "Amarasigamani"
+        },
+        {
+            "IMDB_ID": "nm4564107",
+            "Name": "Balaji"
+        },
+        {
+            "IMDB_ID": "nm4563986",
+            "Name": "Jemini Balaji"
+        },
+        {
+            "IMDB_ID": "nm2132667",
+            "Name": "M.S. Bhaskar"
+        },
+        {
+            "IMDB_ID": "nm4564130",
+            "Name": "Bobby"
+        },
+        {
+            "IMDB_ID": "nm1428279",
+            "Name": "Chelladurai"
+        },
+        {
+            "IMDB_ID": "nm1232849",
+            "Name": "Chinnijayanth"
+        },
+        {
+            "IMDB_ID": "nm4564096",
+            "Name": "Deepak"
+        },
+        {
+            "IMDB_ID": "nm6370553",
+            "Name": "Bianca Desai"
+        },
+        {
+            "IMDB_ID": "nm4564011",
+            "Name": "Deva"
+        },
+        {
+            "IMDB_ID": "nm1750758",
+            "Name": "Dhamu"
+        },
+        {
+            "IMDB_ID": "nm4564157",
+            "Name": "Anantha Gopi"
+        },
+        {
+            "IMDB_ID": "nm0359880",
+            "Name": "Cochin Hanifa"
+        },
+        {
+            "IMDB_ID": "nm4564095",
+            "Name": "Jayadevi"
+        },
+        {
+            "IMDB_ID": "nm4564138",
+            "Name": "Jayaraman"
+        },
+        {
+            "IMDB_ID": "nm3699462",
+            "Name": "Ceri Jerome"
+        },
+        {
+            "IMDB_ID": "nm0437791",
+            "Name": "Kanal Kannan"
+        },
+        {
+            "IMDB_ID": "nm4564022",
+            "Name": "Kadi Kanthasamy"
+        },
+        {
+            "IMDB_ID": "nm4564133",
+            "Name": "Krishnamachari"
+        },
+        {
+            "IMDB_ID": "nm4564104",
+            "Name": "Calcutta Krishnamoorthy"
+        },
+        {
+            "IMDB_ID": "nm0474864",
+            "Name": "Ravi Kumar"
+        },
+        {
+            "IMDB_ID": "nm4564185",
+            "Name": "P.N. Kunju"
+        },
+        {
+            "IMDB_ID": "nm3848836",
+            "Name": "Lakshmanan"
+        },
+        {
+            "IMDB_ID": "nm4563951",
+            "Name": "Master Laksmankumar"
+        },
+        {
+            "IMDB_ID": "nm2152021",
+            "Name": "Livingstone"
+        },
+        {
+            "IMDB_ID": "nm1468299",
+            "Name": "Maghendran"
+        },
+        {
+            "IMDB_ID": "nm0539598",
+            "Name": "Tirlok Malik"
+        },
+        {
+            "IMDB_ID": "nm4563956",
+            "Name": "Malika"
+        },
+        {
+            "IMDB_ID": "nm4564016",
+            "Name": "Bangalore Mani"
+        },
+        {
+            "IMDB_ID": "nm0542478",
+            "Name": "Manivannan"
+        },
+        {
+            "IMDB_ID": "nm4563998",
+            "Name": "T.V. Manivannan"
+        },
+        {
+            "IMDB_ID": "nm1416319",
+            "Name": "Mayilsamy"
+        },
+        {
+            "IMDB_ID": "nm4563954",
+            "Name": "Horlicks Murali"
+        },
+        {
+            "IMDB_ID": "nm1429147",
+            "Name": "Muthukalai"
+        },
+        {
+            "IMDB_ID": "nm1521381",
+            "Name": "Nayanthara"
+        },
+        {
+            "IMDB_ID": "nm2696441",
+            "Name": "Pattimandram Salomon Pappayah"
+        },
+        {
+            "IMDB_ID": "nm2704843",
+            "Name": "Uma Pathmanabhan"
+        },
+        {
+            "IMDB_ID": "nm4563972",
+            "Name": "Kottai Perumal"
+        },
+        {
+            "IMDB_ID": "nm4564148",
+            "Name": "Vaisak Prasath"
+        },
+        {
+            "IMDB_ID": "nm0706499",
+            "Name": "Raghuvaran"
+        },
+        {
+            "IMDB_ID": "nm4564190",
+            "Name": "Karathya Raja"
+        },
+        {
+            "IMDB_ID": "nm2696440",
+            "Name": "Pattimandram Raja"
+        },
+        {
+            "IMDB_ID": "nm4159359",
+            "Name": "Rajasekaran"
+        },
+        {
+            "IMDB_ID": "nm4563949",
+            "Name": "Kajini Rajesh"
+        },
+        {
+            "IMDB_ID": "nm4564178",
+            "Name": "Munnar Rajesh"
+        },
+        {
+            "IMDB_ID": "nm0707997",
+            "Name": "Ramanan"
+        },
+        {
+            "IMDB_ID": "nm3915000",
+            "Name": "Ramji"
+        },
+        {
+            "IMDB_ID": "nm4564031",
+            "Name": "Baksar Ravi"
+        },
+        {
+            "IMDB_ID": "nm0004416",
+            "Name": "Balasubramaniam S.P."
+        },
+        {
+            "IMDB_ID": "nm1146195",
+            "Name": "Samidurai"
+        },
+        {
+            "IMDB_ID": "nm4564147",
+            "Name": "Mayil Samy"
+        },
+        {
+            "IMDB_ID": "nm0788171",
+            "Name": "S. Shankar"
+        },
+        {
+            "IMDB_ID": "nm4564037",
+            "Name": "Sankar Subramaniyam"
+        },
+        {
+            "IMDB_ID": "nm1945112",
+            "Name": "R.C. Sunder"
+        },
+        {
+            "IMDB_ID": "nm2697818",
+            "Name": "Swaminathan"
+        },
+        {
+            "IMDB_ID": "nm2701424",
+            "Name": "Thamu"
+        },
+        {
+            "IMDB_ID": "nm1119913",
+            "Name": "Vadivukkarasi"
+        },
+        {
+            "IMDB_ID": "nm4564184",
+            "Name": "Ela Varsu"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "S. Shankar"
+    ],
+    "Genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Tamil",
+        "Hindi",
+        "English"
+    ],
+    "Name": "Sivaji",
+    "Runtime": 188
+}

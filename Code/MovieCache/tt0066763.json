@@ -1,0 +1,85 @@
+{
+    "Bio": "The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0004435",
+            "Name": "Rajesh Khanna"
+        },
+        {
+            "IMDB_ID": "nm0000821",
+            "Name": "Amitabh Bachchan"
+        },
+        {
+            "IMDB_ID": "nm0764407",
+            "Name": "Sumita Sanyal"
+        },
+        {
+            "IMDB_ID": "nm0219946",
+            "Name": "Ramesh Deo"
+        },
+        {
+            "IMDB_ID": "nm0219947",
+            "Name": "Seema Deo"
+        },
+        {
+            "IMDB_ID": "nm0783996",
+            "Name": "Asit Kumar Sen"
+        },
+        {
+            "IMDB_ID": "nm0222743",
+            "Name": "Dev Kishan"
+        },
+        {
+            "IMDB_ID": "nm0695155",
+            "Name": "Atam Prakash"
+        },
+        {
+            "IMDB_ID": "nm0474931",
+            "Name": "Lalita Kumari"
+        },
+        {
+            "IMDB_ID": "nm1783998",
+            "Name": "Savita"
+        },
+        {
+            "IMDB_ID": "nm0080231",
+            "Name": "Brahm Bhardwaj"
+        },
+        {
+            "IMDB_ID": "nm0348664",
+            "Name": "Gurnam Singh"
+        },
+        {
+            "IMDB_ID": "nm0667985",
+            "Name": "Lalita Pawar"
+        },
+        {
+            "IMDB_ID": "nm0451862",
+            "Name": "Durga Khote"
+        },
+        {
+            "IMDB_ID": "nm0802107",
+            "Name": "Dara Singh"
+        },
+        {
+            "IMDB_ID": "nm0907888",
+            "Name": "Johnny Walker"
+        },
+        {
+            "IMDB_ID": "nm1425570",
+            "Name": "Moolchand"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Hrishikesh Mukherjee"
+    ],
+    "Genre": [
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Anand",
+    "Runtime": 122
+}

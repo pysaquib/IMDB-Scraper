@@ -1,0 +1,67 @@
+{
+    "Bio": "While on the run from goons, a man and his nephew fall for a kidnapper's seductive widow.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1799038",
+            "Name": "Vidya Balan"
+        },
+        {
+            "IMDB_ID": "nm0787462",
+            "Name": "Naseeruddin Shah"
+        },
+        {
+            "IMDB_ID": "nm0451174",
+            "Name": "Arshad Warsi"
+        },
+        {
+            "IMDB_ID": "nm1426805",
+            "Name": "Salman Shahid"
+        },
+        {
+            "IMDB_ID": "nm1300009",
+            "Name": "Adil Hussain"
+        },
+        {
+            "IMDB_ID": "nm0788903",
+            "Name": "Rajesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm3612256",
+            "Name": "Anupama Kumar"
+        },
+        {
+            "IMDB_ID": "nm3769063",
+            "Name": "Gauri Mala"
+        },
+        {
+            "IMDB_ID": "nm3750320",
+            "Name": "Alok Kumar"
+        },
+        {
+            "IMDB_ID": "nm3750231",
+            "Name": "Anisha Bano"
+        },
+        {
+            "IMDB_ID": "nm9241618",
+            "Name": "Rakesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm1198512",
+            "Name": "Jai Singh"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Abhishek Chaubey"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Ishqiya",
+    "Runtime": 118
+}

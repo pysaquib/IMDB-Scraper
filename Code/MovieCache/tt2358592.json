@@ -1,0 +1,47 @@
+{
+    "Bio": "A man suffering from insomnia is tricked into buying a drug, Lucia, that makes his desires come true in his dreams, blurring the line between fantasy and reality.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm4401889",
+            "Name": "Sathish Neenasam"
+        },
+        {
+            "IMDB_ID": "nm4941738",
+            "Name": "Sruthi Hariharan"
+        },
+        {
+            "IMDB_ID": "nm5724719",
+            "Name": "Achyuth Kumar"
+        },
+        {
+            "IMDB_ID": "nm3424525",
+            "Name": "Sabreen Baker"
+        },
+        {
+            "IMDB_ID": "nm5237694",
+            "Name": "Pawan Kumar"
+        },
+        {
+            "IMDB_ID": "nm7894439",
+            "Name": "Ram Manjjonaath"
+        },
+        {
+            "IMDB_ID": "nm6142895",
+            "Name": "Rishab Shetty"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Pawan Kumar"
+    ],
+    "Genre": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+    ],
+    "Languages": [
+        "Kannada"
+    ],
+    "Name": "Lucia",
+    "Runtime": 135
+}

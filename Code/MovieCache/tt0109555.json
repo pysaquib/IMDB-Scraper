@@ -1,0 +1,64 @@
+{
+    "Bio": "Darr is a girl's (Kiran) story caught between one man's (Sunil) love and another man's (Rahul) obsession.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0004487",
+            "Name": "Juhi Chawla"
+        },
+        {
+            "IMDB_ID": "nm0219971",
+            "Name": "Sunny Deol"
+        },
+        {
+            "IMDB_ID": "nm0451321",
+            "Name": "Shah Rukh Khan"
+        },
+        {
+            "IMDB_ID": "nm0451600",
+            "Name": "Anupam Kher"
+        },
+        {
+            "IMDB_ID": "nm0044343",
+            "Name": "Tanvi Azmi"
+        },
+        {
+            "IMDB_ID": "nm1275889",
+            "Name": "Raj Hans"
+        },
+        {
+            "IMDB_ID": "nm0438465",
+            "Name": "Annu Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1025299",
+            "Name": "Neena Softa"
+        },
+        {
+            "IMDB_ID": "nm2552323",
+            "Name": "Piloo J. Wadia"
+        },
+        {
+            "IMDB_ID": "nm0025630",
+            "Name": "Vikas Anand"
+        },
+        {
+            "IMDB_ID": "nm0846681",
+            "Name": "Dalip Tahil"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Yash Chopra"
+    ],
+    "Genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "Languages": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Darr",
+    "Runtime": 178
+}

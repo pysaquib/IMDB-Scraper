@@ -1,0 +1,111 @@
+{
+    "Bio": "A 16th century prince falls in love with a court dancer and battles with his emperor father.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0004432",
+            "Name": "Prithviraj Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0534870",
+            "Name": "Madhubala"
+        },
+        {
+            "IMDB_ID": "nm0474801",
+            "Name": "Dilip Kumar"
+        },
+        {
+            "IMDB_ID": "nm0451862",
+            "Name": "Durga Khote"
+        },
+        {
+            "IMDB_ID": "nm0631416",
+            "Name": "Nigar Sultana"
+        },
+        {
+            "IMDB_ID": "nm0015000",
+            "Name": "Ajit"
+        },
+        {
+            "IMDB_ID": "nm0474828",
+            "Name": "M. Kumar"
+        },
+        {
+            "IMDB_ID": "nm0613407",
+            "Name": "Murad"
+        },
+        {
+            "IMDB_ID": "nm1402789",
+            "Name": "Jilloo Maa"
+        },
+        {
+            "IMDB_ID": "nm1171301",
+            "Name": "Vijayalaxmi"
+        },
+        {
+            "IMDB_ID": "nm0623428",
+            "Name": "S. Nazir"
+        },
+        {
+            "IMDB_ID": "nm0216592",
+            "Name": "Sheela Delaya"
+        },
+        {
+            "IMDB_ID": "nm0839586",
+            "Name": "Surendra"
+        },
+        {
+            "IMDB_ID": "nm0907888",
+            "Name": "Johnny Walker"
+        },
+        {
+            "IMDB_ID": "nm0013026",
+            "Name": "Jalal Agha"
+        },
+        {
+            "IMDB_ID": "nm0045141",
+            "Name": "Tabassum"
+        },
+        {
+            "IMDB_ID": "nm0471438",
+            "Name": "Gopi Krishna"
+        },
+        {
+            "IMDB_ID": "nm8303202",
+            "Name": "Sheila Dalaya"
+        },
+        {
+            "IMDB_ID": "nm1189751",
+            "Name": "Jago"
+        },
+        {
+            "IMDB_ID": "nm1517720",
+            "Name": "Khurshid Khan"
+        },
+        {
+            "IMDB_ID": "nm1694044",
+            "Name": "Khanna"
+        },
+        {
+            "IMDB_ID": "nm0754775",
+            "Name": "Khwaja Sabir"
+        },
+        {
+            "IMDB_ID": "nm0788899",
+            "Name": "Paul Sharma"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "K. Asif"
+    ],
+    "Genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "Languages": [
+        "Urdu"
+    ],
+    "Name": "Mughal-E-Azam",
+    "Runtime": 197
+}

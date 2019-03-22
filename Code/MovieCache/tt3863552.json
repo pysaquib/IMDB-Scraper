@@ -1,0 +1,516 @@
+{
+    "Bio": "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0006795",
+            "Name": "Salman Khan"
+        },
+        {
+            "IMDB_ID": "nm7372970",
+            "Name": "Harshaali Malhotra"
+        },
+        {
+            "IMDB_ID": "nm1596350",
+            "Name": "Nawazuddin Siddiqui"
+        },
+        {
+            "IMDB_ID": "nm0004626",
+            "Name": "Kareena Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0768296",
+            "Name": "Sharat Saxena"
+        },
+        {
+            "IMDB_ID": "nm7478179",
+            "Name": "Alka Badola Kaushal"
+        },
+        {
+            "IMDB_ID": "nm0700875",
+            "Name": "Om Puri"
+        },
+        {
+            "IMDB_ID": "nm2016476",
+            "Name": "Meher Vij"
+        },
+        {
+            "IMDB_ID": "nm0788903",
+            "Name": "Rajesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm6661769",
+            "Name": "Mir Sarwar"
+        },
+        {
+            "IMDB_ID": "nm9171688",
+            "Name": "Khushaal Pawar"
+        },
+        {
+            "IMDB_ID": "nm4443385",
+            "Name": "Krunal Pandit"
+        },
+        {
+            "IMDB_ID": "nm3438304",
+            "Name": "Manoj Bakshi"
+        },
+        {
+            "IMDB_ID": "nm8013346",
+            "Name": "Mursaleem Qureshi"
+        },
+        {
+            "IMDB_ID": "nm7916018",
+            "Name": "Yudhvir Dahiya"
+        },
+        {
+            "IMDB_ID": "nm0451152",
+            "Name": "Adnan Sami"
+        },
+        {
+            "IMDB_ID": "nm3547329",
+            "Name": "Sunil Chitkara"
+        },
+        {
+            "IMDB_ID": "nm0044339",
+            "Name": "Habib Azmi"
+        },
+        {
+            "IMDB_ID": "nm9171684",
+            "Name": "Kamal Awasthi"
+        },
+        {
+            "IMDB_ID": "nm4563323",
+            "Name": "Uday Atrolia"
+        },
+        {
+            "IMDB_ID": "nm1937218",
+            "Name": "Darshan Aulakh"
+        },
+        {
+            "IMDB_ID": "nm9171657",
+            "Name": "Azad"
+        },
+        {
+            "IMDB_ID": "nm7823633",
+            "Name": "Bhuvan Azad"
+        },
+        {
+            "IMDB_ID": "nm5700459",
+            "Name": "Dimple Bagroy"
+        },
+        {
+            "IMDB_ID": "nm9093959",
+            "Name": "Bhawani Muzamil"
+        },
+        {
+            "IMDB_ID": "nm3919952",
+            "Name": "Shahnawaz Bhat"
+        },
+        {
+            "IMDB_ID": "nm9171691",
+            "Name": "Ishant Bhanushli"
+        },
+        {
+            "IMDB_ID": "nm7805704",
+            "Name": "Babul Bhavsar"
+        },
+        {
+            "IMDB_ID": "nm9171683",
+            "Name": "Sonia Chaudhary"
+        },
+        {
+            "IMDB_ID": "nm9171667",
+            "Name": "Rashi Gupta Vikram Chauhan"
+        },
+        {
+            "IMDB_ID": "nm9171687",
+            "Name": "Abdul Wahid Chisti"
+        },
+        {
+            "IMDB_ID": "nm9171669",
+            "Name": "Nivya Chemburkar"
+        },
+        {
+            "IMDB_ID": "nm9171673",
+            "Name": "Somnath Chauhan"
+        },
+        {
+            "IMDB_ID": "nm3124687",
+            "Name": "Bharat Kumar Dhingra"
+        },
+        {
+            "IMDB_ID": "nm5817344",
+            "Name": "Singh Dhananjay"
+        },
+        {
+            "IMDB_ID": "nm9171651",
+            "Name": "Ghulam Din"
+        },
+        {
+            "IMDB_ID": "nm8413604",
+            "Name": "Helena Fonseca"
+        },
+        {
+            "IMDB_ID": "nm9083545",
+            "Name": "Alok Gagdekar"
+        },
+        {
+            "IMDB_ID": "nm9171703",
+            "Name": "Imran Farooq Gani"
+        },
+        {
+            "IMDB_ID": "nm5010331",
+            "Name": "Kamlesh Gill"
+        },
+        {
+            "IMDB_ID": "nm7800477",
+            "Name": "Rawat Dev Goswami"
+        },
+        {
+            "IMDB_ID": "nm9171659",
+            "Name": "Grish"
+        },
+        {
+            "IMDB_ID": "nm7915649",
+            "Name": "Shveta Grover"
+        },
+        {
+            "IMDB_ID": "nm9171681",
+            "Name": "Hazel Gupta"
+        },
+        {
+            "IMDB_ID": "nm9171674",
+            "Name": "Manish Raj Gupta"
+        },
+        {
+            "IMDB_ID": "nm5535147",
+            "Name": "Sanjeev Jaiswal"
+        },
+        {
+            "IMDB_ID": "nm9113077",
+            "Name": "Pradeep Jangid"
+        },
+        {
+            "IMDB_ID": "nm9171676",
+            "Name": "Jimmy"
+        },
+        {
+            "IMDB_ID": "nm9171665",
+            "Name": "Sujata Jog"
+        },
+        {
+            "IMDB_ID": "nm4556340",
+            "Name": "Jeet Kaur"
+        },
+        {
+            "IMDB_ID": "nm9171672",
+            "Name": "Sharvjeet Kaur"
+        },
+        {
+            "IMDB_ID": "nm4193741",
+            "Name": "Rajan Kavrata"
+        },
+        {
+            "IMDB_ID": "nm9171670",
+            "Name": "Akshay Keswani"
+        },
+        {
+            "IMDB_ID": "nm9171702",
+            "Name": "Javed Ahamad Khan"
+        },
+        {
+            "IMDB_ID": "nm6909983",
+            "Name": "Najeem Khan"
+        },
+        {
+            "IMDB_ID": "nm2520617",
+            "Name": "Ravi Khanna"
+        },
+        {
+            "IMDB_ID": "nm0456096",
+            "Name": "Usha Kiran"
+        },
+        {
+            "IMDB_ID": "nm8567991",
+            "Name": "Kashvi Kothari"
+        },
+        {
+            "IMDB_ID": "nm3651657",
+            "Name": "Shahid Afridi"
+        },
+        {
+            "IMDB_ID": "nm9171690",
+            "Name": "Yuvraaj Bajwa"
+        },
+        {
+            "IMDB_ID": "nm8295122",
+            "Name": "Yuvraj Singh Bajwa"
+        },
+        {
+            "IMDB_ID": "nm9171692",
+            "Name": "Harish Chauhan Banchta"
+        },
+        {
+            "IMDB_ID": "nm2323513",
+            "Name": "Rajesh Barsewal"
+        },
+        {
+            "IMDB_ID": "nm9171701",
+            "Name": "Bilal Ahamad Bhagat"
+        },
+        {
+            "IMDB_ID": "nm6891886",
+            "Name": "Aman Kumar"
+        },
+        {
+            "IMDB_ID": "nm9001166",
+            "Name": "Aneesh Kumar"
+        },
+        {
+            "IMDB_ID": "nm9171654",
+            "Name": "Manoj Kumar"
+        },
+        {
+            "IMDB_ID": "nm9171671",
+            "Name": "Yash Kumar"
+        },
+        {
+            "IMDB_ID": "nm9171649",
+            "Name": "Bashir Lone"
+        },
+        {
+            "IMDB_ID": "nm9171704",
+            "Name": "Showkat Magray"
+        },
+        {
+            "IMDB_ID": "nm9171706",
+            "Name": "Karan Mehat"
+        },
+        {
+            "IMDB_ID": "nm9171705",
+            "Name": "Arshin Mehta"
+        },
+        {
+            "IMDB_ID": "nm9171664",
+            "Name": "Umesh Kumar Mihani"
+        },
+        {
+            "IMDB_ID": "nm2035601",
+            "Name": "Janardhan Mishra"
+        },
+        {
+            "IMDB_ID": "nm2577046",
+            "Name": "Mohd"
+        },
+        {
+            "IMDB_ID": "nm9171700",
+            "Name": "Tahi Ahamad Nagar"
+        },
+        {
+            "IMDB_ID": "nm9028639",
+            "Name": "Prasoon Narayan"
+        },
+        {
+            "IMDB_ID": "nm9171682",
+            "Name": "Tania Narula"
+        },
+        {
+            "IMDB_ID": "nm9171660",
+            "Name": "Tofik Niraj"
+        },
+        {
+            "IMDB_ID": "nm9171707",
+            "Name": "Chand Nizami"
+        },
+        {
+            "IMDB_ID": "nm9171708",
+            "Name": "Shadab Nizami"
+        },
+        {
+            "IMDB_ID": "nm9171709",
+            "Name": "Sohrab Nizami"
+        },
+        {
+            "IMDB_ID": "nm8510817",
+            "Name": "Sagar Pandey"
+        },
+        {
+            "IMDB_ID": "nm9171666",
+            "Name": "Gopal Krishna Pandit"
+        },
+        {
+            "IMDB_ID": "nm7932517",
+            "Name": "Sahil Patel"
+        },
+        {
+            "IMDB_ID": "nm9171668",
+            "Name": "Surendra Prasad"
+        },
+        {
+            "IMDB_ID": "nm9171648",
+            "Name": "Sunita Raina"
+        },
+        {
+            "IMDB_ID": "nm9171661",
+            "Name": "Rajkumar"
+        },
+        {
+            "IMDB_ID": "nm9171662",
+            "Name": "Raju"
+        },
+        {
+            "IMDB_ID": "nm8498092",
+            "Name": "Abdul Rashid"
+        },
+        {
+            "IMDB_ID": "nm9360449",
+            "Name": "Ansh Rathore"
+        },
+        {
+            "IMDB_ID": "nm9171658",
+            "Name": "Sabhir Ravinder"
+        },
+        {
+            "IMDB_ID": "nm4430842",
+            "Name": "Sunil Saraswat"
+        },
+        {
+            "IMDB_ID": "nm7943212",
+            "Name": "Abhimanyu Sarkar"
+        },
+        {
+            "IMDB_ID": "nm9171699",
+            "Name": "Manzoor Shah"
+        },
+        {
+            "IMDB_ID": "nm9171698",
+            "Name": "Maqbool Shah"
+        },
+        {
+            "IMDB_ID": "nm6487252",
+            "Name": "Mohommed Ali Shah"
+        },
+        {
+            "IMDB_ID": "nm3870124",
+            "Name": "Imran Shaikh"
+        },
+        {
+            "IMDB_ID": "nm4482784",
+            "Name": "Tasleem Shaikh"
+        },
+        {
+            "IMDB_ID": "nm9171686",
+            "Name": "Mohammed Shakir"
+        },
+        {
+            "IMDB_ID": "nm5401097",
+            "Name": "Abhishek Sharma"
+        },
+        {
+            "IMDB_ID": "nm9171689",
+            "Name": "Kunal Sharma"
+        },
+        {
+            "IMDB_ID": "nm9171656",
+            "Name": "Raj Sharma"
+        },
+        {
+            "IMDB_ID": "nm9171678",
+            "Name": "Kamal Shera"
+        },
+        {
+            "IMDB_ID": "nm2193087",
+            "Name": "Sunita Shirole"
+        },
+        {
+            "IMDB_ID": "nm4558245",
+            "Name": "Ashok Shivpuri"
+        },
+        {
+            "IMDB_ID": "nm9171655",
+            "Name": "Arush Shukla"
+        },
+        {
+            "IMDB_ID": "nm1427076",
+            "Name": "Shilpa Shukla"
+        },
+        {
+            "IMDB_ID": "nm9171677",
+            "Name": "Guru Shankar Singh"
+        },
+        {
+            "IMDB_ID": "nm6998032",
+            "Name": "Harsh Singh"
+        },
+        {
+            "IMDB_ID": "nm9171685",
+            "Name": "Pawan Singh"
+        },
+        {
+            "IMDB_ID": "nm5514899",
+            "Name": "Vikrant Singh"
+        },
+        {
+            "IMDB_ID": "nm1594666",
+            "Name": "Atul Srivastava"
+        },
+        {
+            "IMDB_ID": "nm7110235",
+            "Name": "Rohit Tada"
+        },
+        {
+            "IMDB_ID": "nm9171675",
+            "Name": "Karan Tamboli"
+        },
+        {
+            "IMDB_ID": "nm9171663",
+            "Name": "Tasleem"
+        },
+        {
+            "IMDB_ID": "nm9171652",
+            "Name": "Teji"
+        },
+        {
+            "IMDB_ID": "nm7555789",
+            "Name": "Chandraprakash Thakur"
+        },
+        {
+            "IMDB_ID": "nm9171680",
+            "Name": "Kartikesh Thakur"
+        },
+        {
+            "IMDB_ID": "nm8350839",
+            "Name": "Neel Tyagi"
+        },
+        {
+            "IMDB_ID": "nm9171653",
+            "Name": "Omprakash Upadhyay"
+        },
+        {
+            "IMDB_ID": "nm9171679",
+            "Name": "Khemchand Verma"
+        },
+        {
+            "IMDB_ID": "nm9171650",
+            "Name": "Rayees Rashid Wathoori"
+        },
+        {
+            "IMDB_ID": "nm9093958",
+            "Name": "Bhavani Bashir Yasir"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Kabir Khan"
+    ],
+    "Genre": [
+        "Action",
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "Urdu"
+    ],
+    "Name": "Bajrangi Bhaijaan",
+    "Runtime": 163
+}

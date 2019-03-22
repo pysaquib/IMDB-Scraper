@@ -1,0 +1,216 @@
+{
+    "Bio": "When Iraq invades Kuwait in August, 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0474774",
+            "Name": "Akshay Kumar"
+        },
+        {
+            "IMDB_ID": "nm1909661",
+            "Name": "Nimrat Kaur"
+        },
+        {
+            "IMDB_ID": "nm1122912",
+            "Name": "Kumud Mishra"
+        },
+        {
+            "IMDB_ID": "nm5787869",
+            "Name": "Prakash Belawadi"
+        },
+        {
+            "IMDB_ID": "nm4189429",
+            "Name": "Inaamulhaq"
+        },
+        {
+            "IMDB_ID": "nm2445419",
+            "Name": "Lena"
+        },
+        {
+            "IMDB_ID": "nm0451281",
+            "Name": "Nissar Khan"
+        },
+        {
+            "IMDB_ID": "nm1011408",
+            "Name": "Ninad Kamat"
+        },
+        {
+            "IMDB_ID": "nm0467868",
+            "Name": "Kaizaad Kotwal"
+        },
+        {
+            "IMDB_ID": "nm3092039",
+            "Name": "Feryna Wazheir"
+        },
+        {
+            "IMDB_ID": "nm6455556",
+            "Name": "Ajay Kumar"
+        },
+        {
+            "IMDB_ID": "nm1327322",
+            "Name": "Purab Kohli"
+        },
+        {
+            "IMDB_ID": "nm7178571",
+            "Name": "Gunjan Malhotra"
+        },
+        {
+            "IMDB_ID": "nm6845053",
+            "Name": "Pooja Nair"
+        },
+        {
+            "IMDB_ID": "nm2712038",
+            "Name": "Taranjit Kaur"
+        },
+        {
+            "IMDB_ID": "nm8379639",
+            "Name": "Ajay Arya"
+        },
+        {
+            "IMDB_ID": "nm0318622",
+            "Name": "Avtar Gill"
+        },
+        {
+            "IMDB_ID": "nm1428293",
+            "Name": "Pawan Chopra"
+        },
+        {
+            "IMDB_ID": "nm0050187",
+            "Name": "Arun Bali"
+        },
+        {
+            "IMDB_ID": "nm0657184",
+            "Name": "Surendra Pal"
+        },
+        {
+            "IMDB_ID": "nm7874596",
+            "Name": "Adiba Hussain"
+        },
+        {
+            "IMDB_ID": "nm8379640",
+            "Name": "Ritika Badiani"
+        },
+        {
+            "IMDB_ID": "nm8379641",
+            "Name": "Tvisha Bhavin Chopra"
+        },
+        {
+            "IMDB_ID": "nm8379642",
+            "Name": "Jiyaara Pitalia"
+        },
+        {
+            "IMDB_ID": "nm8379643",
+            "Name": "Masood Ahmed"
+        },
+        {
+            "IMDB_ID": "nm8379644",
+            "Name": "Kamal Karamchandani"
+        },
+        {
+            "IMDB_ID": "nm8379645",
+            "Name": "Jashan Singh Kohli"
+        },
+        {
+            "IMDB_ID": "nm3166643",
+            "Name": "Jennifer Mistry Bansiwal"
+        },
+        {
+            "IMDB_ID": "nm1586516",
+            "Name": "Bachan Pachehra"
+        },
+        {
+            "IMDB_ID": "nm8146462",
+            "Name": "Harshad Kumar"
+        },
+        {
+            "IMDB_ID": "nm7818532",
+            "Name": "Ahtesham Hussain"
+        },
+        {
+            "IMDB_ID": "nm8379647",
+            "Name": "M.G. Radhakrishnana"
+        },
+        {
+            "IMDB_ID": "nm8379648",
+            "Name": "Ruby Kushwah"
+        },
+        {
+            "IMDB_ID": "nm3054406",
+            "Name": "Jaiveer"
+        },
+        {
+            "IMDB_ID": "nm7928893",
+            "Name": "Kapil Punjabi"
+        },
+        {
+            "IMDB_ID": "nm8379649",
+            "Name": "Uday Bhardwaj"
+        },
+        {
+            "IMDB_ID": "nm1616785",
+            "Name": "Rajesh Jais"
+        },
+        {
+            "IMDB_ID": "nm1693210",
+            "Name": "Sanjay Bhatia"
+        },
+        {
+            "IMDB_ID": "nm7545875",
+            "Name": "Abhijit Bhor"
+        },
+        {
+            "IMDB_ID": "nm4718913",
+            "Name": "Aaradhna Uppal"
+        },
+        {
+            "IMDB_ID": "nm5650997",
+            "Name": "Shekhar Shukla"
+        },
+        {
+            "IMDB_ID": "nm4366664",
+            "Name": "Narendra Jetley"
+        },
+        {
+            "IMDB_ID": "nm4113243",
+            "Name": "Karim Hajee"
+        },
+        {
+            "IMDB_ID": "nm8719360",
+            "Name": "Parveen Kaur"
+        },
+        {
+            "IMDB_ID": "nm6040403",
+            "Name": "Sameer Ali Khan"
+        },
+        {
+            "IMDB_ID": "nm7648624",
+            "Name": "Ratnesh Mani"
+        },
+        {
+            "IMDB_ID": "nm4316542",
+            "Name": "Udai Singh Pawar"
+        },
+        {
+            "IMDB_ID": "nm8475179",
+            "Name": "Rockey Raina"
+        },
+        {
+            "IMDB_ID": "nm1252093",
+            "Name": "Robert Lang"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Raja Menon"
+    ],
+    "Genre": [
+        "Drama",
+        "History"
+    ],
+    "Languages": [
+        "Hindi",
+        "Malayalam",
+        "Arabic"
+    ],
+    "Name": "Airlift",
+    "Runtime": 130
+}

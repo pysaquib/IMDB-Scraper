@@ -1,0 +1,380 @@
+{
+    "Bio": "The film explores questions of identity, justice, beauty, meaning and death through an experimental photographer, an ailing monk and a young stockbroker.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3733098",
+            "Name": "Aida Elkashef"
+        },
+        {
+            "IMDB_ID": "nm6814353",
+            "Name": "Yogesh Shah"
+        },
+        {
+            "IMDB_ID": "nm3822917",
+            "Name": "Faraz Khan"
+        },
+        {
+            "IMDB_ID": "nm6814354",
+            "Name": "Hannan Youssef"
+        },
+        {
+            "IMDB_ID": "nm6814355",
+            "Name": "Narendra Shah"
+        },
+        {
+            "IMDB_ID": "nm6814356",
+            "Name": "Chitra Shah"
+        },
+        {
+            "IMDB_ID": "nm6814357",
+            "Name": "Manan Shah"
+        },
+        {
+            "IMDB_ID": "nm6814358",
+            "Name": "Aishwarya"
+        },
+        {
+            "IMDB_ID": "nm6814359",
+            "Name": "Balaji Janardhan"
+        },
+        {
+            "IMDB_ID": "nm6814360",
+            "Name": "Abbas K."
+        },
+        {
+            "IMDB_ID": "nm6814361",
+            "Name": "Bharat Pardesi"
+        },
+        {
+            "IMDB_ID": "nm6814362",
+            "Name": "Pradeep Sinha"
+        },
+        {
+            "IMDB_ID": "nm6814363",
+            "Name": "Akhtar Bhale"
+        },
+        {
+            "IMDB_ID": "nm1628647",
+            "Name": "Sidharth Meer"
+        },
+        {
+            "IMDB_ID": "nm6814364",
+            "Name": "Bonnie Chenevier"
+        },
+        {
+            "IMDB_ID": "nm6814365",
+            "Name": "Vivek Manek"
+        },
+        {
+            "IMDB_ID": "nm4501231",
+            "Name": "Megha Ramaswamy"
+        },
+        {
+            "IMDB_ID": "nm6814366",
+            "Name": "Wendy Gracias"
+        },
+        {
+            "IMDB_ID": "nm6814367",
+            "Name": "Orlando Gracias"
+        },
+        {
+            "IMDB_ID": "nm6814368",
+            "Name": "Kalist Cardoza"
+        },
+        {
+            "IMDB_ID": "nm1794424",
+            "Name": "Krishna Bansal"
+        },
+        {
+            "IMDB_ID": "nm4120169",
+            "Name": "R.N. Shukla"
+        },
+        {
+            "IMDB_ID": "nm4616691",
+            "Name": "Divya Bhatia"
+        },
+        {
+            "IMDB_ID": "nm3171953",
+            "Name": "Maxima Basu"
+        },
+        {
+            "IMDB_ID": "nm6814369",
+            "Name": "Maysoon El Masry"
+        },
+        {
+            "IMDB_ID": "nm4173131",
+            "Name": "Neeraj Kabi"
+        },
+        {
+            "IMDB_ID": "nm2946730",
+            "Name": "Vinay Shukla"
+        },
+        {
+            "IMDB_ID": "nm4639483",
+            "Name": "Jeetu Yadav"
+        },
+        {
+            "IMDB_ID": "nm4171349",
+            "Name": "Sunip Sen"
+        },
+        {
+            "IMDB_ID": "nm6814370",
+            "Name": "K.G. Munshi"
+        },
+        {
+            "IMDB_ID": "nm6814371",
+            "Name": "Kinnari Ramanathan"
+        },
+        {
+            "IMDB_ID": "nm6814372",
+            "Name": "Sachin Pandey"
+        },
+        {
+            "IMDB_ID": "nm2504589",
+            "Name": "Deepak Desai"
+        },
+        {
+            "IMDB_ID": "nm6814373",
+            "Name": "Bhumika Busa"
+        },
+        {
+            "IMDB_ID": "nm6814374",
+            "Name": "Amit Shah"
+        },
+        {
+            "IMDB_ID": "nm1687108",
+            "Name": "Vipul Binjola"
+        },
+        {
+            "IMDB_ID": "nm1982018",
+            "Name": "Manoj Shah"
+        },
+        {
+            "IMDB_ID": "nm6814375",
+            "Name": "Praful Gandhi"
+        },
+        {
+            "IMDB_ID": "nm6007406",
+            "Name": "Kuldeep Mamania"
+        },
+        {
+            "IMDB_ID": "nm6814376",
+            "Name": "Umarshi Dedhia"
+        },
+        {
+            "IMDB_ID": "nm4190866",
+            "Name": "Mahendra Shrivas"
+        },
+        {
+            "IMDB_ID": "nm6814378",
+            "Name": "Shahdat Ikram"
+        },
+        {
+            "IMDB_ID": "nm6814379",
+            "Name": "Subhash"
+        },
+        {
+            "IMDB_ID": "nm6814380",
+            "Name": "Rohit Mokariya"
+        },
+        {
+            "IMDB_ID": "nm6814381",
+            "Name": "Yagya Saxena"
+        },
+        {
+            "IMDB_ID": "nm6814382",
+            "Name": "Jayshree Gandhi"
+        },
+        {
+            "IMDB_ID": "nm6814383",
+            "Name": "Jyotsna Bhayani"
+        },
+        {
+            "IMDB_ID": "nm6814384",
+            "Name": "Bhayani"
+        },
+        {
+            "IMDB_ID": "nm6814385",
+            "Name": "Alka Desai"
+        },
+        {
+            "IMDB_ID": "nm6814386",
+            "Name": "Amita Mamaniya"
+        },
+        {
+            "IMDB_ID": "nm6269900",
+            "Name": "Khushbu Shah"
+        },
+        {
+            "IMDB_ID": "nm4174990",
+            "Name": "Ramnik Parekh"
+        },
+        {
+            "IMDB_ID": "nm6814388",
+            "Name": "Ragini Sen"
+        },
+        {
+            "IMDB_ID": "nm6814389",
+            "Name": "Dinkerrai Mehta"
+        },
+        {
+            "IMDB_ID": "nm6814390",
+            "Name": "Manav"
+        },
+        {
+            "IMDB_ID": "nm6814391",
+            "Name": "Aswani"
+        },
+        {
+            "IMDB_ID": "nm6814392",
+            "Name": "Preeti"
+        },
+        {
+            "IMDB_ID": "nm6814393",
+            "Name": "Krishna"
+        },
+        {
+            "IMDB_ID": "nm6814394",
+            "Name": "Vijay"
+        },
+        {
+            "IMDB_ID": "nm5852405",
+            "Name": "Swathi"
+        },
+        {
+            "IMDB_ID": "nm6814396",
+            "Name": "Santosh"
+        },
+        {
+            "IMDB_ID": "nm4208364",
+            "Name": "Arushi Nayar"
+        },
+        {
+            "IMDB_ID": "nm6814397",
+            "Name": "Neelam Pathania"
+        },
+        {
+            "IMDB_ID": "nm6814398",
+            "Name": "Maya"
+        },
+        {
+            "IMDB_ID": "nm3630374",
+            "Name": "Sohum Shah"
+        },
+        {
+            "IMDB_ID": "nm4173234",
+            "Name": "Sameer Khurana"
+        },
+        {
+            "IMDB_ID": "nm6814399",
+            "Name": "Arun Doshi"
+        },
+        {
+            "IMDB_ID": "nm3613184",
+            "Name": "Amba Sanyal"
+        },
+        {
+            "IMDB_ID": "nm6814400",
+            "Name": "Bhagwan 'Raju' Mahato"
+        },
+        {
+            "IMDB_ID": "nm6814401",
+            "Name": "Christina Zakiesato"
+        },
+        {
+            "IMDB_ID": "nm6814402",
+            "Name": "Mukhtiyar Ali"
+        },
+        {
+            "IMDB_ID": "nm1100902",
+            "Name": "Paromita Vohra"
+        },
+        {
+            "IMDB_ID": "nm2259446",
+            "Name": "Rakesh Yadav"
+        },
+        {
+            "IMDB_ID": "nm6814403",
+            "Name": "Damyanti Trivedi"
+        },
+        {
+            "IMDB_ID": "nm1693210",
+            "Name": "Sanjay Bhatia"
+        },
+        {
+            "IMDB_ID": "nm3374253",
+            "Name": "Madhavi Juvekar"
+        },
+        {
+            "IMDB_ID": "nm3304442",
+            "Name": "Yashwant Wasnik"
+        },
+        {
+            "IMDB_ID": "nm1688965",
+            "Name": "Rupesh Tillu"
+        },
+        {
+            "IMDB_ID": "nm1344135",
+            "Name": "Mats Qvistr\u00f6m"
+        },
+        {
+            "IMDB_ID": "nm2689481",
+            "Name": "Efva-Wiktoria Rodell"
+        },
+        {
+            "IMDB_ID": "nm6814404",
+            "Name": "Emma Gilljam"
+        },
+        {
+            "IMDB_ID": "nm2805503",
+            "Name": "Khushboo Ranka"
+        },
+        {
+            "IMDB_ID": "nm6595925",
+            "Name": "Siddharth Singh Tiwari"
+        },
+        {
+            "IMDB_ID": "nm6814406",
+            "Name": "K.P. Ramanadham"
+        },
+        {
+            "IMDB_ID": "nm6814407",
+            "Name": "Prince"
+        },
+        {
+            "IMDB_ID": "nm6814408",
+            "Name": "Vikram Singh"
+        },
+        {
+            "IMDB_ID": "nm6814409",
+            "Name": "Rekha Bhimani"
+        },
+        {
+            "IMDB_ID": "nm6814410",
+            "Name": "Niloufer"
+        },
+        {
+            "IMDB_ID": "nm9204849",
+            "Name": "Saar Kashyap"
+        },
+        {
+            "IMDB_ID": "nm6419824",
+            "Name": "Mattias Pettersson"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Anand Gandhi"
+    ],
+    "Genre": [
+        "Drama"
+    ],
+    "Languages": [
+        "English",
+        "Arabic",
+        "Swedish",
+        "Hindi"
+    ],
+    "Name": "Ship of Theseus",
+    "Runtime": 139
+}

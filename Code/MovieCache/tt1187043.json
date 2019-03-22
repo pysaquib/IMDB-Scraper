@@ -1,0 +1,319 @@
+{
+    "Bio": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0451148",
+            "Name": "Aamir Khan"
+        },
+        {
+            "IMDB_ID": "nm0534856",
+            "Name": "Madhavan"
+        },
+        {
+            "IMDB_ID": "nm0430817",
+            "Name": "Sharman Joshi"
+        },
+        {
+            "IMDB_ID": "nm0004626",
+            "Name": "Kareena Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1224082",
+            "Name": "Boman Irani"
+        },
+        {
+            "IMDB_ID": "nm1437925",
+            "Name": "Omi Vaidya"
+        },
+        {
+            "IMDB_ID": "nm1587175",
+            "Name": "Mona Singh"
+        },
+        {
+            "IMDB_ID": "nm0412917",
+            "Name": "Javed Jaffrey"
+        },
+        {
+            "IMDB_ID": "nm0756378",
+            "Name": "Parikshat Sahni"
+        },
+        {
+            "IMDB_ID": "nm1717985",
+            "Name": "Olivier Lafont"
+        },
+        {
+            "IMDB_ID": "nm2874992",
+            "Name": "Rahul Kumar"
+        },
+        {
+            "IMDB_ID": "nm1030306",
+            "Name": "Amardeep Jha"
+        },
+        {
+            "IMDB_ID": "nm2409254",
+            "Name": "Farida Dadi"
+        },
+        {
+            "IMDB_ID": "nm1569092",
+            "Name": "Mukund Bhatt"
+        },
+        {
+            "IMDB_ID": "nm3760619",
+            "Name": "Chaitali Bose"
+        },
+        {
+            "IMDB_ID": "nm0471389",
+            "Name": "Jayant Kripalani"
+        },
+        {
+            "IMDB_ID": "nm0050187",
+            "Name": "Arun Bali"
+        },
+        {
+            "IMDB_ID": "nm3735902",
+            "Name": "Shoaib Ahmed"
+        },
+        {
+            "IMDB_ID": "nm1081117",
+            "Name": "Dushyant Wagh"
+        },
+        {
+            "IMDB_ID": "nm3736105",
+            "Name": "Pooja Goswami"
+        },
+        {
+            "IMDB_ID": "nm3736095",
+            "Name": "A.S. Duggal"
+        },
+        {
+            "IMDB_ID": "nm3760980",
+            "Name": "Annapurna Kaul"
+        },
+        {
+            "IMDB_ID": "nm3760216",
+            "Name": "R.S. Kodange"
+        },
+        {
+            "IMDB_ID": "nm2522078",
+            "Name": "Dharmendra Bhurji"
+        },
+        {
+            "IMDB_ID": "nm5523586",
+            "Name": "Meghna Bhalla"
+        },
+        {
+            "IMDB_ID": "nm3760945",
+            "Name": "Harvinder Singh"
+        },
+        {
+            "IMDB_ID": "nm5523582",
+            "Name": "Dilshad Edibam"
+        },
+        {
+            "IMDB_ID": "nm3569470",
+            "Name": "Rajeev Ravindranathan"
+        },
+        {
+            "IMDB_ID": "nm3735985",
+            "Name": "Hitesh Tak"
+        },
+        {
+            "IMDB_ID": "nm3735830",
+            "Name": "Rajendra Patwardhan"
+        },
+        {
+            "IMDB_ID": "nm0693027",
+            "Name": "Achyut Potdar"
+        },
+        {
+            "IMDB_ID": "nm3170495",
+            "Name": "Ali Fazal"
+        },
+        {
+            "IMDB_ID": "nm5523580",
+            "Name": "Madhav Vaze"
+        },
+        {
+            "IMDB_ID": "nm2366952",
+            "Name": "Dileep Desai"
+        },
+        {
+            "IMDB_ID": "nm3761675",
+            "Name": "Raghunathan"
+        },
+        {
+            "IMDB_ID": "nm3760746",
+            "Name": "Vaidyanathan"
+        },
+        {
+            "IMDB_ID": "nm3760013",
+            "Name": "Kumar Veer Singh"
+        },
+        {
+            "IMDB_ID": "nm3761084",
+            "Name": "Shailja Dhar"
+        },
+        {
+            "IMDB_ID": "nm3735785",
+            "Name": "Dinesh Kumar"
+        },
+        {
+            "IMDB_ID": "nm3561962",
+            "Name": "Aakash Dabhade"
+        },
+        {
+            "IMDB_ID": "nm3761629",
+            "Name": "Apul Jaisinghani"
+        },
+        {
+            "IMDB_ID": "nm3760590",
+            "Name": "Trilok Sadhwani"
+        },
+        {
+            "IMDB_ID": "nm0592783",
+            "Name": "Akhil Mishra"
+        },
+        {
+            "IMDB_ID": "nm3759949",
+            "Name": "Sonu"
+        },
+        {
+            "IMDB_ID": "nm0864605",
+            "Name": "Atul Tiwari"
+        },
+        {
+            "IMDB_ID": "nm3736093",
+            "Name": "Praful Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm5523618",
+            "Name": "Jalil Parkar"
+        },
+        {
+            "IMDB_ID": "nm4150376",
+            "Name": "Debashish Naha"
+        },
+        {
+            "IMDB_ID": "nm3760397",
+            "Name": "Michael Joseph"
+        },
+        {
+            "IMDB_ID": "nm5523589",
+            "Name": "Smriti"
+        },
+        {
+            "IMDB_ID": "nm1579485",
+            "Name": "Sanjay Sood"
+        },
+        {
+            "IMDB_ID": "nm3736049",
+            "Name": "Dayal Sharma"
+        },
+        {
+            "IMDB_ID": "nm1595330",
+            "Name": "Rakesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm5523624",
+            "Name": "Elihud George"
+        },
+        {
+            "IMDB_ID": "nm3760745",
+            "Name": "Sarvanna"
+        },
+        {
+            "IMDB_ID": "nm3760583",
+            "Name": "Tanveer Ahmed"
+        },
+        {
+            "IMDB_ID": "nm1261460",
+            "Name": "Shankar Sachdev"
+        },
+        {
+            "IMDB_ID": "nm3735943",
+            "Name": "Kishor Patil"
+        },
+        {
+            "IMDB_ID": "nm5523616",
+            "Name": "Insia Lacewalla"
+        },
+        {
+            "IMDB_ID": "nm5523592",
+            "Name": "Keshav Rae"
+        },
+        {
+            "IMDB_ID": "nm5523623",
+            "Name": "Lata Kurdikar"
+        },
+        {
+            "IMDB_ID": "nm5523630",
+            "Name": "Suhas Vaidya"
+        },
+        {
+            "IMDB_ID": "nm2243755",
+            "Name": "Nishi Singh"
+        },
+        {
+            "IMDB_ID": "nm3736034",
+            "Name": "Saurabh Agnihotri"
+        },
+        {
+            "IMDB_ID": "nm3735892",
+            "Name": "Sitaram Sharma"
+        },
+        {
+            "IMDB_ID": "nm5523617",
+            "Name": "Pundit Prayag Raj"
+        },
+        {
+            "IMDB_ID": "nm2138165",
+            "Name": "Supriya Shukla"
+        },
+        {
+            "IMDB_ID": "nm0802165",
+            "Name": "Malvika Singh"
+        },
+        {
+            "IMDB_ID": "nm5523643",
+            "Name": "Tsanwal Namgyal"
+        },
+        {
+            "IMDB_ID": "nm5523590",
+            "Name": "Jigmet Dorjey"
+        },
+        {
+            "IMDB_ID": "nm8087595",
+            "Name": "Freny Bhagat"
+        },
+        {
+            "IMDB_ID": "nm1514271",
+            "Name": "Rohitashv Gour"
+        },
+        {
+            "IMDB_ID": "nm6360246",
+            "Name": "Komal Jha"
+        },
+        {
+            "IMDB_ID": "nm3329873",
+            "Name": "Pitobash"
+        },
+        {
+            "IMDB_ID": "nm4808685",
+            "Name": "Bharat Jha"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Rajkumar Hirani"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "3 Idiots",
+    "Runtime": 170
+}

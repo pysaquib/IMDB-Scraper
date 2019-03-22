@@ -1,0 +1,103 @@
+{
+    "Bio": "A poet (Sanjay Dutt) and his best friend (Salman Khan) fall in love with the same woman (Madhuri Dixit).",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0004569",
+            "Name": "Sanjay Dutt"
+        },
+        {
+            "IMDB_ID": "nm0002043",
+            "Name": "Madhuri Dixit"
+        },
+        {
+            "IMDB_ID": "nm0006795",
+            "Name": "Salman Khan"
+        },
+        {
+            "IMDB_ID": "nm0812252",
+            "Name": "Ekta Sohini"
+        },
+        {
+            "IMDB_ID": "nm0073426",
+            "Name": "Laxmikant Berde"
+        },
+        {
+            "IMDB_ID": "nm0434318",
+            "Name": "Kader Khan"
+        },
+        {
+            "IMDB_ID": "nm0481363",
+            "Name": "Reema Lagoo"
+        },
+        {
+            "IMDB_ID": "nm0030120",
+            "Name": "Anjana Mumtaz"
+        },
+        {
+            "IMDB_ID": "nm0455454",
+            "Name": "Dinesh Hingoo"
+        },
+        {
+            "IMDB_ID": "nm0664109",
+            "Name": "Yunus Parvez"
+        },
+        {
+            "IMDB_ID": "nm1522959",
+            "Name": "Dipinti"
+        },
+        {
+            "IMDB_ID": "nm1227411",
+            "Name": "Raja Duggal"
+        },
+        {
+            "IMDB_ID": "nm1523702",
+            "Name": "Shalaka Karnik"
+        },
+        {
+            "IMDB_ID": "nm0557625",
+            "Name": "Raju Shrestha"
+        },
+        {
+            "IMDB_ID": "nm1525030",
+            "Name": "Poonam Shetty"
+        },
+        {
+            "IMDB_ID": "nm0764669",
+            "Name": "Tej Sapru"
+        },
+        {
+            "IMDB_ID": "nm0025630",
+            "Name": "Vikas Anand"
+        },
+        {
+            "IMDB_ID": "nm1193888",
+            "Name": "Sudhakar Bokade"
+        },
+        {
+            "IMDB_ID": "nm1344039",
+            "Name": "Master Imran"
+        },
+        {
+            "IMDB_ID": "nm0879857",
+            "Name": "Pankaj Udhas"
+        },
+        {
+            "IMDB_ID": "nm2552323",
+            "Name": "Piloo J. Wadia"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Lawrence D'Souza"
+    ],
+    "Genre": [
+        "Drama",
+        "Musical",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Saajan",
+    "Runtime": 181
+}

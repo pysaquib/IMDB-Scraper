@@ -1,0 +1,319 @@
+{
+    "Bio": "A Kashmiri woman agrees to marry a Pakistani army officer in order to spy on Pakistan during the Indo-Pakistan War of 1971.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1017633",
+            "Name": "Alia Bhatt"
+        },
+        {
+            "IMDB_ID": "nm5817249",
+            "Name": "Vicky Kaushal"
+        },
+        {
+            "IMDB_ID": "nm0438496",
+            "Name": "Rajit Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0788918",
+            "Name": "Shishir Sharma"
+        },
+        {
+            "IMDB_ID": "nm2586977",
+            "Name": "Ashwath Bhatt"
+        },
+        {
+            "IMDB_ID": "nm4188433",
+            "Name": "Jaideep Ahlawat"
+        },
+        {
+            "IMDB_ID": "nm0952232",
+            "Name": "Arif Zakaria"
+        },
+        {
+            "IMDB_ID": "nm3035081",
+            "Name": "Amruta Khanvilkar"
+        },
+        {
+            "IMDB_ID": "nm1942776",
+            "Name": "Kanwaljit Singh"
+        },
+        {
+            "IMDB_ID": "nm9835580",
+            "Name": "Aman Vasishth"
+        },
+        {
+            "IMDB_ID": "nm9204679",
+            "Name": "Veer Samra"
+        },
+        {
+            "IMDB_ID": "nm8884640",
+            "Name": "Saloni"
+        },
+        {
+            "IMDB_ID": "nm9960884",
+            "Name": "Deepak Saini"
+        },
+        {
+            "IMDB_ID": "nm9960880",
+            "Name": "Sima Pari"
+        },
+        {
+            "IMDB_ID": "nm1221483",
+            "Name": "Pramod Pathak"
+        },
+        {
+            "IMDB_ID": "nm6931969",
+            "Name": "Sukesh Mishra"
+        },
+        {
+            "IMDB_ID": "nm9556948",
+            "Name": "Dharmik Joysar"
+        },
+        {
+            "IMDB_ID": "nm1030318",
+            "Name": "Jogi Mallang"
+        },
+        {
+            "IMDB_ID": "nm9960881",
+            "Name": "Gulista Alija"
+        },
+        {
+            "IMDB_ID": "nm8624891",
+            "Name": "Ravi Aneja"
+        },
+        {
+            "IMDB_ID": "nm4717800",
+            "Name": "Alok Arora"
+        },
+        {
+            "IMDB_ID": "nm9960904",
+            "Name": "Ajay Arya"
+        },
+        {
+            "IMDB_ID": "nm9322760",
+            "Name": "Khushboo Atre"
+        },
+        {
+            "IMDB_ID": "nm9960879",
+            "Name": "Navdeep Bandhu"
+        },
+        {
+            "IMDB_ID": "nm9960883",
+            "Name": "Kapil Banga"
+        },
+        {
+            "IMDB_ID": "nm9960897",
+            "Name": "Agaaz"
+        },
+        {
+            "IMDB_ID": "nm6123790",
+            "Name": "Pallavi Batra"
+        },
+        {
+            "IMDB_ID": "nm9960901",
+            "Name": "Santhosh Chand"
+        },
+        {
+            "IMDB_ID": "nm2160743",
+            "Name": "Kanika Dang"
+        },
+        {
+            "IMDB_ID": "nm9960908",
+            "Name": "Ishita Dasgupta"
+        },
+        {
+            "IMDB_ID": "nm9960882",
+            "Name": "Desh Deepak"
+        },
+        {
+            "IMDB_ID": "nm7103402",
+            "Name": "Kanishka Singh Deo"
+        },
+        {
+            "IMDB_ID": "nm7860535",
+            "Name": "Amol Deshmukh"
+        },
+        {
+            "IMDB_ID": "nm9017514",
+            "Name": "Nilofar Gesawat"
+        },
+        {
+            "IMDB_ID": "nm5897302",
+            "Name": "Sanjay Gurbaxani"
+        },
+        {
+            "IMDB_ID": "nm9552412",
+            "Name": "Jitender Hooda"
+        },
+        {
+            "IMDB_ID": "nm1616785",
+            "Name": "Rajesh Jais"
+        },
+        {
+            "IMDB_ID": "nm9909820",
+            "Name": "Jairoop Jeevan"
+        },
+        {
+            "IMDB_ID": "nm9960906",
+            "Name": "Vishal Kapoor"
+        },
+        {
+            "IMDB_ID": "nm9960903",
+            "Name": "Midhat Ullah Khan"
+        },
+        {
+            "IMDB_ID": "nm9960893",
+            "Name": "Khushi"
+        },
+        {
+            "IMDB_ID": "nm9960895",
+            "Name": "Kritik"
+        },
+        {
+            "IMDB_ID": "nm9960898",
+            "Name": "Lakshbir"
+        },
+        {
+            "IMDB_ID": "nm9925989",
+            "Name": "Manan Madaan"
+        },
+        {
+            "IMDB_ID": "nm9960889",
+            "Name": "Madhubala"
+        },
+        {
+            "IMDB_ID": "nm9960894",
+            "Name": "Marangel"
+        },
+        {
+            "IMDB_ID": "nm9960890",
+            "Name": "Miren"
+        },
+        {
+            "IMDB_ID": "nm8077479",
+            "Name": "Naman"
+        },
+        {
+            "IMDB_ID": "nm9960878",
+            "Name": "Udit Ohri"
+        },
+        {
+            "IMDB_ID": "nm9960887",
+            "Name": "Saumya Pahwa"
+        },
+        {
+            "IMDB_ID": "nm9960891",
+            "Name": "Parth"
+        },
+        {
+            "IMDB_ID": "nm9960902",
+            "Name": "Manoj Rawat"
+        },
+        {
+            "IMDB_ID": "nm0713618",
+            "Name": "Soni Razdan"
+        },
+        {
+            "IMDB_ID": "nm9960885",
+            "Name": "Syed Rizwan"
+        },
+        {
+            "IMDB_ID": "nm3619019",
+            "Name": "Simran Sachdeva"
+        },
+        {
+            "IMDB_ID": "nm9960909",
+            "Name": "Yogesh Sahotra"
+        },
+        {
+            "IMDB_ID": "nm9960892",
+            "Name": "Seerat"
+        },
+        {
+            "IMDB_ID": "nm9960910",
+            "Name": "Devarashi Shah"
+        },
+        {
+            "IMDB_ID": "nm9775280",
+            "Name": "Adreeja Sharma"
+        },
+        {
+            "IMDB_ID": "nm9960907",
+            "Name": "Pradeep Sharma"
+        },
+        {
+            "IMDB_ID": "nm6366399",
+            "Name": "Vikas Shukla"
+        },
+        {
+            "IMDB_ID": "nm8998462",
+            "Name": "Lovely Sidhu"
+        },
+        {
+            "IMDB_ID": "nm9960888",
+            "Name": "Amy Singh"
+        },
+        {
+            "IMDB_ID": "nm9902408",
+            "Name": "Angad Singh"
+        },
+        {
+            "IMDB_ID": "nm7464979",
+            "Name": "Balendar Singh"
+        },
+        {
+            "IMDB_ID": "nm8035389",
+            "Name": "Harmanpal Singh"
+        },
+        {
+            "IMDB_ID": "nm9045629",
+            "Name": "Hearty Singh"
+        },
+        {
+            "IMDB_ID": "nm8035588",
+            "Name": "Ikkatar Singh"
+        },
+        {
+            "IMDB_ID": "nm2596835",
+            "Name": "Vartika Singh"
+        },
+        {
+            "IMDB_ID": "nm9960896",
+            "Name": "Sukhraj"
+        },
+        {
+            "IMDB_ID": "nm0839634",
+            "Name": "Sanjay Suri"
+        },
+        {
+            "IMDB_ID": "nm3766634",
+            "Name": "Tanish"
+        },
+        {
+            "IMDB_ID": "nm5317125",
+            "Name": "Gurpreet Toti"
+        },
+        {
+            "IMDB_ID": "nm9960886",
+            "Name": "Ankur Tripathi"
+        },
+        {
+            "IMDB_ID": "nm6117653",
+            "Name": "Sundip Ved"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Meghna Gulzar"
+    ],
+    "Genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Raazi",
+    "Runtime": 138
+}

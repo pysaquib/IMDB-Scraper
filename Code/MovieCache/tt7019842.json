@@ -1,0 +1,66 @@
+{
+    "Bio": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past over the course of an evening.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm4043111",
+            "Name": "Vijay Sethupathi"
+        },
+        {
+            "IMDB_ID": "nm1375534",
+            "Name": "Trisha Krishnan"
+        },
+        {
+            "IMDB_ID": "nm9103031",
+            "Name": "Varsha Bollamma"
+        },
+        {
+            "IMDB_ID": "nm1017430",
+            "Name": "Adithya Bhaskar"
+        },
+        {
+            "IMDB_ID": "nm1017430",
+            "Name": "Gouri Kishan"
+        },
+        {
+            "IMDB_ID": "nm2011414",
+            "Name": "Devadarshini Chetan"
+        },
+        {
+            "IMDB_ID": "nm0417301",
+            "Name": "Janagaraj"
+        },
+        {
+            "IMDB_ID": "nm4820548",
+            "Name": "Murugadass"
+        },
+        {
+            "IMDB_ID": "nm5408984",
+            "Name": "Bagavathi Perumal"
+        },
+        {
+            "IMDB_ID": "nm1688033",
+            "Name": "Kavithalaya Krishnan"
+        },
+        {
+            "IMDB_ID": "nm1017431",
+            "Name": "Niyathi Kadambi"
+        },
+        {
+            "IMDB_ID": "nm1017431",
+            "Name": "Shyam Prasad"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "C. Prem Kumar"
+    ],
+    "Genre": [
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Tamil"
+    ],
+    "Name": "96",
+    "Runtime": 158
+}

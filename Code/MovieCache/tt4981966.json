@@ -1,0 +1,80 @@
+{
+    "Bio": "A scientist invents a time machine, which leads to a bitter battle between his evil twin brother and his son.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1421814",
+            "Name": "Suriya"
+        },
+        {
+            "IMDB_ID": "nm3606487",
+            "Name": "Samantha Ruth Prabhu"
+        },
+        {
+            "IMDB_ID": "nm3383930",
+            "Name": "Nithya Menon"
+        },
+        {
+            "IMDB_ID": "nm0764853",
+            "Name": "Saranya Ponvannan"
+        },
+        {
+            "IMDB_ID": "nm2496992",
+            "Name": "Ajay"
+        },
+        {
+            "IMDB_ID": "nm0439784",
+            "Name": "Girish Karnad"
+        },
+        {
+            "IMDB_ID": "nm3561501",
+            "Name": "Sathyan"
+        },
+        {
+            "IMDB_ID": "nm1352754",
+            "Name": "Mohan Ram"
+        },
+        {
+            "IMDB_ID": "nm1706602",
+            "Name": "Charlie"
+        },
+        {
+            "IMDB_ID": "nm4474201",
+            "Name": "Appukutty"
+        },
+        {
+            "IMDB_ID": "nm6678944",
+            "Name": "Sudha"
+        },
+        {
+            "IMDB_ID": "nm6997072",
+            "Name": "Natarajan Balkrishna"
+        },
+        {
+            "IMDB_ID": "nm7487782",
+            "Name": "Caroline Koziol"
+        },
+        {
+            "IMDB_ID": "nm7822396",
+            "Name": "Advaith Ramkumar"
+        },
+        {
+            "IMDB_ID": "nm8533214",
+            "Name": "Harsha Vardhan"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Vikram K. Kumar"
+    ],
+    "Genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "Languages": [
+        "Tamil",
+        "Telugu"
+    ],
+    "Name": "24",
+    "Runtime": 164
+}

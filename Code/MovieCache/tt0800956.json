@@ -1,0 +1,88 @@
+{
+    "Bio": "Six different stories, about nine people, each with different issues and problems, all occurring within one place: the METRO.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0004429",
+            "Name": "Dharmendra"
+        },
+        {
+            "IMDB_ID": "nm0451234",
+            "Name": "Irrfan Khan"
+        },
+        {
+            "IMDB_ID": "nm1234298",
+            "Name": "Konkona Sen Sharma"
+        },
+        {
+            "IMDB_ID": "nm1946407",
+            "Name": "Kay Kay Menon"
+        },
+        {
+            "IMDB_ID": "nm0792908",
+            "Name": "Shilpa Shetty Kundra"
+        },
+        {
+            "IMDB_ID": "nm1832004",
+            "Name": "Shiney Ahuja"
+        },
+        {
+            "IMDB_ID": "nm0430817",
+            "Name": "Sharman Joshi"
+        },
+        {
+            "IMDB_ID": "nm2144007",
+            "Name": "Kangana Ranaut"
+        },
+        {
+            "IMDB_ID": "nm0019465",
+            "Name": "Nafisa Ali"
+        },
+        {
+            "IMDB_ID": "nm1206317",
+            "Name": "Vicky Ahuja"
+        },
+        {
+            "IMDB_ID": "nm1330687",
+            "Name": "Gautam Kapoor"
+        },
+        {
+            "IMDB_ID": "nm5290022",
+            "Name": "Ayaan Khan"
+        },
+        {
+            "IMDB_ID": "nm2511745",
+            "Name": "Ashwin Mushran"
+        },
+        {
+            "IMDB_ID": "nm0632079",
+            "Name": "Nilofar"
+        },
+        {
+            "IMDB_ID": "nm2388090",
+            "Name": "Rinku Patel"
+        },
+        {
+            "IMDB_ID": "nm0756010",
+            "Name": "Sagarika"
+        },
+        {
+            "IMDB_ID": "nm0894344",
+            "Name": "Meenakshi Verma"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Anurag Basu",
+        "Sunil Subramani"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Life in a Metro",
+    "Runtime": 132
+}

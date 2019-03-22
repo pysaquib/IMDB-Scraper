@@ -1,0 +1,62 @@
+{
+    "Bio": "Set in the small-town of Bareilly, Bitti is a free-spirited young girl who lives life on her own terms and refuses to be pressured into getting married. Her life takes a shift when she meets Chirag Dubey and Pritam Vidrohi.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm4731677",
+            "Name": "Ayushmann Khurrana"
+        },
+        {
+            "IMDB_ID": "nm5305841",
+            "Name": "Kriti Sanon"
+        },
+        {
+            "IMDB_ID": "nm3822770",
+            "Name": "Rajkummar Rao"
+        },
+        {
+            "IMDB_ID": "nm2690647",
+            "Name": "Pankaj Tripathi"
+        },
+        {
+            "IMDB_ID": "nm9211287",
+            "Name": "Rohit Choudhary"
+        },
+        {
+            "IMDB_ID": "nm5475700",
+            "Name": "Swati Semwal"
+        },
+        {
+            "IMDB_ID": "nm0015287",
+            "Name": "Javed Akhtar"
+        },
+        {
+            "IMDB_ID": "nm1260157",
+            "Name": "Seema Bhargava"
+        },
+        {
+            "IMDB_ID": "nm8949091",
+            "Name": "Naila Grewal"
+        },
+        {
+            "IMDB_ID": "nm4201007",
+            "Name": "Sapna Sand"
+        },
+        {
+            "IMDB_ID": "nm7353371",
+            "Name": "Vivek Yadav"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Ashwiny Iyer Tiwari"
+    ],
+    "Genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Bareilly Ki Barfi",
+    "Runtime": 116
+}

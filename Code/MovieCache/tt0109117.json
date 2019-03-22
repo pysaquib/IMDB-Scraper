@@ -1,0 +1,95 @@
+{
+    "Bio": "Two slackers competing for the affections of an heiress, inadvertently become her protectors from an evil criminal.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0451148",
+            "Name": "Aamir Khan"
+        },
+        {
+            "IMDB_ID": "nm0006795",
+            "Name": "Salman Khan"
+        },
+        {
+            "IMDB_ID": "nm0849199",
+            "Name": "Raveena Tandon"
+        },
+        {
+            "IMDB_ID": "nm0006433",
+            "Name": "Karisma Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0712546",
+            "Name": "Paresh Rawal"
+        },
+        {
+            "IMDB_ID": "nm0451864",
+            "Name": "Viju Khote"
+        },
+        {
+            "IMDB_ID": "nm1185344",
+            "Name": "Shehzad Khan"
+        },
+        {
+            "IMDB_ID": "nm0576454",
+            "Name": "Mehmood"
+        },
+        {
+            "IMDB_ID": "nm0894340",
+            "Name": "Deven Verma"
+        },
+        {
+            "IMDB_ID": "nm0415556",
+            "Name": "Jagdeep"
+        },
+        {
+            "IMDB_ID": "nm0848308",
+            "Name": "Tiku Talsania"
+        },
+        {
+            "IMDB_ID": "nm0080179",
+            "Name": "Suresh Bhagwat"
+        },
+        {
+            "IMDB_ID": "nm0665370",
+            "Name": "Harish Patel"
+        },
+        {
+            "IMDB_ID": "nm0451242",
+            "Name": "Javed Khan"
+        },
+        {
+            "IMDB_ID": "nm1131001",
+            "Name": "Anand Mishra"
+        },
+        {
+            "IMDB_ID": "nm0061224",
+            "Name": "Sanjay Batra"
+        },
+        {
+            "IMDB_ID": "nm0007106",
+            "Name": "Shakti Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0332871",
+            "Name": "Govinda"
+        },
+        {
+            "IMDB_ID": "nm0004487",
+            "Name": "Juhi Chawla"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Rajkumar Santoshi"
+    ],
+    "Genre": [
+        "Comedy",
+        "Family",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Andaz Apna Apna",
+    "Runtime": 160
+}

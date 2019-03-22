@@ -1,0 +1,87 @@
+{
+    "Bio": "A man struggles to survive after he unintentionally locks himself up in a high rise devoid of food, water and electricity.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3822770",
+            "Name": "Rajkummar Rao"
+        },
+        {
+            "IMDB_ID": "nm4990417",
+            "Name": "Geetanjali Thapa"
+        },
+        {
+            "IMDB_ID": "nm9172151",
+            "Name": "Shiladitya Sen"
+        },
+        {
+            "IMDB_ID": "nm9172152",
+            "Name": "Rahul Patel"
+        },
+        {
+            "IMDB_ID": "nm8662205",
+            "Name": "Rahul Dutta"
+        },
+        {
+            "IMDB_ID": "nm9172153",
+            "Name": "Vishwas"
+        },
+        {
+            "IMDB_ID": "nm9172154",
+            "Name": "Girish"
+        },
+        {
+            "IMDB_ID": "nm9108699",
+            "Name": "Malay Garg"
+        },
+        {
+            "IMDB_ID": "nm4072381",
+            "Name": "Rajiv Khanna"
+        },
+        {
+            "IMDB_ID": "nm4546188",
+            "Name": "Yogendra Vikram Singh"
+        },
+        {
+            "IMDB_ID": "nm3318887",
+            "Name": "Patrick Graham"
+        },
+        {
+            "IMDB_ID": "nm3155648",
+            "Name": "Hardik Mehta"
+        },
+        {
+            "IMDB_ID": "nm4825703",
+            "Name": "Vivek Soni"
+        },
+        {
+            "IMDB_ID": "nm9172155",
+            "Name": "Anup Rupanwar"
+        },
+        {
+            "IMDB_ID": "nm4120169",
+            "Name": "R.N. Shukla"
+        },
+        {
+            "IMDB_ID": "nm6109850",
+            "Name": "Khushboo Upadhyay"
+        },
+        {
+            "IMDB_ID": "nm9169603",
+            "Name": "Hawk McNab"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Vikramaditya Motwane"
+    ],
+    "Genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Trapped",
+    "Runtime": 105
+}

@@ -1,0 +1,164 @@
+{
+    "Bio": "A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm2138653",
+            "Name": "Deepika Padukone"
+        },
+        {
+            "IMDB_ID": "nm0000821",
+            "Name": "Amitabh Bachchan"
+        },
+        {
+            "IMDB_ID": "nm0451234",
+            "Name": "Irrfan Khan"
+        },
+        {
+            "IMDB_ID": "nm0154139",
+            "Name": "Moushumi Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm0944834",
+            "Name": "Raghuvir Yadav"
+        },
+        {
+            "IMDB_ID": "nm1702868",
+            "Name": "Jishu Sengupta"
+        },
+        {
+            "IMDB_ID": "nm7464979",
+            "Name": "Balendar Singh"
+        },
+        {
+            "IMDB_ID": "nm5000540",
+            "Name": "Swaroopa Ghosh"
+        },
+        {
+            "IMDB_ID": "nm7602180",
+            "Name": "Sajal Bhattacharya"
+        },
+        {
+            "IMDB_ID": "nm7602181",
+            "Name": "Rupsa Banerjee"
+        },
+        {
+            "IMDB_ID": "nm7602182",
+            "Name": "Nutan Mathur"
+        },
+        {
+            "IMDB_ID": "nm4114810",
+            "Name": "Prerna Chawla"
+        },
+        {
+            "IMDB_ID": "nm7602183",
+            "Name": "Aniruddha Roy Chowdhury"
+        },
+        {
+            "IMDB_ID": "nm0154119",
+            "Name": "Bishwadeep Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm0244865",
+            "Name": "Avijit Dutt"
+        },
+        {
+            "IMDB_ID": "nm0643348",
+            "Name": "Akshay Oberoi"
+        },
+        {
+            "IMDB_ID": "nm4461768",
+            "Name": "Sumanto Chattopadhyay"
+        },
+        {
+            "IMDB_ID": "nm1863643",
+            "Name": "Kumar Thakur"
+        },
+        {
+            "IMDB_ID": "nm2127514",
+            "Name": "Manish Jain"
+        },
+        {
+            "IMDB_ID": "nm1130698",
+            "Name": "Raj Tilak"
+        },
+        {
+            "IMDB_ID": "nm3464303",
+            "Name": "Gajendra Rathi"
+        },
+        {
+            "IMDB_ID": "nm7602184",
+            "Name": "Jolly Guha"
+        },
+        {
+            "IMDB_ID": "nm7602185",
+            "Name": "Sudha Banik"
+        },
+        {
+            "IMDB_ID": "nm7602186",
+            "Name": "Saachi"
+        },
+        {
+            "IMDB_ID": "nm7602187",
+            "Name": "Kopal Naithani"
+        },
+        {
+            "IMDB_ID": "nm7428660",
+            "Name": "Sukomol Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm1806150",
+            "Name": "Dinesh Raut"
+        },
+        {
+            "IMDB_ID": "nm7602188",
+            "Name": "Mrs. Raaj Paul"
+        },
+        {
+            "IMDB_ID": "nm7602189",
+            "Name": "Shivaji"
+        },
+        {
+            "IMDB_ID": "nm7602190",
+            "Name": "Tapas Chakrabarti"
+        },
+        {
+            "IMDB_ID": "nm7464992",
+            "Name": "Vivek Krishnani"
+        },
+        {
+            "IMDB_ID": "nm7602191",
+            "Name": "Arjun"
+        },
+        {
+            "IMDB_ID": "nm7602192",
+            "Name": "Razzaque Ahmed"
+        },
+        {
+            "IMDB_ID": "nm7602193",
+            "Name": "Parijat Bannerjee"
+        },
+        {
+            "IMDB_ID": "nm7602194",
+            "Name": "Aparupa Banerjee"
+        },
+        {
+            "IMDB_ID": "nm7602195",
+            "Name": "Dipak Thakur"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Shoojit Sircar"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "English",
+        "Bengali"
+    ],
+    "Name": "Piku",
+    "Runtime": 123
+}

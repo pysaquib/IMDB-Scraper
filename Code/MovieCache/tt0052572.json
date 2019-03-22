@@ -1,0 +1,94 @@
+{
+    "Bio": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0154164",
+            "Name": "Soumitra Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm0846616",
+            "Name": "Sharmila Tagore"
+        },
+        {
+            "IMDB_ID": "nm0149845",
+            "Name": "Alok Chakravarty"
+        },
+        {
+            "IMDB_ID": "nm0611575",
+            "Name": "Swapan Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm5576481",
+            "Name": "Tushar Bandyopadhyay"
+        },
+        {
+            "IMDB_ID": "nm4897797",
+            "Name": "Gupi Banerjee"
+        },
+        {
+            "IMDB_ID": "nm1434574",
+            "Name": "Panchanan Bhattacharya"
+        },
+        {
+            "IMDB_ID": "nm0080370",
+            "Name": "Shanti Bhattacherjee"
+        },
+        {
+            "IMDB_ID": "nm5576471",
+            "Name": "Jiten Bhons"
+        },
+        {
+            "IMDB_ID": "nm0154107",
+            "Name": "Abhijit Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm0154132",
+            "Name": "Jogesh Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm0222439",
+            "Name": "Asha Devi"
+        },
+        {
+            "IMDB_ID": "nm0067570",
+            "Name": "Belarani Devi"
+        },
+        {
+            "IMDB_ID": "nm0222490",
+            "Name": "Sefalika Devi"
+        },
+        {
+            "IMDB_ID": "nm5576537",
+            "Name": "Biren Ghosh"
+        },
+        {
+            "IMDB_ID": "nm0315888",
+            "Name": "Dhiren Ghosh"
+        },
+        {
+            "IMDB_ID": "nm5576520",
+            "Name": "Biresh Majumdar"
+        },
+        {
+            "IMDB_ID": "nm0538291",
+            "Name": "Dhiresh Majumdar"
+        },
+        {
+            "IMDB_ID": "nm0802261",
+            "Name": "Bechu Singha"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Satyajit Ray"
+    ],
+    "Genre": [
+        "Drama"
+    ],
+    "Languages": [
+        "Bengali",
+        "English"
+    ],
+    "Name": "Apur Sansar",
+    "Runtime": 105
+}

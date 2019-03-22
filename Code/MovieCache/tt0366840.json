@@ -1,0 +1,66 @@
+{
+    "Bio": "A Kabbadi player rescues a young woman from an unwanted marriage and hides her in his home.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1121870",
+            "Name": "Mahesh Babu"
+        },
+        {
+            "IMDB_ID": "nm0154653",
+            "Name": "Bhoomika Chawla"
+        },
+        {
+            "IMDB_ID": "nm0695177",
+            "Name": "Prakash Raj"
+        },
+        {
+            "IMDB_ID": "nm4442569",
+            "Name": "Joy Badlani"
+        },
+        {
+            "IMDB_ID": "nm0151526",
+            "Name": "Chandramohan"
+        },
+        {
+            "IMDB_ID": "nm0222145",
+            "Name": "Rajan P. Dev"
+        },
+        {
+            "IMDB_ID": "nm0311677",
+            "Name": "Geetha"
+        },
+        {
+            "IMDB_ID": "nm2376719",
+            "Name": "Baby Niharika"
+        },
+        {
+            "IMDB_ID": "nm0664085",
+            "Name": "Venkateswara Rao Paruchuri"
+        },
+        {
+            "IMDB_ID": "nm0728262",
+            "Name": "Mukesh Rishi"
+        },
+        {
+            "IMDB_ID": "nm1328049",
+            "Name": "Telangana Sakuntala"
+        },
+        {
+            "IMDB_ID": "nm0223506",
+            "Name": "Dharmavarapu Subramanyam"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Gunasekhar"
+    ],
+    "Genre": [
+        "Action",
+        "Romance"
+    ],
+    "Languages": [
+        "Telugu"
+    ],
+    "Name": "Okkadu",
+    "Runtime": 170
+}

@@ -1,0 +1,87 @@
+{
+    "Bio": "Four runaway crooks take shelter in a bungalow which is owned by a blind couple.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0222426",
+            "Name": "Ajay Devgn"
+        },
+        {
+            "IMDB_ID": "nm0451174",
+            "Name": "Arshad Warsi"
+        },
+        {
+            "IMDB_ID": "nm0430817",
+            "Name": "Sharman Joshi"
+        },
+        {
+            "IMDB_ID": "nm0969428",
+            "Name": "Tusshar Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0712546",
+            "Name": "Paresh Rawal"
+        },
+        {
+            "IMDB_ID": "nm1267008",
+            "Name": "Rimi Sen"
+        },
+        {
+            "IMDB_ID": "nm0611573",
+            "Name": "Sushmita Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm0386358",
+            "Name": "Vrajesh Hirjee"
+        },
+        {
+            "IMDB_ID": "nm2260376",
+            "Name": "Farid Amiri"
+        },
+        {
+            "IMDB_ID": "nm2847166",
+            "Name": "Siddarth Jadhav"
+        },
+        {
+            "IMDB_ID": "nm1259084",
+            "Name": "Manoj Joshi"
+        },
+        {
+            "IMDB_ID": "nm0592799",
+            "Name": "Sanjay Mishra"
+        },
+        {
+            "IMDB_ID": "nm2411665",
+            "Name": "Ashish R. Mohan"
+        },
+        {
+            "IMDB_ID": "nm0796107",
+            "Name": "Anupam Shyam"
+        },
+        {
+            "IMDB_ID": "nm0839632",
+            "Name": "Raminder Singh Suri"
+        },
+        {
+            "IMDB_ID": "nm0864608",
+            "Name": "Mukesh Tiwari"
+        },
+        {
+            "IMDB_ID": "nm0890059",
+            "Name": "Rajiv Varma"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Rohit Shetty"
+    ],
+    "Genre": [
+        "Action",
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Golmaal: Fun Unlimited",
+    "Runtime": 150
+}

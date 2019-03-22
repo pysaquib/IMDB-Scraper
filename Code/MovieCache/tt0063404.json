@@ -1,0 +1,87 @@
+{
+    "Bio": "A simple man from a village falls in love with his new neighbor. He enlists the help of his musical-theater friends to woo the lovely girl-next-door away from her music teacher.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0004570",
+            "Name": "Sunil Dutt"
+        },
+        {
+            "IMDB_ID": "nm0052570",
+            "Name": "Saira Banu"
+        },
+        {
+            "IMDB_ID": "nm0576454",
+            "Name": "Mehmood"
+        },
+        {
+            "IMDB_ID": "nm0474822",
+            "Name": "Kishore Kumar"
+        },
+        {
+            "IMDB_ID": "nm0695170",
+            "Name": "Om Prakash"
+        },
+        {
+            "IMDB_ID": "nm0013023",
+            "Name": "Agha"
+        },
+        {
+            "IMDB_ID": "nm0611617",
+            "Name": "Mukri"
+        },
+        {
+            "IMDB_ID": "nm0839129",
+            "Name": "Sunder"
+        },
+        {
+            "IMDB_ID": "nm0304303",
+            "Name": "Ganga"
+        },
+        {
+            "IMDB_ID": "nm0666951",
+            "Name": "Praveen Paul"
+        },
+        {
+            "IMDB_ID": "nm0611537",
+            "Name": "Keshto Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm0457261",
+            "Name": "Raj Kishore"
+        },
+        {
+            "IMDB_ID": "nm0241291",
+            "Name": "Dulari"
+        },
+        {
+            "IMDB_ID": "nm0711830",
+            "Name": "Ratna"
+        },
+        {
+            "IMDB_ID": "nm1425570",
+            "Name": "Moolchand"
+        },
+        {
+            "IMDB_ID": "nm0417714",
+            "Name": "Jankidas"
+        },
+        {
+            "IMDB_ID": "nm0864609",
+            "Name": "Niranjan Tiwari"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Jyoti Swaroop"
+    ],
+    "Genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Padosan",
+    "Runtime": 157
+}

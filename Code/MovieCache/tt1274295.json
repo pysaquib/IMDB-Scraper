@@ -1,0 +1,343 @@
+{
+    "Bio": "The desperate lives of two estranged twin brothers converge over missing drugs, politics, racial prejudice, corrupt cops and an unplanned pregnancy.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1372788",
+            "Name": "Shahid Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1231899",
+            "Name": "Priyanka Chopra"
+        },
+        {
+            "IMDB_ID": "nm0971111",
+            "Name": "Deb Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm0837000",
+            "Name": "Shivkumar Subramaniam"
+        },
+        {
+            "IMDB_ID": "nm3204740",
+            "Name": "Chandan Roy Sanyal"
+        },
+        {
+            "IMDB_ID": "nm3571264",
+            "Name": "Tenzing Nima"
+        },
+        {
+            "IMDB_ID": "nm3406230",
+            "Name": "Hrishikesh Joshi"
+        },
+        {
+            "IMDB_ID": "nm0244900",
+            "Name": "Rajatabha Dutta"
+        },
+        {
+            "IMDB_ID": "nm1390115",
+            "Name": "Harish Khanna"
+        },
+        {
+            "IMDB_ID": "nm2138618",
+            "Name": "Carlos Paca"
+        },
+        {
+            "IMDB_ID": "nm2085703",
+            "Name": "Eric Santos"
+        },
+        {
+            "IMDB_ID": "nm1244760",
+            "Name": "Amole Gupte"
+        },
+        {
+            "IMDB_ID": "nm3722147",
+            "Name": "Sagar"
+        },
+        {
+            "IMDB_ID": "nm3722864",
+            "Name": "Samrat"
+        },
+        {
+            "IMDB_ID": "nm1675392",
+            "Name": "Vijay Raj"
+        },
+        {
+            "IMDB_ID": "nm3709409",
+            "Name": "Vishal Bhosle"
+        },
+        {
+            "IMDB_ID": "nm3721534",
+            "Name": "Omkar Govardhan"
+        },
+        {
+            "IMDB_ID": "nm3721454",
+            "Name": "Om Prakash"
+        },
+        {
+            "IMDB_ID": "nm3721849",
+            "Name": "Flavia"
+        },
+        {
+            "IMDB_ID": "nm1869223",
+            "Name": "Indivar Bhatia"
+        },
+        {
+            "IMDB_ID": "nm1683001",
+            "Name": "Satyajit Sharma"
+        },
+        {
+            "IMDB_ID": "nm3636662",
+            "Name": "Neena"
+        },
+        {
+            "IMDB_ID": "nm2127477",
+            "Name": "Veena"
+        },
+        {
+            "IMDB_ID": "nm3221779",
+            "Name": "Bugs Bhargava"
+        },
+        {
+            "IMDB_ID": "nm1843720",
+            "Name": "Nawab Khan"
+        },
+        {
+            "IMDB_ID": "nm2535507",
+            "Name": "Mukesh Chhabra"
+        },
+        {
+            "IMDB_ID": "nm3721677",
+            "Name": "Vishwanath Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm1639099",
+            "Name": "Vinod Rai"
+        },
+        {
+            "IMDB_ID": "nm3721371",
+            "Name": "Aakash Dahiya"
+        },
+        {
+            "IMDB_ID": "nm3358585",
+            "Name": "Dheerendra Dwivedi"
+        },
+        {
+            "IMDB_ID": "nm3721206",
+            "Name": "Nandkishore Pant"
+        },
+        {
+            "IMDB_ID": "nm3709560",
+            "Name": "Puhja Verma"
+        },
+        {
+            "IMDB_ID": "nm3722085",
+            "Name": "Neha Shitoley"
+        },
+        {
+            "IMDB_ID": "nm3721418",
+            "Name": "Feroza Khan"
+        },
+        {
+            "IMDB_ID": "nm3720926",
+            "Name": "Geetanjali Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm3709455",
+            "Name": "Aarti Kelkar"
+        },
+        {
+            "IMDB_ID": "nm3583019",
+            "Name": "Shashank Shende"
+        },
+        {
+            "IMDB_ID": "nm3721201",
+            "Name": "Eenesh Chavan"
+        },
+        {
+            "IMDB_ID": "nm3251419",
+            "Name": "Vishwas Sohoni"
+        },
+        {
+            "IMDB_ID": "nm3722525",
+            "Name": "Nachiket Purnapatre"
+        },
+        {
+            "IMDB_ID": "nm3708961",
+            "Name": "Deepak Damle"
+        },
+        {
+            "IMDB_ID": "nm3720947",
+            "Name": "Amit Kalyankar"
+        },
+        {
+            "IMDB_ID": "nm3722556",
+            "Name": "Ishandeep Singh"
+        },
+        {
+            "IMDB_ID": "nm3708819",
+            "Name": "Shantanu Vaidya"
+        },
+        {
+            "IMDB_ID": "nm3721109",
+            "Name": "Jay Aditya Giri"
+        },
+        {
+            "IMDB_ID": "nm1815205",
+            "Name": "Ambrish"
+        },
+        {
+            "IMDB_ID": "nm3722357",
+            "Name": "Ritika Handa"
+        },
+        {
+            "IMDB_ID": "nm3221465",
+            "Name": "Richashree"
+        },
+        {
+            "IMDB_ID": "nm3390278",
+            "Name": "Gayatri"
+        },
+        {
+            "IMDB_ID": "nm3721149",
+            "Name": "Anuja"
+        },
+        {
+            "IMDB_ID": "nm3722037",
+            "Name": "Ashlesha Tavhare"
+        },
+        {
+            "IMDB_ID": "nm1300009",
+            "Name": "Adil Hussain"
+        },
+        {
+            "IMDB_ID": "nm3720988",
+            "Name": "Ramesh"
+        },
+        {
+            "IMDB_ID": "nm3722034",
+            "Name": "Deepak"
+        },
+        {
+            "IMDB_ID": "nm2978504",
+            "Name": "Sandesh Jadhav"
+        },
+        {
+            "IMDB_ID": "nm0119987",
+            "Name": "Patr\u00edcia Bull"
+        },
+        {
+            "IMDB_ID": "nm3140050",
+            "Name": "Azaan Shah"
+        },
+        {
+            "IMDB_ID": "nm2777913",
+            "Name": "Punita Grover"
+        },
+        {
+            "IMDB_ID": "nm3721292",
+            "Name": "Deep Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm3722244",
+            "Name": "Ejaz Khan"
+        },
+        {
+            "IMDB_ID": "nm1569138",
+            "Name": "Bittu"
+        },
+        {
+            "IMDB_ID": "nm0474606",
+            "Name": "Abhay Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm1642705",
+            "Name": "Harish"
+        },
+        {
+            "IMDB_ID": "nm1914663",
+            "Name": "Jayant Gadekar"
+        },
+        {
+            "IMDB_ID": "nm3575262",
+            "Name": "Suresh Sharma"
+        },
+        {
+            "IMDB_ID": "nm2066005",
+            "Name": "Vidula Javalgekar"
+        },
+        {
+            "IMDB_ID": "nm3722669",
+            "Name": "Anjali"
+        },
+        {
+            "IMDB_ID": "nm1234545",
+            "Name": "Chandrakant Taneja"
+        },
+        {
+            "IMDB_ID": "nm3722153",
+            "Name": "Pavitra Sarkar"
+        },
+        {
+            "IMDB_ID": "nm2489624",
+            "Name": "Farhad Ahmed Dehlvi"
+        },
+        {
+            "IMDB_ID": "nm2936970",
+            "Name": "Ashok Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm3720865",
+            "Name": "Suhas Sirsat"
+        },
+        {
+            "IMDB_ID": "nm2150888",
+            "Name": "Sanjay Vichare"
+        },
+        {
+            "IMDB_ID": "nm3709573",
+            "Name": "Ravi More"
+        },
+        {
+            "IMDB_ID": "nm3721139",
+            "Name": "Tanish Solanki"
+        },
+        {
+            "IMDB_ID": "nm3709138",
+            "Name": "Lalit Kumar"
+        },
+        {
+            "IMDB_ID": "nm3876111",
+            "Name": "William Collings"
+        },
+        {
+            "IMDB_ID": "nm2497875",
+            "Name": "Om Prakash"
+        },
+        {
+            "IMDB_ID": "nm1277676",
+            "Name": "Sagar Thawani"
+        },
+        {
+            "IMDB_ID": "nm2993505",
+            "Name": "Welket Bungu\u00e9"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Vishal Bhardwaj"
+    ],
+    "Genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "Languages": [
+        "Hindi",
+        "Marathi",
+        "Bengali",
+        "English",
+        "Portuguese"
+    ],
+    "Name": "Kaminey",
+    "Runtime": 130
+}

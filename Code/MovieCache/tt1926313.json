@@ -1,0 +1,56 @@
+{
+    "Bio": "After falling in love, three room-mates experience changes in their lives.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm4449711",
+            "Name": "Kartik Aaryan"
+        },
+        {
+            "IMDB_ID": "nm4449831",
+            "Name": "Raayo S. Bakhirta"
+        },
+        {
+            "IMDB_ID": "nm4450033",
+            "Name": "Divyendu Sharma"
+        },
+        {
+            "IMDB_ID": "nm2410391",
+            "Name": "Nushrat Bharucha"
+        },
+        {
+            "IMDB_ID": "nm4449715",
+            "Name": "Sonnalli Seygall"
+        },
+        {
+            "IMDB_ID": "nm7674770",
+            "Name": "Ishita Raj"
+        },
+        {
+            "IMDB_ID": "nm6560386",
+            "Name": "Ranjit Batra"
+        },
+        {
+            "IMDB_ID": "nm3376240",
+            "Name": "Padam Bhola"
+        },
+        {
+            "IMDB_ID": "nm9028648",
+            "Name": "Karthik Chauhan"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Luv Ranjan"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Pyaar Ka Punchnama",
+    "Runtime": 149
+}

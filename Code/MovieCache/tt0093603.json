@@ -1,0 +1,61 @@
+{
+    "Bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0352032",
+            "Name": "Kamal Haasan"
+        },
+        {
+            "IMDB_ID": "nm0764853",
+            "Name": "Saranya Ponvannan"
+        },
+        {
+            "IMDB_ID": "nm0304265",
+            "Name": "Delhi Ganesh"
+        },
+        {
+            "IMDB_ID": "nm0417301",
+            "Name": "Janagaraj"
+        },
+        {
+            "IMDB_ID": "nm0440232",
+            "Name": "Karthika"
+        },
+        {
+            "IMDB_ID": "nm0621937",
+            "Name": "Nassar"
+        },
+        {
+            "IMDB_ID": "nm0025627",
+            "Name": "Tinnu Anand"
+        },
+        {
+            "IMDB_ID": "nm0712437",
+            "Name": "Nizhalgal Ravi"
+        },
+        {
+            "IMDB_ID": "nm1115041",
+            "Name": "M.V. Vasudeva Rao"
+        },
+        {
+            "IMDB_ID": "nm0787696",
+            "Name": "Pradeep Shakti"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Mani Ratnam"
+    ],
+    "Genre": [
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Tamil",
+        "Hindi",
+        "English",
+        "Telugu"
+    ],
+    "Name": "Nayakan",
+    "Runtime": 156
+}

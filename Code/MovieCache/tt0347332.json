@@ -1,0 +1,284 @@
+{
+    "Bio": "A team of police force escorts an alleged terrorist from Chandangarh to Mumbai. However their trip turns into a deadly survival when an ex-cop tries to stop them to reach Mumbai.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0000821",
+            "Name": "Amitabh Bachchan"
+        },
+        {
+            "IMDB_ID": "nm0474774",
+            "Name": "Akshay Kumar"
+        },
+        {
+            "IMDB_ID": "nm0222426",
+            "Name": "Ajay Devgn"
+        },
+        {
+            "IMDB_ID": "nm0706787",
+            "Name": "Aishwarya Rai Bachchan"
+        },
+        {
+            "IMDB_ID": "nm0969428",
+            "Name": "Tusshar Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0474609",
+            "Name": "Atul Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm0419685",
+            "Name": "Jaya Prada"
+        },
+        {
+            "IMDB_ID": "nm1069034",
+            "Name": "Lara Dutta"
+        },
+        {
+            "IMDB_ID": "nm0695177",
+            "Name": "Prakash Raj"
+        },
+        {
+            "IMDB_ID": "nm0149837",
+            "Name": "Sabyasachi Chakraborty"
+        },
+        {
+            "IMDB_ID": "nm0849863",
+            "Name": "Tanuja"
+        },
+        {
+            "IMDB_ID": "nm1817397",
+            "Name": "Ashwini Kalsekar"
+        },
+        {
+            "IMDB_ID": "nm1066034",
+            "Name": "Radhika Menon"
+        },
+        {
+            "IMDB_ID": "nm1430018",
+            "Name": "D. Santosh"
+        },
+        {
+            "IMDB_ID": "nm1416918",
+            "Name": "Kamlesh Sawant"
+        },
+        {
+            "IMDB_ID": "nm1416011",
+            "Name": "Prasanna Ketkar"
+        },
+        {
+            "IMDB_ID": "nm1815888",
+            "Name": "Susheel Jangira"
+        },
+        {
+            "IMDB_ID": "nm1571393",
+            "Name": "Abir Goswami"
+        },
+        {
+            "IMDB_ID": "nm1207318",
+            "Name": "Ashok Narayan"
+        },
+        {
+            "IMDB_ID": "nm1377323",
+            "Name": "Arun Verma"
+        },
+        {
+            "IMDB_ID": "nm1573907",
+            "Name": "Aashu Mohil"
+        },
+        {
+            "IMDB_ID": "nm1335248",
+            "Name": "Arvind Parab"
+        },
+        {
+            "IMDB_ID": "nm1568625",
+            "Name": "Ajit Apte"
+        },
+        {
+            "IMDB_ID": "nm1061929",
+            "Name": "Ashok"
+        },
+        {
+            "IMDB_ID": "nm2505885",
+            "Name": "Anameeka"
+        },
+        {
+            "IMDB_ID": "nm2498221",
+            "Name": "Ashita Sawhney"
+        },
+        {
+            "IMDB_ID": "nm1574617",
+            "Name": "Dileep Patwe"
+        },
+        {
+            "IMDB_ID": "nm0051721",
+            "Name": "Deepak Kumar Bandhu"
+        },
+        {
+            "IMDB_ID": "nm2504589",
+            "Name": "Deepak Desai"
+        },
+        {
+            "IMDB_ID": "nm0619684",
+            "Name": "Ghanshyam Nayak"
+        },
+        {
+            "IMDB_ID": "nm2499549",
+            "Name": "Guddu Nilesh Ozha"
+        },
+        {
+            "IMDB_ID": "nm2499516",
+            "Name": "Harsh Soni"
+        },
+        {
+            "IMDB_ID": "nm1189166",
+            "Name": "Iqbal Dosani"
+        },
+        {
+            "IMDB_ID": "nm1385614",
+            "Name": "Juhi Jawaid"
+        },
+        {
+            "IMDB_ID": "nm0620816",
+            "Name": "Kishore Nandlaskar"
+        },
+        {
+            "IMDB_ID": "nm2576006",
+            "Name": "Kapil Sharma"
+        },
+        {
+            "IMDB_ID": "nm1094279",
+            "Name": "Krishna"
+        },
+        {
+            "IMDB_ID": "nm0430799",
+            "Name": "Madan Joshi"
+        },
+        {
+            "IMDB_ID": "nm1261120",
+            "Name": "Mitwa"
+        },
+        {
+            "IMDB_ID": "nm1569087",
+            "Name": "Navin Bhaskar"
+        },
+        {
+            "IMDB_ID": "nm1632189",
+            "Name": "Narendra Rawal"
+        },
+        {
+            "IMDB_ID": "nm0802185",
+            "Name": "Padam Singh"
+        },
+        {
+            "IMDB_ID": "nm1568797",
+            "Name": "Pradeep Bajpai"
+        },
+        {
+            "IMDB_ID": "nm1569724",
+            "Name": "Piyush Chakravorthy"
+        },
+        {
+            "IMDB_ID": "nm2495481",
+            "Name": "Pawan Jain"
+        },
+        {
+            "IMDB_ID": "nm1391203",
+            "Name": "Priya"
+        },
+        {
+            "IMDB_ID": "nm0542510",
+            "Name": "Ravindra Mankani"
+        },
+        {
+            "IMDB_ID": "nm1574433",
+            "Name": "Rakesh Oon"
+        },
+        {
+            "IMDB_ID": "nm1224134",
+            "Name": "Ravi Kale"
+        },
+        {
+            "IMDB_ID": "nm1224865",
+            "Name": "Ravi Sanghvai"
+        },
+        {
+            "IMDB_ID": "nm1059615",
+            "Name": "Rajesh Tripathi"
+        },
+        {
+            "IMDB_ID": "nm1651577",
+            "Name": "Ramesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm1432317",
+            "Name": "Rasika"
+        },
+        {
+            "IMDB_ID": "nm1631880",
+            "Name": "Shish Khan"
+        },
+        {
+            "IMDB_ID": "nm2492264",
+            "Name": "Sudhir Hema"
+        },
+        {
+            "IMDB_ID": "nm0788915",
+            "Name": "Sanjay Sharma"
+        },
+        {
+            "IMDB_ID": "nm1569198",
+            "Name": "Sunil Bob"
+        },
+        {
+            "IMDB_ID": "nm2484158",
+            "Name": "Sameer Ali"
+        },
+        {
+            "IMDB_ID": "nm1572021",
+            "Name": "Siddharth Hussain"
+        },
+        {
+            "IMDB_ID": "nm0890875",
+            "Name": "Vivek Vaswani"
+        },
+        {
+            "IMDB_ID": "nm2495872",
+            "Name": "Vijay Gawil"
+        },
+        {
+            "IMDB_ID": "nm2494088",
+            "Name": "Vishal Saini"
+        },
+        {
+            "IMDB_ID": "nm2492347",
+            "Name": "Vidula Juvekar"
+        },
+        {
+            "IMDB_ID": "nm1330618",
+            "Name": "Yusuf Hussain"
+        },
+        {
+            "IMDB_ID": "nm1133212",
+            "Name": "Niraj Sah"
+        },
+        {
+            "IMDB_ID": "nm9036653",
+            "Name": "Surendra Rahi"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Rajkumar Santoshi"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "Urdu"
+    ],
+    "Name": "Khakee",
+    "Runtime": 174
+}
