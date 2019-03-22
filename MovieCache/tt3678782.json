@@ -1,0 +1,83 @@
+{
+    "Bio": "An innocent man turns brutal when his family gets killed in a bank robbery and one of the perpetrators escapes. 15 years later, he begins his deadly game of vengeance.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3315894",
+            "Name": "Varun Dhawan"
+        },
+        {
+            "IMDB_ID": "nm1596350",
+            "Name": "Nawazuddin Siddiqui"
+        },
+        {
+            "IMDB_ID": "nm4417069",
+            "Name": "Yami Gautam"
+        },
+        {
+            "IMDB_ID": "nm4806622",
+            "Name": "Huma Qureshi"
+        },
+        {
+            "IMDB_ID": "nm8350839",
+            "Name": "Neel Tyagi"
+        },
+        {
+            "IMDB_ID": "nm0665555",
+            "Name": "Vinay Pathak"
+        },
+        {
+            "IMDB_ID": "nm2331000",
+            "Name": "Radhika Apte"
+        },
+        {
+            "IMDB_ID": "nm0443699",
+            "Name": "Pratima Kazmi"
+        },
+        {
+            "IMDB_ID": "nm0244890",
+            "Name": "Divya Dutta"
+        },
+        {
+            "IMDB_ID": "nm1122912",
+            "Name": "Kumud Mishra"
+        },
+        {
+            "IMDB_ID": "nm1817397",
+            "Name": "Ashwini Kalsekar"
+        },
+        {
+            "IMDB_ID": "nm1302330",
+            "Name": "Murli Sharma"
+        },
+        {
+            "IMDB_ID": "nm3385526",
+            "Name": "Gopal K. Singh"
+        },
+        {
+            "IMDB_ID": "nm1664541",
+            "Name": "Zakir Hussain"
+        },
+        {
+            "IMDB_ID": "nm8476436",
+            "Name": "Avishek Lama"
+        },
+        {
+            "IMDB_ID": "nm7372243",
+            "Name": "Pawan Singh"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Sriram Raghavan"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Badlapur",
+    "Runtime": 134
+}

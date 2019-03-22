@@ -1,0 +1,230 @@
+{
+    "Bio": "A coming-of-age story based on the lives of street rappers in Mumbai.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3828984",
+            "Name": "Ranveer Singh"
+        },
+        {
+            "IMDB_ID": "nm1017633",
+            "Name": "Alia Bhatt"
+        },
+        {
+            "IMDB_ID": "nm8237564",
+            "Name": "Siddhant Chaturvedi"
+        },
+        {
+            "IMDB_ID": "nm0704694",
+            "Name": "Vijay Raaz"
+        },
+        {
+            "IMDB_ID": "nm1576284",
+            "Name": "Amruta Subhash"
+        },
+        {
+            "IMDB_ID": "nm1994146",
+            "Name": "Vijay Varma"
+        },
+        {
+            "IMDB_ID": "nm3202701",
+            "Name": "Kalki Koechlin"
+        },
+        {
+            "IMDB_ID": "nm1038430",
+            "Name": "Ikhlaque Khan"
+        },
+        {
+            "IMDB_ID": "nm0149441",
+            "Name": "Sheeba Chaddha"
+        },
+        {
+            "IMDB_ID": "nm1533122",
+            "Name": "Jyoti Subhash"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Rahul Piske"
+        },
+        {
+            "IMDB_ID": "nm4393513",
+            "Name": "Nakul Sachdeva"
+        },
+        {
+            "IMDB_ID": "nm3175339",
+            "Name": "Shruti Chauhan"
+        },
+        {
+            "IMDB_ID": "nm7929139",
+            "Name": "Aishwarya Desai"
+        },
+        {
+            "IMDB_ID": "nm3591303",
+            "Name": "Kubbra Sait"
+        },
+        {
+            "IMDB_ID": "nm4842401",
+            "Name": "Tina Bhatia"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Vikrant Dhote"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Kulsen Chougule"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Alvaro Ruiz Garcia"
+        },
+        {
+            "IMDB_ID": "nm8801722",
+            "Name": "Naveen Chaudhary"
+        },
+        {
+            "IMDB_ID": "nm5143861",
+            "Name": "Rahil Gilani"
+        },
+        {
+            "IMDB_ID": "nm0336374",
+            "Name": "Jan Graveson"
+        },
+        {
+            "IMDB_ID": "nm8811916",
+            "Name": "Nitin Gupta"
+        },
+        {
+            "IMDB_ID": "nm8317100",
+            "Name": "Soma Jain"
+        },
+        {
+            "IMDB_ID": "nm6636296",
+            "Name": "Svar Kamble"
+        },
+        {
+            "IMDB_ID": "nm1018245",
+            "Name": "Mohan Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1007959",
+            "Name": "Omi Kashyap"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Krishna Kaul"
+        },
+        {
+            "IMDB_ID": "nm8715561",
+            "Name": "Anil Khopkar"
+        },
+        {
+            "IMDB_ID": "nm9119259",
+            "Name": "R. Bhakti Klein"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Pratik Kumar"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Sarthak Lal"
+        },
+        {
+            "IMDB_ID": "nm1238337",
+            "Name": "Vijay Maurya"
+        },
+        {
+            "IMDB_ID": "nm1000230",
+            "Name": "Brian Nathan"
+        },
+        {
+            "IMDB_ID": "nm1038430",
+            "Name": "Lucille Perrier"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Ayaan Zubair Rahmani"
+        },
+        {
+            "IMDB_ID": "nm3129731",
+            "Name": "Rohini Ramanathan"
+        },
+        {
+            "IMDB_ID": "nm7231910",
+            "Name": "Jasleen Royal"
+        },
+        {
+            "IMDB_ID": "nm3000723",
+            "Name": "Sonali Sachdev"
+        },
+        {
+            "IMDB_ID": "nm4739989",
+            "Name": "Nakul Sahdev"
+        },
+        {
+            "IMDB_ID": "nm3473484",
+            "Name": "Ashish Sawhny"
+        },
+        {
+            "IMDB_ID": "nm7639113",
+            "Name": "Chaitnya Sharma"
+        },
+        {
+            "IMDB_ID": "nm7957066",
+            "Name": "Dub Sharma"
+        },
+        {
+            "IMDB_ID": "nm9241618",
+            "Name": "Rakesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm8261761",
+            "Name": "Srishti Shrivastava"
+        },
+        {
+            "IMDB_ID": "nm7467801",
+            "Name": "Mallika Singh"
+        },
+        {
+            "IMDB_ID": "nm0839820",
+            "Name": "Sushant Singh"
+        },
+        {
+            "IMDB_ID": "nm6728006",
+            "Name": "Michaela Talwar"
+        },
+        {
+            "IMDB_ID": "nm1038431",
+            "Name": "Manasi Tare"
+        },
+        {
+            "IMDB_ID": "nm2018867",
+            "Name": "Ved Thappar"
+        },
+        {
+            "IMDB_ID": "nm9012442",
+            "Name": "Sanjay Udeshi"
+        },
+        {
+            "IMDB_ID": "nm1051189",
+            "Name": "Rahul Shahani"
+        },
+        {
+            "IMDB_ID": "nm9860563",
+            "Name": "Sanaya Irani Zohrabi"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Zoya Akhtar"
+    ],
+    "Genre": [
+        "Drama",
+        "Music"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Gully Boy",
+    "Runtime": 153
+}

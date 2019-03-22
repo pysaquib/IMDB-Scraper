@@ -1,0 +1,130 @@
+{
+    "Bio": "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0011967",
+            "Name": "Kamala Adhikari"
+        },
+        {
+            "IMDB_ID": "nm0051837",
+            "Name": "Lalchand Banerjee"
+        },
+        {
+            "IMDB_ID": "nm0052332",
+            "Name": "Kali Bannerjee"
+        },
+        {
+            "IMDB_ID": "nm0052333",
+            "Name": "Kanu Bannerjee"
+        },
+        {
+            "IMDB_ID": "nm0052334",
+            "Name": "Karuna Bannerjee"
+        },
+        {
+            "IMDB_ID": "nm1434574",
+            "Name": "Panchanan Bhattacharya"
+        },
+        {
+            "IMDB_ID": "nm5581917",
+            "Name": "Debabrata Chakraborty"
+        },
+        {
+            "IMDB_ID": "nm0149839",
+            "Name": "Harendrakumar Chakravarti"
+        },
+        {
+            "IMDB_ID": "nm0154130",
+            "Name": "Hemanta Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm0222461",
+            "Name": "Meenakshi Devi"
+        },
+        {
+            "IMDB_ID": "nm0304354",
+            "Name": "Subodh Ganguli"
+        },
+        {
+            "IMDB_ID": "nm0315871",
+            "Name": "Smaran Ghosal"
+        },
+        {
+            "IMDB_ID": "nm0315882",
+            "Name": "Charuprakash Ghosh"
+        },
+        {
+            "IMDB_ID": "nm0348496",
+            "Name": "Santi Gupta"
+        },
+        {
+            "IMDB_ID": "nm0593940",
+            "Name": "Ajay Mitra"
+        },
+        {
+            "IMDB_ID": "nm0611506",
+            "Name": "Anil Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm5581805",
+            "Name": "Shibnarayan Nag"
+        },
+        {
+            "IMDB_ID": "nm0658890",
+            "Name": "Bhaganu Palwan"
+        },
+        {
+            "IMDB_ID": "nm0659237",
+            "Name": "K.S. Pandey"
+        },
+        {
+            "IMDB_ID": "nm5581649",
+            "Name": "Saraswati Pandey"
+        },
+        {
+            "IMDB_ID": "nm0049302",
+            "Name": "Ranibala"
+        },
+        {
+            "IMDB_ID": "nm0747082",
+            "Name": "Kalicharan Roy"
+        },
+        {
+            "IMDB_ID": "nm0747195",
+            "Name": "Sudipta Roy"
+        },
+        {
+            "IMDB_ID": "nm5583250",
+            "Name": "Keya Sengupta"
+        },
+        {
+            "IMDB_ID": "nm0348483",
+            "Name": "Pinaki Sengupta"
+        },
+        {
+            "IMDB_ID": "nm0784291",
+            "Name": "Ramani Sengupta"
+        },
+        {
+            "IMDB_ID": "nm0820248",
+            "Name": "Mani Srimani"
+        },
+        {
+            "IMDB_ID": "nm5582083",
+            "Name": "Udayshankar Tiwari"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Satyajit Ray"
+    ],
+    "Genre": [
+        "Drama"
+    ],
+    "Languages": [
+        "Bengali",
+        "English"
+    ],
+    "Name": "Aparajito",
+    "Runtime": 110
+}

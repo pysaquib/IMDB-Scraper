@@ -1,0 +1,107 @@
+{
+    "Bio": "Three cousins set out to fulfill their Bangalore dreams.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm2601111",
+            "Name": "Nazriya Nazim"
+        },
+        {
+            "IMDB_ID": "nm4028885",
+            "Name": "Nivin Pauly"
+        },
+        {
+            "IMDB_ID": "nm4921260",
+            "Name": "Dulquer Salmaan"
+        },
+        {
+            "IMDB_ID": "nm1335704",
+            "Name": "Fahadh Faasil"
+        },
+        {
+            "IMDB_ID": "nm2527173",
+            "Name": "Parvathy"
+        },
+        {
+            "IMDB_ID": "nm1589340",
+            "Name": "Isha Talwar"
+        },
+        {
+            "IMDB_ID": "nm3383930",
+            "Name": "Nithya Menon"
+        },
+        {
+            "IMDB_ID": "nm1427780",
+            "Name": "Kalpana"
+        },
+        {
+            "IMDB_ID": "nm0683477",
+            "Name": "Maniyanpilla Raju"
+        },
+        {
+            "IMDB_ID": "nm0695595",
+            "Name": "Praveena"
+        },
+        {
+            "IMDB_ID": "nm1066795",
+            "Name": "Vijayaraghavan"
+        },
+        {
+            "IMDB_ID": "nm7328054",
+            "Name": "Sijoy Varghese"
+        },
+        {
+            "IMDB_ID": "nm6325282",
+            "Name": "Sajid Yahiya"
+        },
+        {
+            "IMDB_ID": "nm0693092",
+            "Name": "Prathap Pothen"
+        },
+        {
+            "IMDB_ID": "nm1110573",
+            "Name": "Vinaya Prasad"
+        },
+        {
+            "IMDB_ID": "nm7711918",
+            "Name": "Paris Laxmi"
+        },
+        {
+            "IMDB_ID": "nm7909121",
+            "Name": "Ajith"
+        },
+        {
+            "IMDB_ID": "nm7807992",
+            "Name": "Gautam Pisharody"
+        },
+        {
+            "IMDB_ID": "nm2459678",
+            "Name": "Krishna Prasad"
+        },
+        {
+            "IMDB_ID": "nm9969854",
+            "Name": "Rekha"
+        },
+        {
+            "IMDB_ID": "nm7909122",
+            "Name": "Sharan"
+        },
+        {
+            "IMDB_ID": "nm1196428",
+            "Name": "Sagar Shiyas"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Anjali Menon"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Malayalam"
+    ],
+    "Name": "Bangalore Days",
+    "Runtime": 171
+}

@@ -1,0 +1,227 @@
+{
+    "Bio": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0474876",
+            "Name": "Sanjeev Kumar"
+        },
+        {
+            "IMDB_ID": "nm0004429",
+            "Name": "Dharmendra"
+        },
+        {
+            "IMDB_ID": "nm0000821",
+            "Name": "Amitabh Bachchan"
+        },
+        {
+            "IMDB_ID": "nm0451166",
+            "Name": "Amjad Khan"
+        },
+        {
+            "IMDB_ID": "nm0004564",
+            "Name": "Hema Malini"
+        },
+        {
+            "IMDB_ID": "nm0080149",
+            "Name": "Jaya Bhaduri"
+        },
+        {
+            "IMDB_ID": "nm0359845",
+            "Name": "A.K. Hangal"
+        },
+        {
+            "IMDB_ID": "nm1566068",
+            "Name": "Satyendra Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0407002",
+            "Name": "Iftekhar"
+        },
+        {
+            "IMDB_ID": "nm0592789",
+            "Name": "Leela Mishra"
+        },
+        {
+            "IMDB_ID": "nm0025630",
+            "Name": "Vikas Anand"
+        },
+        {
+            "IMDB_ID": "nm0595909",
+            "Name": "Mac Mohan"
+        },
+        {
+            "IMDB_ID": "nm0611537",
+            "Name": "Keshto Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm0755113",
+            "Name": "Sachin"
+        },
+        {
+            "IMDB_ID": "nm0430786",
+            "Name": "Alankar Joshi"
+        },
+        {
+            "IMDB_ID": "nm0451864",
+            "Name": "Viju Khote"
+        },
+        {
+            "IMDB_ID": "nm0025619",
+            "Name": "Major Anand"
+        },
+        {
+            "IMDB_ID": "nm0081971",
+            "Name": "Bihari"
+        },
+        {
+            "IMDB_ID": "nm1311365",
+            "Name": "Bhagwan Sinha"
+        },
+        {
+            "IMDB_ID": "nm0430787",
+            "Name": "Arvind Joshi"
+        },
+        {
+            "IMDB_ID": "nm0080227",
+            "Name": "Baby Bhanumati"
+        },
+        {
+            "IMDB_ID": "nm0580345",
+            "Name": "Mushtaq Merchant"
+        },
+        {
+            "IMDB_ID": "nm0543715",
+            "Name": "Mansaram"
+        },
+        {
+            "IMDB_ID": "nm0540990",
+            "Name": "Mamaji"
+        },
+        {
+            "IMDB_ID": "nm0422070",
+            "Name": "Jerry"
+        },
+        {
+            "IMDB_ID": "nm0083238",
+            "Name": "Birbal"
+        },
+        {
+            "IMDB_ID": "nm0457261",
+            "Name": "Raj Kishore"
+        },
+        {
+            "IMDB_ID": "nm0352256",
+            "Name": "Habib"
+        },
+        {
+            "IMDB_ID": "nm0438495",
+            "Name": "Rajan Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0201708",
+            "Name": "Darshan"
+        },
+        {
+            "IMDB_ID": "nm0560885",
+            "Name": "Maula"
+        },
+        {
+            "IMDB_ID": "nm0113983",
+            "Name": "Kedar Brown"
+        },
+        {
+            "IMDB_ID": "nm0756483",
+            "Name": "Saigal"
+        },
+        {
+            "IMDB_ID": "nm0433390",
+            "Name": "D. Jyothi"
+        },
+        {
+            "IMDB_ID": "nm0707405",
+            "Name": "Rajeshwari"
+        },
+        {
+            "IMDB_ID": "nm1094279",
+            "Name": "Krishna"
+        },
+        {
+            "IMDB_ID": "nm0899026",
+            "Name": "Vinni"
+        },
+        {
+            "IMDB_ID": "nm0320882",
+            "Name": "Girija"
+        },
+        {
+            "IMDB_ID": "nm9785193",
+            "Name": "Surender"
+        },
+        {
+            "IMDB_ID": "nm0707402",
+            "Name": "Rajesh"
+        },
+        {
+            "IMDB_ID": "nm2147526",
+            "Name": "Asrani"
+        },
+        {
+            "IMDB_ID": "nm0796496",
+            "Name": "Gita Siddharth"
+        },
+        {
+            "IMDB_ID": "nm0374974",
+            "Name": "Helen"
+        },
+        {
+            "IMDB_ID": "nm0415851",
+            "Name": "Paidi Jairaj"
+        },
+        {
+            "IMDB_ID": "nm0415556",
+            "Name": "Jagdeep"
+        },
+        {
+            "IMDB_ID": "nm0013026",
+            "Name": "Jalal Agha"
+        },
+        {
+            "IMDB_ID": "nm0794511",
+            "Name": "Om Shivpuri"
+        },
+        {
+            "IMDB_ID": "nm0474886",
+            "Name": "Sharad Kumar"
+        },
+        {
+            "IMDB_ID": "nm0201711",
+            "Name": "Harbans Darshan M. Arora"
+        },
+        {
+            "IMDB_ID": "nm1341372",
+            "Name": "Jullian"
+        },
+        {
+            "IMDB_ID": "nm1416287",
+            "Name": "Maqsood"
+        },
+        {
+            "IMDB_ID": "nm7859068",
+            "Name": "Kedarnath Saigal"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Ramesh Sippy"
+    ],
+    "Genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Sholay",
+    "Runtime": 198
+}

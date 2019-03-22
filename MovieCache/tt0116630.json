@@ -1,0 +1,85 @@
+{
+    "Bio": "A veteran freedom fighter enraged with the rising crime and corruption in the society murders all the wrong doers one by one using an ancient martial arts technique.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0352032",
+            "Name": "Kamal Haasan"
+        },
+        {
+            "IMDB_ID": "nm0837700",
+            "Name": "Sukanya"
+        },
+        {
+            "IMDB_ID": "nm0463539",
+            "Name": "Manisha Koirala"
+        },
+        {
+            "IMDB_ID": "nm0007107",
+            "Name": "Urmila Matondkar"
+        },
+        {
+            "IMDB_ID": "nm0893449",
+            "Name": "Nedumudi Venu"
+        },
+        {
+            "IMDB_ID": "nm1129966",
+            "Name": "Goundamani"
+        },
+        {
+            "IMDB_ID": "nm0441030",
+            "Name": "Kasturi"
+        },
+        {
+            "IMDB_ID": "nm0045119",
+            "Name": "Aruna Irani"
+        },
+        {
+            "IMDB_ID": "nm1190372",
+            "Name": "Crazy Mohan"
+        },
+        {
+            "IMDB_ID": "nm7390393",
+            "Name": "Aachi Manorama"
+        },
+        {
+            "IMDB_ID": "nm0784521",
+            "Name": "Senthil"
+        },
+        {
+            "IMDB_ID": "nm1559782",
+            "Name": "Ajay Ratnam"
+        },
+        {
+            "IMDB_ID": "nm0712437",
+            "Name": "Nizhalgal Ravi"
+        },
+        {
+            "IMDB_ID": "nm1563842",
+            "Name": "Bala Singh"
+        },
+        {
+            "IMDB_ID": "nm0505323",
+            "Name": "Johnny Lever"
+        },
+        {
+            "IMDB_ID": "nm0837189",
+            "Name": "Sudha"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "S. Shankar"
+    ],
+    "Genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Tamil",
+        "Hindi",
+        "Telugu"
+    ],
+    "Name": "Indian",
+    "Runtime": 185
+}

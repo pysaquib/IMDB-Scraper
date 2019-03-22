@@ -1,0 +1,108 @@
+{
+    "Bio": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0482320",
+            "Name": "Mohanlal"
+        },
+        {
+            "IMDB_ID": "nm0576169",
+            "Name": "Meena"
+        },
+        {
+            "IMDB_ID": "nm6189602",
+            "Name": "Ansiba"
+        },
+        {
+            "IMDB_ID": "nm6189601",
+            "Name": "Esther"
+        },
+        {
+            "IMDB_ID": "nm3175230",
+            "Name": "Kalabhavan Shajohn"
+        },
+        {
+            "IMDB_ID": "nm5242011",
+            "Name": "Asha Sharath"
+        },
+        {
+            "IMDB_ID": "nm1388202",
+            "Name": "Siddique"
+        },
+        {
+            "IMDB_ID": "nm5573884",
+            "Name": "Roshan Basheer"
+        },
+        {
+            "IMDB_ID": "nm5574220",
+            "Name": "Pradeep Chandran"
+        },
+        {
+            "IMDB_ID": "nm3495929",
+            "Name": "Kalabhavan Haneef"
+        },
+        {
+            "IMDB_ID": "nm1411548",
+            "Name": "Irshad"
+        },
+        {
+            "IMDB_ID": "nm1334387",
+            "Name": "Koottickal Jayachandran"
+        },
+        {
+            "IMDB_ID": "nm0475070",
+            "Name": "Kunchan"
+        },
+        {
+            "IMDB_ID": "nm6697626",
+            "Name": "Neeraj Madhav"
+        },
+        {
+            "IMDB_ID": "nm4920900",
+            "Name": "Aneesh Menon"
+        },
+        {
+            "IMDB_ID": "nm2072883",
+            "Name": "Shobha Mohan"
+        },
+        {
+            "IMDB_ID": "nm1985564",
+            "Name": "Narayanan Nair"
+        },
+        {
+            "IMDB_ID": "nm1367755",
+            "Name": "Antony Perumbavoor"
+        },
+        {
+            "IMDB_ID": "nm2320466",
+            "Name": "Kalabhavan Rahman"
+        },
+        {
+            "IMDB_ID": "nm6947814",
+            "Name": "Balaji Sarma"
+        },
+        {
+            "IMDB_ID": "nm0820200",
+            "Name": "Sreekumar"
+        },
+        {
+            "IMDB_ID": "nm3617629",
+            "Name": "Baiju V.K."
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Jeethu Joseph"
+    ],
+    "Genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Malayalam",
+        "English"
+    ],
+    "Name": "Drishyam",
+    "Runtime": 160
+}

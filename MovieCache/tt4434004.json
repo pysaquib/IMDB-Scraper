@@ -1,0 +1,364 @@
+{
+    "Bio": "A story that revolves around drug abuse in the affluent north Indian State of Punjab and how the youth there have succumbed to it en-masse resulting in a socio-economic decline.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1372788",
+            "Name": "Shahid Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1017633",
+            "Name": "Alia Bhatt"
+        },
+        {
+            "IMDB_ID": "nm0004626",
+            "Name": "Kareena Kapoor"
+        },
+        {
+            "IMDB_ID": "nm4362492",
+            "Name": "Diljit Dosanjh"
+        },
+        {
+            "IMDB_ID": "nm0442479",
+            "Name": "Satish Kaushik"
+        },
+        {
+            "IMDB_ID": "nm2435847",
+            "Name": "Manav Vij"
+        },
+        {
+            "IMDB_ID": "nm3119274",
+            "Name": "Vansh Bhardwaj"
+        },
+        {
+            "IMDB_ID": "nm8237562",
+            "Name": "Suhail Nayyar"
+        },
+        {
+            "IMDB_ID": "nm8253714",
+            "Name": "Prabhjyot Singh"
+        },
+        {
+            "IMDB_ID": "nm6422090",
+            "Name": "Rajesh Kumar Sharma"
+        },
+        {
+            "IMDB_ID": "nm1033153",
+            "Name": "Kamal Tiwari"
+        },
+        {
+            "IMDB_ID": "nm1206435",
+            "Name": "Mahabir Bhullar"
+        },
+        {
+            "IMDB_ID": "nm4167503",
+            "Name": "Suvinder Vicky"
+        },
+        {
+            "IMDB_ID": "nm5669149",
+            "Name": "Dilawar Sidhu"
+        },
+        {
+            "IMDB_ID": "nm8998462",
+            "Name": "Lovely Sidhu"
+        },
+        {
+            "IMDB_ID": "nm8998463",
+            "Name": "Vishu Sharma"
+        },
+        {
+            "IMDB_ID": "nm5451926",
+            "Name": "Harpreet Singh"
+        },
+        {
+            "IMDB_ID": "nm5317125",
+            "Name": "Gurpreet Toti"
+        },
+        {
+            "IMDB_ID": "nm8998464",
+            "Name": "Ikhattar Singh"
+        },
+        {
+            "IMDB_ID": "nm7924032",
+            "Name": "Pargat Singh"
+        },
+        {
+            "IMDB_ID": "nm8998465",
+            "Name": "Gaurav Sharma"
+        },
+        {
+            "IMDB_ID": "nm8998466",
+            "Name": "Zeeshan Balouch"
+        },
+        {
+            "IMDB_ID": "nm8998467",
+            "Name": "Geetangali Singh"
+        },
+        {
+            "IMDB_ID": "nm8998468",
+            "Name": "Amar Chaudhary"
+        },
+        {
+            "IMDB_ID": "nm8998470",
+            "Name": "Sukh Kunwar"
+        },
+        {
+            "IMDB_ID": "nm6487008",
+            "Name": "Hardy Sandhu"
+        },
+        {
+            "IMDB_ID": "nm5045022",
+            "Name": "Annastasia Hamulka"
+        },
+        {
+            "IMDB_ID": "nm0467868",
+            "Name": "Kaizaad Kotwal"
+        },
+        {
+            "IMDB_ID": "nm8001631",
+            "Name": "Vishal Handa"
+        },
+        {
+            "IMDB_ID": "nm6378385",
+            "Name": "Pawan Singh"
+        },
+        {
+            "IMDB_ID": "nm2020109",
+            "Name": "Ishaan Khattar"
+        },
+        {
+            "IMDB_ID": "nm4718913",
+            "Name": "Aaradhna Uppal"
+        },
+        {
+            "IMDB_ID": "nm3830290",
+            "Name": "Satwant Kaur"
+        },
+        {
+            "IMDB_ID": "nm2430054",
+            "Name": "Anita Shabdeesh"
+        },
+        {
+            "IMDB_ID": "nm7256591",
+            "Name": "Satpal Singh"
+        },
+        {
+            "IMDB_ID": "nm1372255",
+            "Name": "Nina Tiwana"
+        },
+        {
+            "IMDB_ID": "nm8492590",
+            "Name": "Swairaj Sandhu"
+        },
+        {
+            "IMDB_ID": "nm8624891",
+            "Name": "Ravi Aneja"
+        },
+        {
+            "IMDB_ID": "nm9357064",
+            "Name": "Sandeep Jit Pateela"
+        },
+        {
+            "IMDB_ID": "nm8013030",
+            "Name": "Madhumita Barik"
+        },
+        {
+            "IMDB_ID": "nm9357065",
+            "Name": "Mayahans Nath"
+        },
+        {
+            "IMDB_ID": "nm7987779",
+            "Name": "Narinder Nina"
+        },
+        {
+            "IMDB_ID": "nm9357066",
+            "Name": "Mahinder Pal Singh"
+        },
+        {
+            "IMDB_ID": "nm4788055",
+            "Name": "Taran Bajaj"
+        },
+        {
+            "IMDB_ID": "nm9357067",
+            "Name": "Varnesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm9357068",
+            "Name": "Vikas Joshi"
+        },
+        {
+            "IMDB_ID": "nm9357069",
+            "Name": "Rahi"
+        },
+        {
+            "IMDB_ID": "nm9357070",
+            "Name": "Gaura Smith"
+        },
+        {
+            "IMDB_ID": "nm9357071",
+            "Name": "Varun Arya"
+        },
+        {
+            "IMDB_ID": "nm9357072",
+            "Name": "Kishore Sharma"
+        },
+        {
+            "IMDB_ID": "nm4546294",
+            "Name": "Pradeep Singh"
+        },
+        {
+            "IMDB_ID": "nm5711779",
+            "Name": "Amandeep Singh"
+        },
+        {
+            "IMDB_ID": "nm7296431",
+            "Name": "Sukhdev Singh"
+        },
+        {
+            "IMDB_ID": "nm9357073",
+            "Name": "Brawsheel Singh"
+        },
+        {
+            "IMDB_ID": "nm1028863",
+            "Name": "Jaswant Daman"
+        },
+        {
+            "IMDB_ID": "nm5158351",
+            "Name": "Binny Singh"
+        },
+        {
+            "IMDB_ID": "nm9357074",
+            "Name": "Abishek Chandana"
+        },
+        {
+            "IMDB_ID": "nm9357075",
+            "Name": "Abishek Arora"
+        },
+        {
+            "IMDB_ID": "nm9357076",
+            "Name": "Shubham Kumar"
+        },
+        {
+            "IMDB_ID": "nm9357077",
+            "Name": "Lakhwinder Pal Singh"
+        },
+        {
+            "IMDB_ID": "nm4465744",
+            "Name": "Satnam Singh"
+        },
+        {
+            "IMDB_ID": "nm9357078",
+            "Name": "Jasbir Chingiria"
+        },
+        {
+            "IMDB_ID": "nm5310990",
+            "Name": "Lakha Lehri"
+        },
+        {
+            "IMDB_ID": "nm9357080",
+            "Name": "Mani Kular"
+        },
+        {
+            "IMDB_ID": "nm3728642",
+            "Name": "Manpreet Singh"
+        },
+        {
+            "IMDB_ID": "nm9357081",
+            "Name": "Vikram Chouhan"
+        },
+        {
+            "IMDB_ID": "nm3798812",
+            "Name": "Satyajeet Rajput"
+        },
+        {
+            "IMDB_ID": "nm9357082",
+            "Name": "Sukhvinder Saini"
+        },
+        {
+            "IMDB_ID": "nm9357083",
+            "Name": "Sikhander Tripathi"
+        },
+        {
+            "IMDB_ID": "nm9357084",
+            "Name": "Abreet Pal"
+        },
+        {
+            "IMDB_ID": "nm9357085",
+            "Name": "Kanwar Pal Singh"
+        },
+        {
+            "IMDB_ID": "nm9357086",
+            "Name": "Randhir"
+        },
+        {
+            "IMDB_ID": "nm9357087",
+            "Name": "Simardeep Singh"
+        },
+        {
+            "IMDB_ID": "nm9357088",
+            "Name": "Kuldeep Singh Sran"
+        },
+        {
+            "IMDB_ID": "nm9357089",
+            "Name": "Shivender Sharma"
+        },
+        {
+            "IMDB_ID": "nm9357090",
+            "Name": "Robin Toor"
+        },
+        {
+            "IMDB_ID": "nm9357091",
+            "Name": "Dr. Kurundeep Singh"
+        },
+        {
+            "IMDB_ID": "nm9357092",
+            "Name": "Bhavya Khanna"
+        },
+        {
+            "IMDB_ID": "nm9357093",
+            "Name": "Gourish Khanna"
+        },
+        {
+            "IMDB_ID": "nm9028640",
+            "Name": "Ashok"
+        },
+        {
+            "IMDB_ID": "nm9357094",
+            "Name": "Bhatt"
+        },
+        {
+            "IMDB_ID": "nm7937896",
+            "Name": "Bharat Bhushan"
+        },
+        {
+            "IMDB_ID": "nm9357095",
+            "Name": "Rajender Chaudhary"
+        },
+        {
+            "IMDB_ID": "nm8563829",
+            "Name": "Anna Ador"
+        },
+        {
+            "IMDB_ID": "nm6200000",
+            "Name": "Mansi Jhingran"
+        },
+        {
+            "IMDB_ID": "nm7372243",
+            "Name": "Pawan Singh"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Abhishek Chaubey"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "Punjabi"
+    ],
+    "Name": "Udta Punjab",
+    "Runtime": 148
+}

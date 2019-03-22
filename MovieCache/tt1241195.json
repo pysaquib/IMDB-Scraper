@@ -1,0 +1,75 @@
+{
+    "Bio": "A doctor of Indian origin returning to Mumbai from London is forced to participate in a terrorist plot.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3901368",
+            "Name": "Rajeev Khandelwal"
+        },
+        {
+            "IMDB_ID": "nm1027293",
+            "Name": "Aishwarya"
+        },
+        {
+            "IMDB_ID": "nm3035236",
+            "Name": "Vasan Bala"
+        },
+        {
+            "IMDB_ID": "nm3256703",
+            "Name": "Chinkal"
+        },
+        {
+            "IMDB_ID": "nm1492802",
+            "Name": "Shashanka Ghosh"
+        },
+        {
+            "IMDB_ID": "nm1514271",
+            "Name": "Rohitashv Gour"
+        },
+        {
+            "IMDB_ID": "nm2653281",
+            "Name": "Jhilmil Hazrika"
+        },
+        {
+            "IMDB_ID": "nm3256569",
+            "Name": "Junaid"
+        },
+        {
+            "IMDB_ID": "nm3603873",
+            "Name": "Amar Kaushik"
+        },
+        {
+            "IMDB_ID": "nm3255898",
+            "Name": "Abhas Khan"
+        },
+        {
+            "IMDB_ID": "nm3080979",
+            "Name": "Allauddin Khan"
+        },
+        {
+            "IMDB_ID": "nm9028639",
+            "Name": "Prasoon Narayan"
+        },
+        {
+            "IMDB_ID": "nm0710549",
+            "Name": "Gajraj Rao"
+        },
+        {
+            "IMDB_ID": "nm3254426",
+            "Name": "Sneha"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Raj Kumar Gupta"
+    ],
+    "Genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Aamir",
+    "Runtime": 99
+}

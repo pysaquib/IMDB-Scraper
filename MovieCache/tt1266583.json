@@ -1,0 +1,401 @@
+{
+    "Bio": "Five people whose lives are affected by the 2006 Mumbai train bombings.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0712546",
+            "Name": "Paresh Rawal"
+        },
+        {
+            "IMDB_ID": "nm1946407",
+            "Name": "Kay Kay Menon"
+        },
+        {
+            "IMDB_ID": "nm0451234",
+            "Name": "Irrfan Khan"
+        },
+        {
+            "IMDB_ID": "nm0534856",
+            "Name": "Madhavan"
+        },
+        {
+            "IMDB_ID": "nm1675786",
+            "Name": "Soha Ali Khan"
+        },
+        {
+            "IMDB_ID": "nm3237860",
+            "Name": "Sachin Pathak"
+        },
+        {
+            "IMDB_ID": "nm3001807",
+            "Name": "Santosh Juvekar"
+        },
+        {
+            "IMDB_ID": "nm3253318",
+            "Name": "Kavin Dave"
+        },
+        {
+            "IMDB_ID": "nm3253131",
+            "Name": "Syed Rizwan Ahmed"
+        },
+        {
+            "IMDB_ID": "nm1274869",
+            "Name": "Rajesh Bhosle"
+        },
+        {
+            "IMDB_ID": "nm3252731",
+            "Name": "Saksham Dayma"
+        },
+        {
+            "IMDB_ID": "nm3253964",
+            "Name": "Aakash"
+        },
+        {
+            "IMDB_ID": "nm3252857",
+            "Name": "Jeetendra Rai"
+        },
+        {
+            "IMDB_ID": "nm1282863",
+            "Name": "Sameer Dharmadhikari"
+        },
+        {
+            "IMDB_ID": "nm3250873",
+            "Name": "Gaurav Dhir"
+        },
+        {
+            "IMDB_ID": "nm1238337",
+            "Name": "Vijay Maurya"
+        },
+        {
+            "IMDB_ID": "nm1237974",
+            "Name": "Ramdas Jadhav"
+        },
+        {
+            "IMDB_ID": "nm3193511",
+            "Name": "Rajendra Shisatkar"
+        },
+        {
+            "IMDB_ID": "nm3128487",
+            "Name": "Dinkar Gavande"
+        },
+        {
+            "IMDB_ID": "nm3237783",
+            "Name": "Karan Trivedi"
+        },
+        {
+            "IMDB_ID": "nm3252088",
+            "Name": "Sanjay"
+        },
+        {
+            "IMDB_ID": "nm2778365",
+            "Name": "Sanjay Tripathi"
+        },
+        {
+            "IMDB_ID": "nm3254050",
+            "Name": "Mitali Rajadhyaksha"
+        },
+        {
+            "IMDB_ID": "nm3251890",
+            "Name": "Aanand Goradiya"
+        },
+        {
+            "IMDB_ID": "nm1215886",
+            "Name": "Ajit Bhagat"
+        },
+        {
+            "IMDB_ID": "nm3237748",
+            "Name": "Harry Shah"
+        },
+        {
+            "IMDB_ID": "nm3251419",
+            "Name": "Vishwas Sohoni"
+        },
+        {
+            "IMDB_ID": "nm2217498",
+            "Name": "Ayesha Raza"
+        },
+        {
+            "IMDB_ID": "nm3253335",
+            "Name": "Akshay Thakkar"
+        },
+        {
+            "IMDB_ID": "nm3253148",
+            "Name": "Sameer Bapat"
+        },
+        {
+            "IMDB_ID": "nm0419741",
+            "Name": "Smita Jaykar"
+        },
+        {
+            "IMDB_ID": "nm2711559",
+            "Name": "Deepak Shroff"
+        },
+        {
+            "IMDB_ID": "nm2490706",
+            "Name": "Ajay Rai"
+        },
+        {
+            "IMDB_ID": "nm3255580",
+            "Name": "Rajpal"
+        },
+        {
+            "IMDB_ID": "nm3256872",
+            "Name": "Rio Kapadia"
+        },
+        {
+            "IMDB_ID": "nm3255072",
+            "Name": "Anisha Prakash"
+        },
+        {
+            "IMDB_ID": "nm1819111",
+            "Name": "Punarvasu Naik"
+        },
+        {
+            "IMDB_ID": "nm3254679",
+            "Name": "Vasanthi Kuppuswamy"
+        },
+        {
+            "IMDB_ID": "nm3129705",
+            "Name": "Deepak Dadhwal"
+        },
+        {
+            "IMDB_ID": "nm3255219",
+            "Name": "Rahul Pethe"
+        },
+        {
+            "IMDB_ID": "nm3254199",
+            "Name": "Akash Dhopeshwarkar"
+        },
+        {
+            "IMDB_ID": "nm1586516",
+            "Name": "Bachan Pachehra"
+        },
+        {
+            "IMDB_ID": "nm2504810",
+            "Name": "Ashwini Apte"
+        },
+        {
+            "IMDB_ID": "nm2093242",
+            "Name": "Vijay Gupta"
+        },
+        {
+            "IMDB_ID": "nm2193087",
+            "Name": "Sunita Shirole"
+        },
+        {
+            "IMDB_ID": "nm2945270",
+            "Name": "Anand Tiwari"
+        },
+        {
+            "IMDB_ID": "nm3254979",
+            "Name": "Kadambari Ravi"
+        },
+        {
+            "IMDB_ID": "nm1416918",
+            "Name": "Kamlesh Sawant"
+        },
+        {
+            "IMDB_ID": "nm0904503",
+            "Name": "Shri Vallabh Vyas"
+        },
+        {
+            "IMDB_ID": "nm0415555",
+            "Name": "Divya Jagdale"
+        },
+        {
+            "IMDB_ID": "nm3254306",
+            "Name": "Varnita Agwale"
+        },
+        {
+            "IMDB_ID": "nm3254149",
+            "Name": "Deepjyoti Das"
+        },
+        {
+            "IMDB_ID": "nm2983890",
+            "Name": "Promod Ghosh"
+        },
+        {
+            "IMDB_ID": "nm3256676",
+            "Name": "Bhuvnesh Shetty"
+        },
+        {
+            "IMDB_ID": "nm3254770",
+            "Name": "Paras Jethva"
+        },
+        {
+            "IMDB_ID": "nm3256199",
+            "Name": "Sameer Chowgule"
+        },
+        {
+            "IMDB_ID": "nm3256326",
+            "Name": "Indumati Wairkar"
+        },
+        {
+            "IMDB_ID": "nm3256670",
+            "Name": "Rajashree Manohar"
+        },
+        {
+            "IMDB_ID": "nm3255444",
+            "Name": "Swapnil Khot"
+        },
+        {
+            "IMDB_ID": "nm1816334",
+            "Name": "Tejas D. Parvatkar"
+        },
+        {
+            "IMDB_ID": "nm3256131",
+            "Name": "Akshay"
+        },
+        {
+            "IMDB_ID": "nm3256908",
+            "Name": "Vinod Khandagale"
+        },
+        {
+            "IMDB_ID": "nm3258133",
+            "Name": "Dipti Jaitpal"
+        },
+        {
+            "IMDB_ID": "nm1473802",
+            "Name": "Dinesh Lamba"
+        },
+        {
+            "IMDB_ID": "nm3001695",
+            "Name": "Manoj Jadhav"
+        },
+        {
+            "IMDB_ID": "nm3239449",
+            "Name": "Mahesh Sawant"
+        },
+        {
+            "IMDB_ID": "nm3257525",
+            "Name": "Rakesh Vidua"
+        },
+        {
+            "IMDB_ID": "nm3257542",
+            "Name": "Prinal Oberoi"
+        },
+        {
+            "IMDB_ID": "nm3257972",
+            "Name": "Meenal Karpe"
+        },
+        {
+            "IMDB_ID": "nm3258440",
+            "Name": "Megha Joshi"
+        },
+        {
+            "IMDB_ID": "nm3258460",
+            "Name": "Praveena Deshpande"
+        },
+        {
+            "IMDB_ID": "nm1175601",
+            "Name": "Smita Hai"
+        },
+        {
+            "IMDB_ID": "nm3179723",
+            "Name": "Upendra Sidhaye"
+        },
+        {
+            "IMDB_ID": "nm3002502",
+            "Name": "Upendra Joshi"
+        },
+        {
+            "IMDB_ID": "nm3258537",
+            "Name": "Smita Sarvade"
+        },
+        {
+            "IMDB_ID": "nm3257175",
+            "Name": "Mihir Manek"
+        },
+        {
+            "IMDB_ID": "nm3257796",
+            "Name": "Sonal Khale"
+        },
+        {
+            "IMDB_ID": "nm2716621",
+            "Name": "Mahesh Subhedar"
+        },
+        {
+            "IMDB_ID": "nm3257667",
+            "Name": "Aadam Sheikh"
+        },
+        {
+            "IMDB_ID": "nm3257776",
+            "Name": "Mukesh Banekar"
+        },
+        {
+            "IMDB_ID": "nm1184441",
+            "Name": "Suhas Bhalekar"
+        },
+        {
+            "IMDB_ID": "nm3257460",
+            "Name": "Girish Mahajan"
+        },
+        {
+            "IMDB_ID": "nm1723225",
+            "Name": "Nishikant Kamat"
+        },
+        {
+            "IMDB_ID": "nm1875474",
+            "Name": "Narayani Shastri"
+        },
+        {
+            "IMDB_ID": "nm3258037",
+            "Name": "Vinit Sharma"
+        },
+        {
+            "IMDB_ID": "nm0019829",
+            "Name": "Alladdin"
+        },
+        {
+            "IMDB_ID": "nm3258679",
+            "Name": "Rajkumar Ravidas"
+        },
+        {
+            "IMDB_ID": "nm3258773",
+            "Name": "Devendra Mishra"
+        },
+        {
+            "IMDB_ID": "nm3258857",
+            "Name": "Harshada Rege"
+        },
+        {
+            "IMDB_ID": "nm3258114",
+            "Name": "Yashashri Upasani"
+        },
+        {
+            "IMDB_ID": "nm3258504",
+            "Name": "Sandeep Varadkar"
+        },
+        {
+            "IMDB_ID": "nm3257220",
+            "Name": "Radhika Sharma"
+        },
+        {
+            "IMDB_ID": "nm5375057",
+            "Name": "Akkash Basnet"
+        },
+        {
+            "IMDB_ID": "nm3252571",
+            "Name": "Vibhawari Deshpande"
+        },
+        {
+            "IMDB_ID": "nm3129483",
+            "Name": "Jitendra Rai"
+        },
+        {
+            "IMDB_ID": "nm0788931",
+            "Name": "Vineet Sharma"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Nishikant Kamat"
+    ],
+    "Genre": [
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Mumbai Meri Jaan",
+    "Runtime": 134
+}

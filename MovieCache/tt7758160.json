@@ -1,0 +1,302 @@
+{
+    "Bio": "A young NSA agent is framed for the murder of his bosses making him realize that now his mission is darker than expected and has some personal scores to settle regarding his father's death, a former NSA agent.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3414188",
+            "Name": "Adivi Sesh"
+        },
+        {
+            "IMDB_ID": "nm8179407",
+            "Name": "Sobhita Dhulipala"
+        },
+        {
+            "IMDB_ID": "nm0045075",
+            "Name": "Jagapathi Babu"
+        },
+        {
+            "IMDB_ID": "nm0695177",
+            "Name": "Prakash Raj"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Ademi"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Neelsh Ahankari"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Ali"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Ashok"
+        },
+        {
+            "IMDB_ID": "nm1010361",
+            "Name": "Adarsh Babu"
+        },
+        {
+            "IMDB_ID": "nm1010363",
+            "Name": "Harshad Babu"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Harika Devi Balla"
+        },
+        {
+            "IMDB_ID": "nm9901940",
+            "Name": "Tanikella Bhargav"
+        },
+        {
+            "IMDB_ID": "nm1010359",
+            "Name": "Ramana Bhargava"
+        },
+        {
+            "IMDB_ID": "nm1010367",
+            "Name": "Rohit Chachu"
+        },
+        {
+            "IMDB_ID": "nm1010367",
+            "Name": "Sakshi Chaturvedi"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Chetan"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Mohan Chowdary"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Veerendra Chowdary"
+        },
+        {
+            "IMDB_ID": "nm1002297",
+            "Name": "Darshan"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Deepak"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Sanjay David Dorakala"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Mahendar Harijam"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Prem Jeevan"
+        },
+        {
+            "IMDB_ID": "nm9368621",
+            "Name": "Pradeep Katukuti"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Khalid Khan"
+        },
+        {
+            "IMDB_ID": "nm1010361",
+            "Name": "Nayeem Khan"
+        },
+        {
+            "IMDB_ID": "nm3808948",
+            "Name": "Vennela Kishore"
+        },
+        {
+            "IMDB_ID": "nm1010359",
+            "Name": "Kanij Koirala"
+        },
+        {
+            "IMDB_ID": "nm1010361",
+            "Name": "Jyothi Prasad Kondapalli"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Kiran Kumar"
+        },
+        {
+            "IMDB_ID": "nm1010361",
+            "Name": "Madan Kumar"
+        },
+        {
+            "IMDB_ID": "nm2378839",
+            "Name": "Anish Kuruvilla"
+        },
+        {
+            "IMDB_ID": "nm1010361",
+            "Name": "Anu Kushwaha"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Abhiram Mannem"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Faraz Maroof"
+        },
+        {
+            "IMDB_ID": "nm1010359",
+            "Name": "Venkatesh Mummidi"
+        },
+        {
+            "IMDB_ID": "nm1010359",
+            "Name": "Ravi Myskar"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Nashwan"
+        },
+        {
+            "IMDB_ID": "nm1002214",
+            "Name": "Rahul Pakala"
+        },
+        {
+            "IMDB_ID": "nm1010358",
+            "Name": "Mayank Parakh"
+        },
+        {
+            "IMDB_ID": "nm5852441",
+            "Name": "Naveen Patamatalanka"
+        },
+        {
+            "IMDB_ID": "nm6639803",
+            "Name": "Prakash Phadnis"
+        },
+        {
+            "IMDB_ID": "nm0679665",
+            "Name": "Phani"
+        },
+        {
+            "IMDB_ID": "nm3046678",
+            "Name": "Ravi Prakash"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Harishchandra Prasad"
+        },
+        {
+            "IMDB_ID": "nm9952303",
+            "Name": "Pravallika"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Raja Rambabu"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Tharani Rao"
+        },
+        {
+            "IMDB_ID": "nm8285593",
+            "Name": "Swaraj Rebbapragada"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Roja"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Keshav Sanam"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Satish"
+        },
+        {
+            "IMDB_ID": "nm3764185",
+            "Name": "Madhu Shalini"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Khadar Shariff"
+        },
+        {
+            "IMDB_ID": "nm1347441",
+            "Name": "Prasad Sharma"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Radhe Shyam"
+        },
+        {
+            "IMDB_ID": "nm1012960",
+            "Name": "Irfan Sia"
+        },
+        {
+            "IMDB_ID": "nm1010359",
+            "Name": "Preeti Singh"
+        },
+        {
+            "IMDB_ID": "nm9855563",
+            "Name": "Geddam Srinivas"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Naba Stunts"
+        },
+        {
+            "IMDB_ID": "nm8951213",
+            "Name": "Silver Suresh"
+        },
+        {
+            "IMDB_ID": "nm1010359",
+            "Name": "Aman Tanwar"
+        },
+        {
+            "IMDB_ID": "nm1010360",
+            "Name": "Viswa Teja"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Tejaswini"
+        },
+        {
+            "IMDB_ID": "nm9030691",
+            "Name": "Mayanand Thakur"
+        },
+        {
+            "IMDB_ID": "nm0856997",
+            "Name": "Bharadwaja Thammareddy"
+        },
+        {
+            "IMDB_ID": "nm1010365",
+            "Name": "Wahab Uddin"
+        },
+        {
+            "IMDB_ID": "nm5624098",
+            "Name": "Ravi Varma"
+        },
+        {
+            "IMDB_ID": "nm6004604",
+            "Name": "Rakesh Varre"
+        },
+        {
+            "IMDB_ID": "nm1010366",
+            "Name": "Satish Vemagiri"
+        },
+        {
+            "IMDB_ID": "nm0839513",
+            "Name": "Supriya Yarlagadda"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Sashi Kiran Tikka"
+    ],
+    "Genre": [
+        "Action",
+        "Thriller"
+    ],
+    "Languages": [
+        "Telugu"
+    ],
+    "Name": "Goodachari",
+    "Runtime": 147
+}

@@ -1,0 +1,104 @@
+{
+    "Bio": "A man who loves to make \"to-do lists\" makes one last bucket list when he realizes he is about to die.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0665555",
+            "Name": "Vinay Pathak"
+        },
+        {
+            "IMDB_ID": "nm1934428",
+            "Name": "Sarita Joshi"
+        },
+        {
+            "IMDB_ID": "nm0438494",
+            "Name": "Rajat Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0795661",
+            "Name": "Saurabh Shukla"
+        },
+        {
+            "IMDB_ID": "nm1226448",
+            "Name": "Neha Dhupia"
+        },
+        {
+            "IMDB_ID": "nm1191768",
+            "Name": "Joy Fernandes"
+        },
+        {
+            "IMDB_ID": "nm3139126",
+            "Name": "Manoylo Svitlana"
+        },
+        {
+            "IMDB_ID": "nm1463550",
+            "Name": "Gaurav Gera"
+        },
+        {
+            "IMDB_ID": "nm0683496",
+            "Name": "Suchitra Pillai"
+        },
+        {
+            "IMDB_ID": "nm3126754",
+            "Name": "Purbi Joshi"
+        },
+        {
+            "IMDB_ID": "nm2240044",
+            "Name": "Brijendra Kala"
+        },
+        {
+            "IMDB_ID": "nm1670264",
+            "Name": "Ikhlaq Khan"
+        },
+        {
+            "IMDB_ID": "nm3125945",
+            "Name": "Sachin Khurana"
+        },
+        {
+            "IMDB_ID": "nm1863497",
+            "Name": "Chandan Bisht"
+        },
+        {
+            "IMDB_ID": "nm0620816",
+            "Name": "Kishore Nandlaskar"
+        },
+        {
+            "IMDB_ID": "nm1021919",
+            "Name": "Suresh Menon"
+        },
+        {
+            "IMDB_ID": "nm1249116",
+            "Name": "Ranvir Shorey"
+        },
+        {
+            "IMDB_ID": "nm1334616",
+            "Name": "Kunal Kumar"
+        },
+        {
+            "IMDB_ID": "nm9384436",
+            "Name": "Rohan Pasricha"
+        },
+        {
+            "IMDB_ID": "nm2214392",
+            "Name": "Kiku Sharda"
+        },
+        {
+            "IMDB_ID": "nm5010035",
+            "Name": "Anirban Bhattacharyya"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Shashant Shah"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "English",
+        "Russian"
+    ],
+    "Name": "Dasvidaniya",
+    "Runtime": 113
+}

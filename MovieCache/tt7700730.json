@@ -1,0 +1,302 @@
+{
+    "Bio": "A group of interns are going through the usual grind when suddenly an accident changes their lives. The protagonist can't get let go of it and becomes obsessed with it. What does it all lead to? Is it love or something else?",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3315894",
+            "Name": "Varun Dhawan"
+        },
+        {
+            "IMDB_ID": "nm9460339",
+            "Name": "Banita Sandhu"
+        },
+        {
+            "IMDB_ID": "nm1335451",
+            "Name": "Gitanjali Rao"
+        },
+        {
+            "IMDB_ID": "nm5568241",
+            "Name": "Sahil Vedoliyaa"
+        },
+        {
+            "IMDB_ID": "nm9809240",
+            "Name": "Isha Chaturvedi"
+        },
+        {
+            "IMDB_ID": "nm9809241",
+            "Name": "Prateek Kapoor"
+        },
+        {
+            "IMDB_ID": "nm9809242",
+            "Name": "Iteeva Pandey"
+        },
+        {
+            "IMDB_ID": "nm9690447",
+            "Name": "Karamveer Kanwar"
+        },
+        {
+            "IMDB_ID": "nm1917408",
+            "Name": "Ashish Ghosh"
+        },
+        {
+            "IMDB_ID": "nm9809243",
+            "Name": "Rachica Oswal"
+        },
+        {
+            "IMDB_ID": "nm9899550",
+            "Name": "Aarti"
+        },
+        {
+            "IMDB_ID": "nm9899557",
+            "Name": "Gauri Aggarwal"
+        },
+        {
+            "IMDB_ID": "nm9899548",
+            "Name": "Rajesh Aggarwal"
+        },
+        {
+            "IMDB_ID": "nm9899531",
+            "Name": "Alex"
+        },
+        {
+            "IMDB_ID": "nm1865124",
+            "Name": "Nikita Anand"
+        },
+        {
+            "IMDB_ID": "nm9899527",
+            "Name": "Anmol"
+        },
+        {
+            "IMDB_ID": "nm9899523",
+            "Name": "Nilanjana Banerjee"
+        },
+        {
+            "IMDB_ID": "nm9899544",
+            "Name": "Shishendu Banerjee"
+        },
+        {
+            "IMDB_ID": "nm9770203",
+            "Name": "Raunak Barua"
+        },
+        {
+            "IMDB_ID": "nm9899528",
+            "Name": "Caroline"
+        },
+        {
+            "IMDB_ID": "nm9684934",
+            "Name": "Chiranjit Das"
+        },
+        {
+            "IMDB_ID": "nm9899541",
+            "Name": "Nikhil Dewan"
+        },
+        {
+            "IMDB_ID": "nm4568214",
+            "Name": "Aditi Dogra"
+        },
+        {
+            "IMDB_ID": "nm7635616",
+            "Name": "Eran"
+        },
+        {
+            "IMDB_ID": "nm9899568",
+            "Name": "Gautam"
+        },
+        {
+            "IMDB_ID": "nm9899532",
+            "Name": "Mala Gopal"
+        },
+        {
+            "IMDB_ID": "nm9899559",
+            "Name": "Bikram Gupta"
+        },
+        {
+            "IMDB_ID": "nm9899549",
+            "Name": "Dr. Himanshu"
+        },
+        {
+            "IMDB_ID": "nm9899547",
+            "Name": "Manish Jain"
+        },
+        {
+            "IMDB_ID": "nm8846320",
+            "Name": "Tushar Jain"
+        },
+        {
+            "IMDB_ID": "nm9899546",
+            "Name": "Javed"
+        },
+        {
+            "IMDB_ID": "nm9577426",
+            "Name": "Arun Kalra"
+        },
+        {
+            "IMDB_ID": "nm9541655",
+            "Name": "Vipin Katyal"
+        },
+        {
+            "IMDB_ID": "nm9899533",
+            "Name": "Rajveer Khanna"
+        },
+        {
+            "IMDB_ID": "nm9899536",
+            "Name": "Navya Khurana"
+        },
+        {
+            "IMDB_ID": "nm9899537",
+            "Name": "Ekaansh Kukreja"
+        },
+        {
+            "IMDB_ID": "nm9899538",
+            "Name": "Yashas Kukreja"
+        },
+        {
+            "IMDB_ID": "nm9899542",
+            "Name": "Naresh Kumar"
+        },
+        {
+            "IMDB_ID": "nm9899555",
+            "Name": "Sister Liki"
+        },
+        {
+            "IMDB_ID": "nm9899530",
+            "Name": "Maaz"
+        },
+        {
+            "IMDB_ID": "nm9899534",
+            "Name": "Papori Medhi"
+        },
+        {
+            "IMDB_ID": "nm4710910",
+            "Name": "Gaurav Mehta"
+        },
+        {
+            "IMDB_ID": "nm9899545",
+            "Name": "Dr. Debabrata Mukhopadhyay"
+        },
+        {
+            "IMDB_ID": "nm9899522",
+            "Name": "Shekhar Murugan"
+        },
+        {
+            "IMDB_ID": "nm9899566",
+            "Name": "Mustakeen"
+        },
+        {
+            "IMDB_ID": "nm9899554",
+            "Name": "Sister Namrata"
+        },
+        {
+            "IMDB_ID": "nm9899564",
+            "Name": "Monisha Narang"
+        },
+        {
+            "IMDB_ID": "nm9899562",
+            "Name": "Rahul Nigam"
+        },
+        {
+            "IMDB_ID": "nm9899563",
+            "Name": "Helena Ovung"
+        },
+        {
+            "IMDB_ID": "nm9899552",
+            "Name": "Rabiya"
+        },
+        {
+            "IMDB_ID": "nm9899535",
+            "Name": "Piyush Raina"
+        },
+        {
+            "IMDB_ID": "nm9899556",
+            "Name": "Namrata Rani"
+        },
+        {
+            "IMDB_ID": "nm9899521",
+            "Name": "Nimmi Raphael"
+        },
+        {
+            "IMDB_ID": "nm9899558",
+            "Name": "S.M. Abbas Rizvi"
+        },
+        {
+            "IMDB_ID": "nm9899551",
+            "Name": "Rohit"
+        },
+        {
+            "IMDB_ID": "nm9899529",
+            "Name": "Mishele Samrat"
+        },
+        {
+            "IMDB_ID": "nm9899561",
+            "Name": "Ritu Sharda"
+        },
+        {
+            "IMDB_ID": "nm9028383",
+            "Name": "Kanika Sharma"
+        },
+        {
+            "IMDB_ID": "nm9899553",
+            "Name": "Prashant Sharma"
+        },
+        {
+            "IMDB_ID": "nm9899543",
+            "Name": "Mohammed Shoeb"
+        },
+        {
+            "IMDB_ID": "nm9899567",
+            "Name": "Nanaki Singh"
+        },
+        {
+            "IMDB_ID": "nm9899565",
+            "Name": "Parminder Shah Singh"
+        },
+        {
+            "IMDB_ID": "nm9899560",
+            "Name": "Prabhjot Singh"
+        },
+        {
+            "IMDB_ID": "nm9899524",
+            "Name": "Sudeep Singh"
+        },
+        {
+            "IMDB_ID": "nm9899540",
+            "Name": "Vihaan Singhal"
+        },
+        {
+            "IMDB_ID": "nm9899525",
+            "Name": "Dr. Poonam Solanki"
+        },
+        {
+            "IMDB_ID": "nm9899526",
+            "Name": "Anshul Thakur"
+        },
+        {
+            "IMDB_ID": "nm1863643",
+            "Name": "Kumar Thakur"
+        },
+        {
+            "IMDB_ID": "nm7464990",
+            "Name": "Priya Thakur"
+        },
+        {
+            "IMDB_ID": "nm9770201",
+            "Name": "Vibhuti Tomar"
+        },
+        {
+            "IMDB_ID": "nm9899539",
+            "Name": "Jai Uday"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Shoojit Sircar"
+    ],
+    "Genre": [
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "October",
+    "Runtime": 115
+}

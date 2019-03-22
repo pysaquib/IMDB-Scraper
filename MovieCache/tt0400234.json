@@ -1,0 +1,227 @@
+{
+    "Bio": "Black Friday is a film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1946407",
+            "Name": "Kay Kay Menon"
+        },
+        {
+            "IMDB_ID": "nm0539497",
+            "Name": "Pavan Malhotra"
+        },
+        {
+            "IMDB_ID": "nm0820282",
+            "Name": "Aditya Srivastava"
+        },
+        {
+            "IMDB_ID": "nm0080349",
+            "Name": "Dibyendu Bhattacharya"
+        },
+        {
+            "IMDB_ID": "nm0434263",
+            "Name": "Kishore Kadam"
+        },
+        {
+            "IMDB_ID": "nm0710549",
+            "Name": "Gajraj Rao"
+        },
+        {
+            "IMDB_ID": "nm0403984",
+            "Name": "Zakir Hussain"
+        },
+        {
+            "IMDB_ID": "nm1326262",
+            "Name": "Somesh Agarwal"
+        },
+        {
+            "IMDB_ID": "nm6271541",
+            "Name": "Akhilesh Tripathi"
+        },
+        {
+            "IMDB_ID": "nm1665004",
+            "Name": "Imtiaz Ali"
+        },
+        {
+            "IMDB_ID": "nm2366974",
+            "Name": "Raj Arjun"
+        },
+        {
+            "IMDB_ID": "nm1616361",
+            "Name": "Ragesh Asthana"
+        },
+        {
+            "IMDB_ID": "nm1309355",
+            "Name": "Sushovan Banerjee"
+        },
+        {
+            "IMDB_ID": "nm1794460",
+            "Name": "Asif Basra"
+        },
+        {
+            "IMDB_ID": "nm1023986",
+            "Name": "Aditya Bhattacharya"
+        },
+        {
+            "IMDB_ID": "nm1384402",
+            "Name": "Uday Chandra"
+        },
+        {
+            "IMDB_ID": "nm1758779",
+            "Name": "Raj Singh Chaudhary"
+        },
+        {
+            "IMDB_ID": "nm2384900",
+            "Name": "Aliya Curmally"
+        },
+        {
+            "IMDB_ID": "nm1722479",
+            "Name": "Suresh Dubey"
+        },
+        {
+            "IMDB_ID": "nm1206811",
+            "Name": "Sanjay Gandhi"
+        },
+        {
+            "IMDB_ID": "nm2778815",
+            "Name": "Bharat Ganeshpure"
+        },
+        {
+            "IMDB_ID": "nm1216585",
+            "Name": "Manoj Goyal"
+        },
+        {
+            "IMDB_ID": "nm0361637",
+            "Name": "Ashraf Ul Haq"
+        },
+        {
+            "IMDB_ID": "nm1220949",
+            "Name": "Milind Inamdar"
+        },
+        {
+            "IMDB_ID": "nm0422550",
+            "Name": "Pankaj Jha"
+        },
+        {
+            "IMDB_ID": "nm1224134",
+            "Name": "Ravi Kale"
+        },
+        {
+            "IMDB_ID": "nm0440604",
+            "Name": "Anurag Kashyap"
+        },
+        {
+            "IMDB_ID": "nm0443699",
+            "Name": "Pratima Kazmi"
+        },
+        {
+            "IMDB_ID": "nm0451171",
+            "Name": "Arbaaz Ali Khan"
+        },
+        {
+            "IMDB_ID": "nm1241589",
+            "Name": "Sarfaraz Khan"
+        },
+        {
+            "IMDB_ID": "nm2715305",
+            "Name": "Murari Kumar"
+        },
+        {
+            "IMDB_ID": "nm1596214",
+            "Name": "Ashok Lokhande"
+        },
+        {
+            "IMDB_ID": "nm1238336",
+            "Name": "Teddy Maurya"
+        },
+        {
+            "IMDB_ID": "nm1238337",
+            "Name": "Vijay Maurya"
+        },
+        {
+            "IMDB_ID": "nm0592790",
+            "Name": "Loveleen Mishra"
+        },
+        {
+            "IMDB_ID": "nm1562777",
+            "Name": "Arindam Mitra"
+        },
+        {
+            "IMDB_ID": "nm6192508",
+            "Name": "Vinod Nahardih"
+        },
+        {
+            "IMDB_ID": "nm1665339",
+            "Name": "Pranay Narayan"
+        },
+        {
+            "IMDB_ID": "nm1665366",
+            "Name": "Bobby Parvez"
+        },
+        {
+            "IMDB_ID": "nm1938287",
+            "Name": "Sharad Ponkshe"
+        },
+        {
+            "IMDB_ID": "nm0737512",
+            "Name": "Ajai Rohilla"
+        },
+        {
+            "IMDB_ID": "nm0759510",
+            "Name": "Nagesh Salwan"
+        },
+        {
+            "IMDB_ID": "nm2585314",
+            "Name": "Sujata Sehgal"
+        },
+        {
+            "IMDB_ID": "nm2219639",
+            "Name": "Happy Sharma"
+        },
+        {
+            "IMDB_ID": "nm1302330",
+            "Name": "Murli Sharma"
+        },
+        {
+            "IMDB_ID": "nm0789388",
+            "Name": "Jeetendra Shastri"
+        },
+        {
+            "IMDB_ID": "nm1614706",
+            "Name": "Jeetu Shastri"
+        },
+        {
+            "IMDB_ID": "nm0557625",
+            "Name": "Raju Shrestha"
+        },
+        {
+            "IMDB_ID": "nm1596350",
+            "Name": "Nawazuddin Siddiqui"
+        },
+        {
+            "IMDB_ID": "nm1916610",
+            "Name": "Savi Sidhu"
+        },
+        {
+            "IMDB_ID": "nm0971232",
+            "Name": "Suresh Singh"
+        },
+        {
+            "IMDB_ID": "nm1306721",
+            "Name": "Sacheen Suvarna"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Anurag Kashyap"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Black Friday",
+    "Runtime": 143
+}

@@ -1,0 +1,95 @@
+{
+    "Bio": "The story of a bunch of misfits whose misconception about each others backgrounds end up in a series of chaotic, yet comic outcomes.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0451379",
+            "Name": "Akshaye Khanna"
+        },
+        {
+            "IMDB_ID": "nm0012778",
+            "Name": "Aftab Shivdasani"
+        },
+        {
+            "IMDB_ID": "nm1267008",
+            "Name": "Rimi Sen"
+        },
+        {
+            "IMDB_ID": "nm0712546",
+            "Name": "Paresh Rawal"
+        },
+        {
+            "IMDB_ID": "nm0007106",
+            "Name": "Shakti Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1056425",
+            "Name": "Rajpal Yadav"
+        },
+        {
+            "IMDB_ID": "nm0848308",
+            "Name": "Tiku Talsania"
+        },
+        {
+            "IMDB_ID": "nm0025625",
+            "Name": "Shoma Anand"
+        },
+        {
+            "IMDB_ID": "nm0474620",
+            "Name": "Nina Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm0802251",
+            "Name": "Upasna Singh"
+        },
+        {
+            "IMDB_ID": "nm0621560",
+            "Name": "Sanjay Narvekar"
+        },
+        {
+            "IMDB_ID": "nm2167080",
+            "Name": "Jyoti Joshi"
+        },
+        {
+            "IMDB_ID": "nm1004362",
+            "Name": "Amin Gazi"
+        },
+        {
+            "IMDB_ID": "nm0415538",
+            "Name": "Jagadish"
+        },
+        {
+            "IMDB_ID": "nm1259084",
+            "Name": "Manoj Joshi"
+        },
+        {
+            "IMDB_ID": "nm0451299",
+            "Name": "Razak Khan"
+        },
+        {
+            "IMDB_ID": "nm0765071",
+            "Name": "Sadhana Sargam"
+        },
+        {
+            "IMDB_ID": "nm1034805",
+            "Name": "Shaan"
+        },
+        {
+            "IMDB_ID": "nm0003504",
+            "Name": "Alka Yagnik"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Priyadarshan"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Hungama",
+    "Runtime": 153
+}

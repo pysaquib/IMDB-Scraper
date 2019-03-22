@@ -1,0 +1,106 @@
+{
+    "Bio": "A small time lawyer files a PIL in court against his own idols case.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0451174",
+            "Name": "Arshad Warsi"
+        },
+        {
+            "IMDB_ID": "nm1182255",
+            "Name": "Amrita Rao"
+        },
+        {
+            "IMDB_ID": "nm1224082",
+            "Name": "Boman Irani"
+        },
+        {
+            "IMDB_ID": "nm0795661",
+            "Name": "Saurabh Shukla"
+        },
+        {
+            "IMDB_ID": "nm1122077",
+            "Name": "Harsh Chhaya"
+        },
+        {
+            "IMDB_ID": "nm1018245",
+            "Name": "Mohan Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0012881",
+            "Name": "Mohan Agashe"
+        },
+        {
+            "IMDB_ID": "nm0219946",
+            "Name": "Ramesh Deo"
+        },
+        {
+            "IMDB_ID": "nm0592799",
+            "Name": "Sanjay Mishra"
+        },
+        {
+            "IMDB_ID": "nm3000617",
+            "Name": "Rajeev Siddhartha"
+        },
+        {
+            "IMDB_ID": "nm2913438",
+            "Name": "Vibha Chhibber"
+        },
+        {
+            "IMDB_ID": "nm4708140",
+            "Name": "Kartick Sitaraman"
+        },
+        {
+            "IMDB_ID": "nm5897303",
+            "Name": "Kannan Arunachalam"
+        },
+        {
+            "IMDB_ID": "nm2093242",
+            "Name": "Vijay Gupta"
+        },
+        {
+            "IMDB_ID": "nm2240044",
+            "Name": "Brijendra Kala"
+        },
+        {
+            "IMDB_ID": "nm3065607",
+            "Name": "Ishtiyak Khan"
+        },
+        {
+            "IMDB_ID": "nm5886606",
+            "Name": "Veena Malji"
+        },
+        {
+            "IMDB_ID": "nm4288932",
+            "Name": "Satyadeep Misra"
+        },
+        {
+            "IMDB_ID": "nm3124900",
+            "Name": "Sushil Pandey"
+        },
+        {
+            "IMDB_ID": "nm2119028",
+            "Name": "Vishal Om Prakash"
+        },
+        {
+            "IMDB_ID": "nm7711673",
+            "Name": "Aneel Rana"
+        },
+        {
+            "IMDB_ID": "nm3557875",
+            "Name": "Navmeet Singh"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Subhash Kapoor"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Jolly LLB",
+    "Runtime": 135
+}

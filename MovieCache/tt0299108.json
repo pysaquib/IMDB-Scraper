@@ -1,0 +1,70 @@
+{
+    "Bio": "A young girl is torn between an obsessive lover and a mild-mannered suitor.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0534856",
+            "Name": "Madhavan"
+        },
+        {
+            "IMDB_ID": "nm0451307",
+            "Name": "Saif Ali Khan"
+        },
+        {
+            "IMDB_ID": "nm1069850",
+            "Name": "Dia Mirza"
+        },
+        {
+            "IMDB_ID": "nm0386358",
+            "Name": "Vrajesh Hirjee"
+        },
+        {
+            "IMDB_ID": "nm0193022",
+            "Name": "Tanaaz Currim Irani"
+        },
+        {
+            "IMDB_ID": "nm0451600",
+            "Name": "Anupam Kher"
+        },
+        {
+            "IMDB_ID": "nm0632615",
+            "Name": "Navin Nischol"
+        },
+        {
+            "IMDB_ID": "nm0419741",
+            "Name": "Smita Jaykar"
+        },
+        {
+            "IMDB_ID": "nm0659235",
+            "Name": "Hemant Pandey"
+        },
+        {
+            "IMDB_ID": "nm1294647",
+            "Name": "Kabir Sadana"
+        },
+        {
+            "IMDB_ID": "nm1293815",
+            "Name": "Reshma Modi"
+        },
+        {
+            "IMDB_ID": "nm0015808",
+            "Name": "Maya Alagh"
+        },
+        {
+            "IMDB_ID": "nm1328817",
+            "Name": "Kabir Sadanand"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Gautham Menon"
+    ],
+    "Genre": [
+        "Musical",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Rehnaa Hai Terre Dil Mein",
+    "Runtime": 160
+}

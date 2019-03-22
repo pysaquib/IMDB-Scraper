@@ -1,0 +1,66 @@
+{
+    "Bio": "Insia is a 14 year-old from Vadodara who dreams of being a singer one day.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm7621668",
+            "Name": "Zaira Wasim"
+        },
+        {
+            "IMDB_ID": "nm2016476",
+            "Name": "Meher Vij"
+        },
+        {
+            "IMDB_ID": "nm2366974",
+            "Name": "Raj Arjun"
+        },
+        {
+            "IMDB_ID": "nm0451148",
+            "Name": "Aamir Khan"
+        },
+        {
+            "IMDB_ID": "nm9332186",
+            "Name": "Tirth Sharma"
+        },
+        {
+            "IMDB_ID": "nm9625502",
+            "Name": "Kabir Sajid"
+        },
+        {
+            "IMDB_ID": "nm1585543",
+            "Name": "Farrukh Jaffar"
+        },
+        {
+            "IMDB_ID": "nm7215248",
+            "Name": "Manuj Sharma"
+        },
+        {
+            "IMDB_ID": "nm1865124",
+            "Name": "Nikita Anand"
+        },
+        {
+            "IMDB_ID": "nm1034805",
+            "Name": "Shaan"
+        },
+        {
+            "IMDB_ID": "nm4232545",
+            "Name": "Monali Thakur"
+        },
+        {
+            "IMDB_ID": "nm1263050",
+            "Name": "Mona Ambegaonkar"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Advait Chandan"
+    ],
+    "Genre": [
+        "Drama",
+        "Music"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Secret Superstar",
+    "Runtime": 150
+}

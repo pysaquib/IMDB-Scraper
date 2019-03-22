@@ -1,0 +1,97 @@
+{
+    "Bio": "An auto driver, Manikam, desperately tries to hide his dark underworld side to keep his promise to his father.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0707425",
+            "Name": "Rajinikanth"
+        },
+        {
+            "IMDB_ID": "nm0619324",
+            "Name": "Nagma"
+        },
+        {
+            "IMDB_ID": "nm0706499",
+            "Name": "Raghuvaran"
+        },
+        {
+            "IMDB_ID": "nm0897206",
+            "Name": "Vijayakumar"
+        },
+        {
+            "IMDB_ID": "nm0417301",
+            "Name": "Janagaraj"
+        },
+        {
+            "IMDB_ID": "nm0222181",
+            "Name": "Devan"
+        },
+        {
+            "IMDB_ID": "nm1686962",
+            "Name": "Anandraj"
+        },
+        {
+            "IMDB_ID": "nm3161240",
+            "Name": "Sasikumar"
+        },
+        {
+            "IMDB_ID": "nm3118248",
+            "Name": "Sathyapriya"
+        },
+        {
+            "IMDB_ID": "nm0951193",
+            "Name": "Yuvarani"
+        },
+        {
+            "IMDB_ID": "nm0707270",
+            "Name": "Charan Raj"
+        },
+        {
+            "IMDB_ID": "nm6342165",
+            "Name": "Shenbaga"
+        },
+        {
+            "IMDB_ID": "nm0471430",
+            "Name": "Raja Krishnamoorthy"
+        },
+        {
+            "IMDB_ID": "nm1302977",
+            "Name": "Sethu Vinayakam"
+        },
+        {
+            "IMDB_ID": "nm1688033",
+            "Name": "Kavithalaya Krishnan"
+        },
+        {
+            "IMDB_ID": "nm1750758",
+            "Name": "Dhamu"
+        },
+        {
+            "IMDB_ID": "nm4787137",
+            "Name": "Mahanadhi Shankar"
+        },
+        {
+            "IMDB_ID": "nm0944833",
+            "Name": "Narsing Yadav"
+        },
+        {
+            "IMDB_ID": "nm6897761",
+            "Name": "Thalapathi Dinesh"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Suresh Krishna"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+    ],
+    "Name": "Baasha",
+    "Runtime": 145
+}

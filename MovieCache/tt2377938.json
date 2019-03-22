@@ -1,0 +1,379 @@
+{
+    "Bio": "A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0474774",
+            "Name": "Akshay Kumar"
+        },
+        {
+            "IMDB_ID": "nm0451600",
+            "Name": "Anupam Kher"
+        },
+        {
+            "IMDB_ID": "nm0048075",
+            "Name": "Manoj Bajpayee"
+        },
+        {
+            "IMDB_ID": "nm0792116",
+            "Name": "Jimmy Sheirgill"
+        },
+        {
+            "IMDB_ID": "nm2570245",
+            "Name": "Kajal Aggarwal"
+        },
+        {
+            "IMDB_ID": "nm0244890",
+            "Name": "Divya Dutta"
+        },
+        {
+            "IMDB_ID": "nm0434263",
+            "Name": "Kishore Kadam"
+        },
+        {
+            "IMDB_ID": "nm0788903",
+            "Name": "Rajesh Sharma"
+        },
+        {
+            "IMDB_ID": "nm1516058",
+            "Name": "Deep Raj Rana"
+        },
+        {
+            "IMDB_ID": "nm1479650",
+            "Name": "Vipin Sharma"
+        },
+        {
+            "IMDB_ID": "nm2747851",
+            "Name": "Sukhwinder Chahal"
+        },
+        {
+            "IMDB_ID": "nm3665336",
+            "Name": "Abha Parmar"
+        },
+        {
+            "IMDB_ID": "nm1201151",
+            "Name": "Mukesh Bhatt"
+        },
+        {
+            "IMDB_ID": "nm2717649",
+            "Name": "Ujjwal Chopra"
+        },
+        {
+            "IMDB_ID": "nm0848308",
+            "Name": "Tiku Talsania"
+        },
+        {
+            "IMDB_ID": "nm0761189",
+            "Name": "Paritosh Sand"
+        },
+        {
+            "IMDB_ID": "nm7355458",
+            "Name": "Aparna Ghoshal"
+        },
+        {
+            "IMDB_ID": "nm7355459",
+            "Name": "Sumeet"
+        },
+        {
+            "IMDB_ID": "nm2345638",
+            "Name": "Gurpal Singh"
+        },
+        {
+            "IMDB_ID": "nm2496622",
+            "Name": "Jarnail Singh"
+        },
+        {
+            "IMDB_ID": "nm4738846",
+            "Name": "Rajbir Kaur"
+        },
+        {
+            "IMDB_ID": "nm7355460",
+            "Name": "Ronika"
+        },
+        {
+            "IMDB_ID": "nm0802183",
+            "Name": "Neetu Singh"
+        },
+        {
+            "IMDB_ID": "nm7355461",
+            "Name": "Khushmeet Gill"
+        },
+        {
+            "IMDB_ID": "nm3632934",
+            "Name": "Prema Sakhardande"
+        },
+        {
+            "IMDB_ID": "nm1425584",
+            "Name": "Kharaj Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm2116437",
+            "Name": "Kanwar Jagdish"
+        },
+        {
+            "IMDB_ID": "nm7355462",
+            "Name": "Mohan Kaushik"
+        },
+        {
+            "IMDB_ID": "nm1221805",
+            "Name": "Aditya Sharma"
+        },
+        {
+            "IMDB_ID": "nm3901857",
+            "Name": "Vijay Badlani"
+        },
+        {
+            "IMDB_ID": "nm7355463",
+            "Name": "Sharad Shetty"
+        },
+        {
+            "IMDB_ID": "nm3071285",
+            "Name": "Suraj Gupta"
+        },
+        {
+            "IMDB_ID": "nm3165492",
+            "Name": "Sachin Nayak"
+        },
+        {
+            "IMDB_ID": "nm7355464",
+            "Name": "Neelam Gupta"
+        },
+        {
+            "IMDB_ID": "nm7355465",
+            "Name": "Happy Taneja"
+        },
+        {
+            "IMDB_ID": "nm4540508",
+            "Name": "Nayani Dixit"
+        },
+        {
+            "IMDB_ID": "nm7355466",
+            "Name": "Gaurav Sharma"
+        },
+        {
+            "IMDB_ID": "nm6058340",
+            "Name": "Sumesh Krishnan"
+        },
+        {
+            "IMDB_ID": "nm7355467",
+            "Name": "Dipak Tokes"
+        },
+        {
+            "IMDB_ID": "nm4443443",
+            "Name": "Bhagwan Tiwari"
+        },
+        {
+            "IMDB_ID": "nm3035025",
+            "Name": "Vikas Shrivastav"
+        },
+        {
+            "IMDB_ID": "nm7355468",
+            "Name": "Rajesh Singh"
+        },
+        {
+            "IMDB_ID": "nm2691198",
+            "Name": "Chandra Prakash"
+        },
+        {
+            "IMDB_ID": "nm4941387",
+            "Name": "Adithi Kalkunte"
+        },
+        {
+            "IMDB_ID": "nm5363398",
+            "Name": "Ishita Vyas"
+        },
+        {
+            "IMDB_ID": "nm4921194",
+            "Name": "Shweta Dadhich"
+        },
+        {
+            "IMDB_ID": "nm3226979",
+            "Name": "Umar Wani"
+        },
+        {
+            "IMDB_ID": "nm3074168",
+            "Name": "Bobby Bedii"
+        },
+        {
+            "IMDB_ID": "nm4452726",
+            "Name": "Atul Sharma"
+        },
+        {
+            "IMDB_ID": "nm4381050",
+            "Name": "Chirag Dave"
+        },
+        {
+            "IMDB_ID": "nm7355469",
+            "Name": "Anshuman Pandey"
+        },
+        {
+            "IMDB_ID": "nm7355470",
+            "Name": "Raj S. Singh"
+        },
+        {
+            "IMDB_ID": "nm3778915",
+            "Name": "Suumeet Darshan"
+        },
+        {
+            "IMDB_ID": "nm7745794",
+            "Name": "Sadh Orhan"
+        },
+        {
+            "IMDB_ID": "nm7355471",
+            "Name": "Hemant Bhist"
+        },
+        {
+            "IMDB_ID": "nm7355472",
+            "Name": "Sahitya Gupta"
+        },
+        {
+            "IMDB_ID": "nm7355473",
+            "Name": "Ram Mehr"
+        },
+        {
+            "IMDB_ID": "nm7355474",
+            "Name": "Ashraf Ali"
+        },
+        {
+            "IMDB_ID": "nm4608648",
+            "Name": "Bunty Chopra"
+        },
+        {
+            "IMDB_ID": "nm6389513",
+            "Name": "Suchhi Kumar"
+        },
+        {
+            "IMDB_ID": "nm7355476",
+            "Name": "Amit Shukla"
+        },
+        {
+            "IMDB_ID": "nm7355477",
+            "Name": "Bajaj Aprajita"
+        },
+        {
+            "IMDB_ID": "nm3138069",
+            "Name": "Vishwabhanu"
+        },
+        {
+            "IMDB_ID": "nm2989104",
+            "Name": "Richa Srivastava"
+        },
+        {
+            "IMDB_ID": "nm3350578",
+            "Name": "Firoz Khan"
+        },
+        {
+            "IMDB_ID": "nm7355478",
+            "Name": "Gaurav Samiley"
+        },
+        {
+            "IMDB_ID": "nm7355479",
+            "Name": "Kimberly"
+        },
+        {
+            "IMDB_ID": "nm7355480",
+            "Name": "Akhil Alvi"
+        },
+        {
+            "IMDB_ID": "nm7355481",
+            "Name": "Rajesh Rao"
+        },
+        {
+            "IMDB_ID": "nm7355482",
+            "Name": "Rajesh Pandey"
+        },
+        {
+            "IMDB_ID": "nm7355483",
+            "Name": "Sandeep Pandey"
+        },
+        {
+            "IMDB_ID": "nm7355484",
+            "Name": "Abishake Sanqar"
+        },
+        {
+            "IMDB_ID": "nm7355485",
+            "Name": "Rajesh Shukla"
+        },
+        {
+            "IMDB_ID": "nm4563111",
+            "Name": "A.R. Rama"
+        },
+        {
+            "IMDB_ID": "nm5796588",
+            "Name": "Joydeep Mukherjee"
+        },
+        {
+            "IMDB_ID": "nm7355486",
+            "Name": "Avdhesh Kumar"
+        },
+        {
+            "IMDB_ID": "nm6058350",
+            "Name": "Libert"
+        },
+        {
+            "IMDB_ID": "nm1866539",
+            "Name": "Romi Siddique"
+        },
+        {
+            "IMDB_ID": "nm7355487",
+            "Name": "Binit Goenka"
+        },
+        {
+            "IMDB_ID": "nm7355488",
+            "Name": "Gaurav Walia"
+        },
+        {
+            "IMDB_ID": "nm7355489",
+            "Name": "Hariom Kalra"
+        },
+        {
+            "IMDB_ID": "nm7355490",
+            "Name": "Gopal Bhardwaj"
+        },
+        {
+            "IMDB_ID": "nm7355491",
+            "Name": "Javed Alam"
+        },
+        {
+            "IMDB_ID": "nm7355492",
+            "Name": "Maansingh Meena"
+        },
+        {
+            "IMDB_ID": "nm7355493",
+            "Name": "Ajmer Singh"
+        },
+        {
+            "IMDB_ID": "nm7355494",
+            "Name": "Binda Paaji"
+        },
+        {
+            "IMDB_ID": "nm7355495",
+            "Name": "Mukhtiar Singh"
+        },
+        {
+            "IMDB_ID": "nm7355457",
+            "Name": "Ritik Dhawan"
+        },
+        {
+            "IMDB_ID": "nm1006633",
+            "Name": "Rajbir Singh Anand"
+        },
+        {
+            "IMDB_ID": "nm1263093",
+            "Name": "Neeru Bajwa"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Neeraj Pandey"
+    ],
+    "Genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Special Chabbis",
+    "Runtime": 144
+}

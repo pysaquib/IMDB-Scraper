@@ -1,0 +1,234 @@
+{
+    "Bio": "A paralyzed Magician-turned-Radio Jockey files a Petition in Court seeking permission to end his life.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0004335",
+            "Name": "Hrithik Roshan"
+        },
+        {
+            "IMDB_ID": "nm0706787",
+            "Name": "Aishwarya Rai Bachchan"
+        },
+        {
+            "IMDB_ID": "nm1617909",
+            "Name": "Shernaz Patel"
+        },
+        {
+            "IMDB_ID": "nm3169069",
+            "Name": "Aditya Roy Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0019465",
+            "Name": "Nafisa Ali"
+        },
+        {
+            "IMDB_ID": "nm3913061",
+            "Name": "Monikangana Dutta"
+        },
+        {
+            "IMDB_ID": "nm1833473",
+            "Name": "Suhel Seth"
+        },
+        {
+            "IMDB_ID": "nm0438496",
+            "Name": "Rajit Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1601075",
+            "Name": "Ash Chandler"
+        },
+        {
+            "IMDB_ID": "nm0187960",
+            "Name": "Vijay Crishna"
+        },
+        {
+            "IMDB_ID": "nm0221218",
+            "Name": "Makrand Deshpande"
+        },
+        {
+            "IMDB_ID": "nm1717985",
+            "Name": "Olivier Lafont"
+        },
+        {
+            "IMDB_ID": "nm3914132",
+            "Name": "Jineet Rath"
+        },
+        {
+            "IMDB_ID": "nm4445001",
+            "Name": "Parveen Rabbani"
+        },
+        {
+            "IMDB_ID": "nm4445659",
+            "Name": "Farida Mistry"
+        },
+        {
+            "IMDB_ID": "nm1849065",
+            "Name": "Prahlad Kakar"
+        },
+        {
+            "IMDB_ID": "nm0595354",
+            "Name": "Mahabanoo Mody-Kotwal"
+        },
+        {
+            "IMDB_ID": "nm4445494",
+            "Name": "Chandraprakash"
+        },
+        {
+            "IMDB_ID": "nm1213227",
+            "Name": "Achint Kaur"
+        },
+        {
+            "IMDB_ID": "nm3283923",
+            "Name": "Swara Bhaskar"
+        },
+        {
+            "IMDB_ID": "nm2221037",
+            "Name": "Shawn Williams"
+        },
+        {
+            "IMDB_ID": "nm4445117",
+            "Name": "Priya Anantram"
+        },
+        {
+            "IMDB_ID": "nm3140757",
+            "Name": "Priyanka Bose"
+        },
+        {
+            "IMDB_ID": "nm4445045",
+            "Name": "John Julius"
+        },
+        {
+            "IMDB_ID": "nm4445444",
+            "Name": "Rafat Sheikh"
+        },
+        {
+            "IMDB_ID": "nm1924456",
+            "Name": "Polly Shroff"
+        },
+        {
+            "IMDB_ID": "nm3126747",
+            "Name": "Aayam Mehta"
+        },
+        {
+            "IMDB_ID": "nm1868230",
+            "Name": "Sujata Kumar"
+        },
+        {
+            "IMDB_ID": "nm4446082",
+            "Name": "Varsha Agnihotri"
+        },
+        {
+            "IMDB_ID": "nm4280910",
+            "Name": "Rohit Mehra"
+        },
+        {
+            "IMDB_ID": "nm4445796",
+            "Name": "Benaifer Kuka"
+        },
+        {
+            "IMDB_ID": "nm4445442",
+            "Name": "Chandani Batra"
+        },
+        {
+            "IMDB_ID": "nm4445393",
+            "Name": "Megha Mehratra"
+        },
+        {
+            "IMDB_ID": "nm5637095",
+            "Name": "Sahil Shah"
+        },
+        {
+            "IMDB_ID": "nm4446079",
+            "Name": "K.C. Shankar"
+        },
+        {
+            "IMDB_ID": "nm4445424",
+            "Name": "Abdul Rashid"
+        },
+        {
+            "IMDB_ID": "nm4445339",
+            "Name": "Lawrie D'Couza"
+        },
+        {
+            "IMDB_ID": "nm2282039",
+            "Name": "Raja Pandit"
+        },
+        {
+            "IMDB_ID": "nm4445350",
+            "Name": "Vernon"
+        },
+        {
+            "IMDB_ID": "nm4445580",
+            "Name": "Mukesh"
+        },
+        {
+            "IMDB_ID": "nm4446083",
+            "Name": "Colin Karzai"
+        },
+        {
+            "IMDB_ID": "nm4444935",
+            "Name": "Gangaram"
+        },
+        {
+            "IMDB_ID": "nm4445876",
+            "Name": "Vincent"
+        },
+        {
+            "IMDB_ID": "nm4444956",
+            "Name": "Ashwin"
+        },
+        {
+            "IMDB_ID": "nm3319985",
+            "Name": "Tony Martin"
+        },
+        {
+            "IMDB_ID": "nm4445409",
+            "Name": "K.K. Cory"
+        },
+        {
+            "IMDB_ID": "nm4444960",
+            "Name": "Olivia"
+        },
+        {
+            "IMDB_ID": "nm3549980",
+            "Name": "Aurelia Khazan"
+        },
+        {
+            "IMDB_ID": "nm4445824",
+            "Name": "Sanjay"
+        },
+        {
+            "IMDB_ID": "nm4445457",
+            "Name": "Behram"
+        },
+        {
+            "IMDB_ID": "nm4445013",
+            "Name": "Bhernaz"
+        },
+        {
+            "IMDB_ID": "nm4445143",
+            "Name": "Somesh"
+        },
+        {
+            "IMDB_ID": "nm4445052",
+            "Name": "Gopi"
+        },
+        {
+            "IMDB_ID": "nm4853525",
+            "Name": "Sujatha Kumar"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Sanjay Leela Bhansali"
+    ],
+    "Genre": [
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Guzaarish",
+    "Runtime": 126
+}

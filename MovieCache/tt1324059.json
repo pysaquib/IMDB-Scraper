@@ -1,0 +1,89 @@
+{
+    "Bio": "A spoiled young adult living in Mumbai experiences a change in his lazy ways when he meets a woman at a party, who inspires him to \"wake up\".",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1633541",
+            "Name": "Ranbir Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1234298",
+            "Name": "Konkona Sen Sharma"
+        },
+        {
+            "IMDB_ID": "nm0665554",
+            "Name": "Supriya Pathak"
+        },
+        {
+            "IMDB_ID": "nm0451600",
+            "Name": "Anupam Kher"
+        },
+        {
+            "IMDB_ID": "nm0451391",
+            "Name": "Rahul Khanna"
+        },
+        {
+            "IMDB_ID": "nm0787447",
+            "Name": "Kashmira Shah"
+        },
+        {
+            "IMDB_ID": "nm2981021",
+            "Name": "Namit Das"
+        },
+        {
+            "IMDB_ID": "nm3646632",
+            "Name": "Shikha Talsania"
+        },
+        {
+            "IMDB_ID": "nm3831960",
+            "Name": "Shruti Bapna"
+        },
+        {
+            "IMDB_ID": "nm3831928",
+            "Name": "Krutika Bolaki"
+        },
+        {
+            "IMDB_ID": "nm3833991",
+            "Name": "Mohsin Ali Khan"
+        },
+        {
+            "IMDB_ID": "nm1224124",
+            "Name": "Munir Kabani"
+        },
+        {
+            "IMDB_ID": "nm3832935",
+            "Name": "Atisha Naik"
+        },
+        {
+            "IMDB_ID": "nm3774592",
+            "Name": "Rahul Pendkalkar"
+        },
+        {
+            "IMDB_ID": "nm3217731",
+            "Name": "Kainaz Motivala"
+        },
+        {
+            "IMDB_ID": "nm6031800",
+            "Name": "Asif Ali Baig"
+        },
+        {
+            "IMDB_ID": "nm2115677",
+            "Name": "Huzefa Gadiwala"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Ayan Mukherjee"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Languages": [
+        "Hindi",
+        "English",
+        "Bengali"
+    ],
+    "Name": "Wake Up Sid",
+    "Runtime": 138
+}

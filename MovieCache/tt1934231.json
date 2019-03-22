@@ -1,0 +1,289 @@
+{
+    "Bio": "Three struggling room-mates unknowingly become potential prey of a ruthless gangster.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1405359",
+            "Name": "Imran Khan"
+        },
+        {
+            "IMDB_ID": "nm1983888",
+            "Name": "Vir Das"
+        },
+        {
+            "IMDB_ID": "nm2622986",
+            "Name": "Kunaal Roy Kapur"
+        },
+        {
+            "IMDB_ID": "nm1376654",
+            "Name": "Shenaz Treasury"
+        },
+        {
+            "IMDB_ID": "nm1567198",
+            "Name": "Poorna Jagannathan"
+        },
+        {
+            "IMDB_ID": "nm0091035",
+            "Name": "Kim Bodnia"
+        },
+        {
+            "IMDB_ID": "nm0304093",
+            "Name": "Paresh Ganatra"
+        },
+        {
+            "IMDB_ID": "nm0704694",
+            "Name": "Vijay Raaz"
+        },
+        {
+            "IMDB_ID": "nm6226758",
+            "Name": "Satindir Anand"
+        },
+        {
+            "IMDB_ID": "nm4540542",
+            "Name": "Ashraf-Ul-Haque"
+        },
+        {
+            "IMDB_ID": "nm6226724",
+            "Name": "Dipti Avlani"
+        },
+        {
+            "IMDB_ID": "nm3438304",
+            "Name": "Manoj Bakshi"
+        },
+        {
+            "IMDB_ID": "nm1794424",
+            "Name": "Krishna Bansal"
+        },
+        {
+            "IMDB_ID": "nm3813621",
+            "Name": "Dhaval Barbhaya"
+        },
+        {
+            "IMDB_ID": "nm3221779",
+            "Name": "Bugs Bhargava"
+        },
+        {
+            "IMDB_ID": "nm4616691",
+            "Name": "Divya Bhatia"
+        },
+        {
+            "IMDB_ID": "nm5817269",
+            "Name": "Zeena Bhatia"
+        },
+        {
+            "IMDB_ID": "nm2773871",
+            "Name": "Nikita Bhatt"
+        },
+        {
+            "IMDB_ID": "nm3206953",
+            "Name": "Renuka Bondre"
+        },
+        {
+            "IMDB_ID": "nm6226780",
+            "Name": "Rishab Chadha"
+        },
+        {
+            "IMDB_ID": "nm6226784",
+            "Name": "V.K. Chanana"
+        },
+        {
+            "IMDB_ID": "nm4482766",
+            "Name": "Neville Dadachanji"
+        },
+        {
+            "IMDB_ID": "nm6226779",
+            "Name": "Pranil Darzi"
+        },
+        {
+            "IMDB_ID": "nm6226726",
+            "Name": "Rajesh D. Desai"
+        },
+        {
+            "IMDB_ID": "nm3530385",
+            "Name": "Mansee Deshmukh"
+        },
+        {
+            "IMDB_ID": "nm2567850",
+            "Name": "Ayesha DeVitre"
+        },
+        {
+            "IMDB_ID": "nm1458356",
+            "Name": "Anusha Dhandekar"
+        },
+        {
+            "IMDB_ID": "nm4540508",
+            "Name": "Nayani Dixit"
+        },
+        {
+            "IMDB_ID": "nm1876057",
+            "Name": "Lushin Dubey"
+        },
+        {
+            "IMDB_ID": "nm6226786",
+            "Name": "Sashi Gupta"
+        },
+        {
+            "IMDB_ID": "nm0361637",
+            "Name": "Ashraf Ul Haq"
+        },
+        {
+            "IMDB_ID": "nm4540606",
+            "Name": "Janet Hookway"
+        },
+        {
+            "IMDB_ID": "nm4540585",
+            "Name": "Gabriel John"
+        },
+        {
+            "IMDB_ID": "nm2234698",
+            "Name": "Pradeep Kabra"
+        },
+        {
+            "IMDB_ID": "nm6226729",
+            "Name": "Sitaram Devasi Kadam"
+        },
+        {
+            "IMDB_ID": "nm3390011",
+            "Name": "Saagar Kale"
+        },
+        {
+            "IMDB_ID": "nm1566040",
+            "Name": "Zafar Karachiwala"
+        },
+        {
+            "IMDB_ID": "nm6226759",
+            "Name": "Jehangi Ratansha Karkaria"
+        },
+        {
+            "IMDB_ID": "nm6226682",
+            "Name": "Vishesh Kaul"
+        },
+        {
+            "IMDB_ID": "nm0451148",
+            "Name": "Aamir Khan"
+        },
+        {
+            "IMDB_ID": "nm1806100",
+            "Name": "Habib Khan"
+        },
+        {
+            "IMDB_ID": "nm6226728",
+            "Name": "Reyub Khan"
+        },
+        {
+            "IMDB_ID": "nm0437781",
+            "Name": "Ramesh Khanna"
+        },
+        {
+            "IMDB_ID": "nm1334512",
+            "Name": "Ravi Khanvilkar"
+        },
+        {
+            "IMDB_ID": "nm6226781",
+            "Name": "Rajesh S. Khatri"
+        },
+        {
+            "IMDB_ID": "nm1199508",
+            "Name": "Raju Kher"
+        },
+        {
+            "IMDB_ID": "nm2384936",
+            "Name": "Rani Kochhar"
+        },
+        {
+            "IMDB_ID": "nm6226725",
+            "Name": "Mangesh K. Kshirsagar"
+        },
+        {
+            "IMDB_ID": "nm6226727",
+            "Name": "Abhijit Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm2198370",
+            "Name": "Avdesh Kumar"
+        },
+        {
+            "IMDB_ID": "nm3472981",
+            "Name": "Rakesh Kumar"
+        },
+        {
+            "IMDB_ID": "nm4663098",
+            "Name": "Shubhangi Latkar"
+        },
+        {
+            "IMDB_ID": "nm6226757",
+            "Name": "Kumar Manav"
+        },
+        {
+            "IMDB_ID": "nm0576577",
+            "Name": "Shilpa Mehta"
+        },
+        {
+            "IMDB_ID": "nm6226783",
+            "Name": "Uday Bhan Mourya"
+        },
+        {
+            "IMDB_ID": "nm1960924",
+            "Name": "Sunil Pandey"
+        },
+        {
+            "IMDB_ID": "nm3774592",
+            "Name": "Rahul Pendkalkar"
+        },
+        {
+            "IMDB_ID": "nm6226756",
+            "Name": "Salome Narayana Polaki"
+        },
+        {
+            "IMDB_ID": "nm4540561",
+            "Name": "Shinjini Raval"
+        },
+        {
+            "IMDB_ID": "nm6226782",
+            "Name": "Vanessa Rewrie"
+        },
+        {
+            "IMDB_ID": "nm1217893",
+            "Name": "Rajendra Sethi"
+        },
+        {
+            "IMDB_ID": "nm6117650",
+            "Name": "Shivam Sharma"
+        },
+        {
+            "IMDB_ID": "nm4540503",
+            "Name": "Dharmendar Singh"
+        },
+        {
+            "IMDB_ID": "nm0536799",
+            "Name": "Rahul Singh"
+        },
+        {
+            "IMDB_ID": "nm4540547",
+            "Name": "Sanjay Taneja"
+        },
+        {
+            "IMDB_ID": "nm3779049",
+            "Name": "Michael Terry"
+        },
+        {
+            "IMDB_ID": "nm4540558",
+            "Name": "Amjad Ali Warsi"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Abhinay Deo",
+        "Akshat Verma"
+    ],
+    "Genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "Languages": [
+        "English",
+        "Hindi"
+    ],
+    "Name": "Delhi Belly",
+    "Runtime": 103
+}

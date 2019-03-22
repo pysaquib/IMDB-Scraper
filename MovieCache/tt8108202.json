@@ -1,0 +1,78 @@
+{
+    "Bio": "In the small town of Chanderi, the menfolk live in fear of an evil spirit named \"Stree\" who abducts men in the night. Based on the urban legend of \"Nale Ba\" that went viral in Karnataka in the 1990s.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3822770",
+            "Name": "Rajkummar Rao"
+        },
+        {
+            "IMDB_ID": "nm3601766",
+            "Name": "Shraddha Kapoor"
+        },
+        {
+            "IMDB_ID": "nm2690647",
+            "Name": "Pankaj Tripathi"
+        },
+        {
+            "IMDB_ID": "nm6269780",
+            "Name": "Aparshakti Khurana"
+        },
+        {
+            "IMDB_ID": "nm4045010",
+            "Name": "Abhishek Banerjee"
+        },
+        {
+            "IMDB_ID": "nm1594666",
+            "Name": "Atul Srivastava"
+        },
+        {
+            "IMDB_ID": "nm0704694",
+            "Name": "Vijay Raaz"
+        },
+        {
+            "IMDB_ID": "nm3561962",
+            "Name": "Aakash Dabhade"
+        },
+        {
+            "IMDB_ID": "nm6598222",
+            "Name": "Nora Fatehi"
+        },
+        {
+            "IMDB_ID": "nm5305841",
+            "Name": "Kriti Sanon"
+        },
+        {
+            "IMDB_ID": "nm1671733",
+            "Name": "Flora Saini"
+        },
+        {
+            "IMDB_ID": "nm4442569",
+            "Name": "Joy Badlani"
+        },
+        {
+            "IMDB_ID": "nm4894667",
+            "Name": "Viren Basoya"
+        },
+        {
+            "IMDB_ID": "nm8682383",
+            "Name": "Badri Chavan"
+        },
+        {
+            "IMDB_ID": "nm0451272",
+            "Name": "Mushtaq Khan"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Amar Kaushik"
+    ],
+    "Genre": [
+        "Comedy",
+        "Horror"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Stree",
+    "Runtime": 128
+}

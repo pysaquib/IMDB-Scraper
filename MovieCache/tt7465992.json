@@ -1,0 +1,727 @@
+{
+    "Bio": "Biography of Savitri, an actress from South India movie industry, who ruled the industry for two decades during 50s and 60s.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm7146337",
+            "Name": "Keerthi Suresh"
+        },
+        {
+            "IMDB_ID": "nm4921260",
+            "Name": "Dulquer Salmaan"
+        },
+        {
+            "IMDB_ID": "nm3606487",
+            "Name": "Samantha Ruth Prabhu"
+        },
+        {
+            "IMDB_ID": "nm4797922",
+            "Name": "Vijay Deverakonda"
+        },
+        {
+            "IMDB_ID": "nm0707399",
+            "Name": "Rajendra Prasad"
+        },
+        {
+            "IMDB_ID": "nm0080228",
+            "Name": "Bhanupriya"
+        },
+        {
+            "IMDB_ID": "nm0228685",
+            "Name": "Divyavani"
+        },
+        {
+            "IMDB_ID": "nm0595934",
+            "Name": "Mohan Babu"
+        },
+        {
+            "IMDB_ID": "nm0695177",
+            "Name": "Prakash Raj"
+        },
+        {
+            "IMDB_ID": "nm4015380",
+            "Name": "Srinivas Avasarala"
+        },
+        {
+            "IMDB_ID": "nm3602118",
+            "Name": "Naga Chaitanya Akkineni"
+        },
+        {
+            "IMDB_ID": "nm1007581",
+            "Name": "Manobala"
+        },
+        {
+            "IMDB_ID": "nm6325281",
+            "Name": "Malavika Nair"
+        },
+        {
+            "IMDB_ID": "nm7441022",
+            "Name": "Shalini Pandey"
+        },
+        {
+            "IMDB_ID": "nm3758453",
+            "Name": "Radha Krishna Jagarlamudi"
+        },
+        {
+            "IMDB_ID": "nm5056902",
+            "Name": "Tharun Bhascker Dhaassyam"
+        },
+        {
+            "IMDB_ID": "nm9952149",
+            "Name": "Sai Tejashwini"
+        },
+        {
+            "IMDB_ID": "nm9952150",
+            "Name": "Chaitra"
+        },
+        {
+            "IMDB_ID": "nm9952151",
+            "Name": "Suresh"
+        },
+        {
+            "IMDB_ID": "nm9953164",
+            "Name": "Ram Charan"
+        },
+        {
+            "IMDB_ID": "nm9952152",
+            "Name": "Jayanthi Reddy"
+        },
+        {
+            "IMDB_ID": "nm9952153",
+            "Name": "Thulasi"
+        },
+        {
+            "IMDB_ID": "nm9952154",
+            "Name": "Murali Krishna"
+        },
+        {
+            "IMDB_ID": "nm9952155",
+            "Name": "Ramadevi"
+        },
+        {
+            "IMDB_ID": "nm9227039",
+            "Name": "Sandeep Reddy Vanga"
+        },
+        {
+            "IMDB_ID": "nm9952156",
+            "Name": "Somshekar"
+        },
+        {
+            "IMDB_ID": "nm9952157",
+            "Name": "Muktha"
+        },
+        {
+            "IMDB_ID": "nm9952158",
+            "Name": "Rambabu"
+        },
+        {
+            "IMDB_ID": "nm9952159",
+            "Name": "Divya"
+        },
+        {
+            "IMDB_ID": "nm9744941",
+            "Name": "Harini Rao"
+        },
+        {
+            "IMDB_ID": "nm9952160",
+            "Name": "Mrunal Varma"
+        },
+        {
+            "IMDB_ID": "nm9952161",
+            "Name": "Vijay Kumar"
+        },
+        {
+            "IMDB_ID": "nm8996453",
+            "Name": "Avanti Deepak"
+        },
+        {
+            "IMDB_ID": "nm9952162",
+            "Name": "Jayamma"
+        },
+        {
+            "IMDB_ID": "nm9952163",
+            "Name": "Durga"
+        },
+        {
+            "IMDB_ID": "nm1347441",
+            "Name": "Prasad Sharma"
+        },
+        {
+            "IMDB_ID": "nm0080238",
+            "Name": "Tanikella Bharani"
+        },
+        {
+            "IMDB_ID": "nm9808565",
+            "Name": "Mohan Bhagath"
+        },
+        {
+            "IMDB_ID": "nm9952164",
+            "Name": "Rohith"
+        },
+        {
+            "IMDB_ID": "nm9952165",
+            "Name": "Sai Kiran"
+        },
+        {
+            "IMDB_ID": "nm9952166",
+            "Name": "Sreekanth"
+        },
+        {
+            "IMDB_ID": "nm9952167",
+            "Name": "N. Kiran Sai Reddy"
+        },
+        {
+            "IMDB_ID": "nm9952168",
+            "Name": "Santhosh"
+        },
+        {
+            "IMDB_ID": "nm9952169",
+            "Name": "Hamshitha"
+        },
+        {
+            "IMDB_ID": "nm9952170",
+            "Name": "Twisha"
+        },
+        {
+            "IMDB_ID": "nm9952171",
+            "Name": "Shilpa Gns"
+        },
+        {
+            "IMDB_ID": "nm0820245",
+            "Name": "Sri Lakshmi"
+        },
+        {
+            "IMDB_ID": "nm1020283",
+            "Name": "Karthik"
+        },
+        {
+            "IMDB_ID": "nm1020283",
+            "Name": "Akhil"
+        },
+        {
+            "IMDB_ID": "nm1020284",
+            "Name": "C.H. Manohar"
+        },
+        {
+            "IMDB_ID": "nm0621418",
+            "Name": "V.K. Naresh"
+        },
+        {
+            "IMDB_ID": "nm9952172",
+            "Name": "Arjuna Prasad"
+        },
+        {
+            "IMDB_ID": "nm9952173",
+            "Name": "Srinivasa Rao"
+        },
+        {
+            "IMDB_ID": "nm9952174",
+            "Name": "Raj Nihar"
+        },
+        {
+            "IMDB_ID": "nm9952175",
+            "Name": "Karunn"
+        },
+        {
+            "IMDB_ID": "nm9952176",
+            "Name": "Lakshmi"
+        },
+        {
+            "IMDB_ID": "nm9952177",
+            "Name": "Surendra"
+        },
+        {
+            "IMDB_ID": "nm2458101",
+            "Name": "A. Murali Krishna"
+        },
+        {
+            "IMDB_ID": "nm9952178",
+            "Name": "Narayana"
+        },
+        {
+            "IMDB_ID": "nm9952179",
+            "Name": "Kala"
+        },
+        {
+            "IMDB_ID": "nm2649664",
+            "Name": "Purushottam"
+        },
+        {
+            "IMDB_ID": "nm9952180",
+            "Name": "Swami"
+        },
+        {
+            "IMDB_ID": "nm9952245",
+            "Name": "Kaaliraju"
+        },
+        {
+            "IMDB_ID": "nm7802864",
+            "Name": "Irfaan Khan"
+        },
+        {
+            "IMDB_ID": "nm9952246",
+            "Name": "Vasanth Rao"
+        },
+        {
+            "IMDB_ID": "nm9952247",
+            "Name": "Charani Rao Pidikiti"
+        },
+        {
+            "IMDB_ID": "nm9706424",
+            "Name": "Mahesh Achanta"
+        },
+        {
+            "IMDB_ID": "nm7188765",
+            "Name": "Ramya Achanta"
+        },
+        {
+            "IMDB_ID": "nm9952279",
+            "Name": "Aishwarya"
+        },
+        {
+            "IMDB_ID": "nm9952376",
+            "Name": "Ajay"
+        },
+        {
+            "IMDB_ID": "nm9952256",
+            "Name": "Ajith"
+        },
+        {
+            "IMDB_ID": "nm9952278",
+            "Name": "Akshara"
+        },
+        {
+            "IMDB_ID": "nm1538033",
+            "Name": "Rajab Ali"
+        },
+        {
+            "IMDB_ID": "nm9952261",
+            "Name": "Alivelu"
+        },
+        {
+            "IMDB_ID": "nm9952288",
+            "Name": "Siri Ankith"
+        },
+        {
+            "IMDB_ID": "nm9952251",
+            "Name": "Anusha"
+        },
+        {
+            "IMDB_ID": "nm9952267",
+            "Name": "Arun"
+        },
+        {
+            "IMDB_ID": "nm9952262",
+            "Name": "Ram Babu"
+        },
+        {
+            "IMDB_ID": "nm9952313",
+            "Name": "Suresh Babu"
+        },
+        {
+            "IMDB_ID": "nm9952307",
+            "Name": "Baby Sri"
+        },
+        {
+            "IMDB_ID": "nm9952258",
+            "Name": "Guru Bachan"
+        },
+        {
+            "IMDB_ID": "nm9952379",
+            "Name": "Albert Bertram"
+        },
+        {
+            "IMDB_ID": "nm9952298",
+            "Name": "Bhaskar"
+        },
+        {
+            "IMDB_ID": "nm9952370",
+            "Name": "Sridevi Bhumi"
+        },
+        {
+            "IMDB_ID": "nm7339980",
+            "Name": "Sai Madhav Burra"
+        },
+        {
+            "IMDB_ID": "nm8675856",
+            "Name": "Vamsee Chaganti"
+        },
+        {
+            "IMDB_ID": "nm9952304",
+            "Name": "Chalapathy"
+        },
+        {
+            "IMDB_ID": "nm9952356",
+            "Name": "Chandrika"
+        },
+        {
+            "IMDB_ID": "nm9952257",
+            "Name": "Chandrkanth"
+        },
+        {
+            "IMDB_ID": "nm9952259",
+            "Name": "Ashrita Chaparala"
+        },
+        {
+            "IMDB_ID": "nm2776304",
+            "Name": "Ram Charan"
+        },
+        {
+            "IMDB_ID": "nm8701926",
+            "Name": "Charitha"
+        },
+        {
+            "IMDB_ID": "nm9952260",
+            "Name": "Chiranjeevi"
+        },
+        {
+            "IMDB_ID": "nm9952296",
+            "Name": "Devi"
+        },
+        {
+            "IMDB_ID": "nm9952369",
+            "Name": "Dileep"
+        },
+        {
+            "IMDB_ID": "nm9952293",
+            "Name": "Srinivas Emani"
+        },
+        {
+            "IMDB_ID": "nm7886588",
+            "Name": "Pallavi Gangireddy"
+        },
+        {
+            "IMDB_ID": "nm9952290",
+            "Name": "Geetha Gautam"
+        },
+        {
+            "IMDB_ID": "nm9952294",
+            "Name": "Prasad Gogineni"
+        },
+        {
+            "IMDB_ID": "nm9952368",
+            "Name": "Baby Harini"
+        },
+        {
+            "IMDB_ID": "nm9952277",
+            "Name": "Haritha"
+        },
+        {
+            "IMDB_ID": "nm9952355",
+            "Name": "Indrakshi"
+        },
+        {
+            "IMDB_ID": "nm7188770",
+            "Name": "Aishwarya Iyer"
+        },
+        {
+            "IMDB_ID": "nm9952361",
+            "Name": "Jaidev"
+        },
+        {
+            "IMDB_ID": "nm8243778",
+            "Name": "Jyotsna"
+        },
+        {
+            "IMDB_ID": "nm9952283",
+            "Name": "Kamesh"
+        },
+        {
+            "IMDB_ID": "nm9952255",
+            "Name": "Karim"
+        },
+        {
+            "IMDB_ID": "nm3812353",
+            "Name": "Keerthika"
+        },
+        {
+            "IMDB_ID": "nm9952302",
+            "Name": "Kamal Kiran"
+        },
+        {
+            "IMDB_ID": "nm5064474",
+            "Name": "John Kottoly"
+        },
+        {
+            "IMDB_ID": "nm9952292",
+            "Name": "Krishna"
+        },
+        {
+            "IMDB_ID": "nm8744104",
+            "Name": "Chandana Krishna"
+        },
+        {
+            "IMDB_ID": "nm9952363",
+            "Name": "Abhinav Kodam Kumar"
+        },
+        {
+            "IMDB_ID": "nm9952268",
+            "Name": "Prem Kumar"
+        },
+        {
+            "IMDB_ID": "nm9952265",
+            "Name": "Shiva Kumar"
+        },
+        {
+            "IMDB_ID": "nm9952351",
+            "Name": "Sri Lakshmi"
+        },
+        {
+            "IMDB_ID": "nm9952364",
+            "Name": "Lucky"
+        },
+        {
+            "IMDB_ID": "nm9952310",
+            "Name": "Madhavi"
+        },
+        {
+            "IMDB_ID": "nm9952272",
+            "Name": "Babu Makkireddy"
+        },
+        {
+            "IMDB_ID": "nm9952249",
+            "Name": "Malli"
+        },
+        {
+            "IMDB_ID": "nm9952366",
+            "Name": "Mallikarjuna"
+        },
+        {
+            "IMDB_ID": "nm9952297",
+            "Name": "Manikyam"
+        },
+        {
+            "IMDB_ID": "nm9952308",
+            "Name": "Moovender"
+        },
+        {
+            "IMDB_ID": "nm9952285",
+            "Name": "Murthy"
+        },
+        {
+            "IMDB_ID": "nm9952276",
+            "Name": "Namala Murthy"
+        },
+        {
+            "IMDB_ID": "nm9952269",
+            "Name": "Nagaraju"
+        },
+        {
+            "IMDB_ID": "nm9952362",
+            "Name": "Murthy Naidu"
+        },
+        {
+            "IMDB_ID": "nm9952309",
+            "Name": "Nandita"
+        },
+        {
+            "IMDB_ID": "nm9952291",
+            "Name": "Nanditha"
+        },
+        {
+            "IMDB_ID": "nm2489853",
+            "Name": "Adi Narayana"
+        },
+        {
+            "IMDB_ID": "nm9952360",
+            "Name": "Lakshmi Narayana"
+        },
+        {
+            "IMDB_ID": "nm9952280",
+            "Name": "Narendra"
+        },
+        {
+            "IMDB_ID": "nm9952316",
+            "Name": "Narsimhulu"
+        },
+        {
+            "IMDB_ID": "nm1515673",
+            "Name": "Niharika"
+        },
+        {
+            "IMDB_ID": "nm9952286",
+            "Name": "Nirmala"
+        },
+        {
+            "IMDB_ID": "nm9952287",
+            "Name": "Olga"
+        },
+        {
+            "IMDB_ID": "nm9952248",
+            "Name": "Bombay Padma"
+        },
+        {
+            "IMDB_ID": "nm1935127",
+            "Name": "Prabhavathi"
+        },
+        {
+            "IMDB_ID": "nm9952314",
+            "Name": "Praveen Prabhu"
+        },
+        {
+            "IMDB_ID": "nm9952315",
+            "Name": "Kvd Prasad"
+        },
+        {
+            "IMDB_ID": "nm9952303",
+            "Name": "Pravallika"
+        },
+        {
+            "IMDB_ID": "nm9952275",
+            "Name": "Purnajer"
+        },
+        {
+            "IMDB_ID": "nm9952273",
+            "Name": "Bangaru Raju"
+        },
+        {
+            "IMDB_ID": "nm9952281",
+            "Name": "Ramesh"
+        },
+        {
+            "IMDB_ID": "nm9952271",
+            "Name": "Ramu"
+        },
+        {
+            "IMDB_ID": "nm1301883",
+            "Name": "Ram Mohan Rao"
+        },
+        {
+            "IMDB_ID": "nm9952367",
+            "Name": "Subba Rao"
+        },
+        {
+            "IMDB_ID": "nm9952252",
+            "Name": "Swaraj Rao"
+        },
+        {
+            "IMDB_ID": "nm9952282",
+            "Name": "Karthik Ratnam"
+        },
+        {
+            "IMDB_ID": "nm9952295",
+            "Name": "Shruti Rayan"
+        },
+        {
+            "IMDB_ID": "nm8285593",
+            "Name": "Swaraj Rebbapragada"
+        },
+        {
+            "IMDB_ID": "nm9952312",
+            "Name": "Lavanya Reddy"
+        },
+        {
+            "IMDB_ID": "nm9952353",
+            "Name": "Nikhila Reddy"
+        },
+        {
+            "IMDB_ID": "nm9952311",
+            "Name": "Revathinath"
+        },
+        {
+            "IMDB_ID": "nm9952274",
+            "Name": "Rishi"
+        },
+        {
+            "IMDB_ID": "nm6207242",
+            "Name": "Rishita"
+        },
+        {
+            "IMDB_ID": "nm9952305",
+            "Name": "Rushank"
+        },
+        {
+            "IMDB_ID": "nm9952306",
+            "Name": "Saanvi"
+        },
+        {
+            "IMDB_ID": "nm9952289",
+            "Name": "Bhavya Salapu"
+        },
+        {
+            "IMDB_ID": "nm3288367",
+            "Name": "Dani Sanchez-Lopez"
+        },
+        {
+            "IMDB_ID": "nm2360937",
+            "Name": "Shivi"
+        },
+        {
+            "IMDB_ID": "nm9952375",
+            "Name": "Simha"
+        },
+        {
+            "IMDB_ID": "nm9952373",
+            "Name": "Sindhura"
+        },
+        {
+            "IMDB_ID": "nm9952250",
+            "Name": "Srinivas"
+        },
+        {
+            "IMDB_ID": "nm9952266",
+            "Name": "Surya Srinivas"
+        },
+        {
+            "IMDB_ID": "nm1746107",
+            "Name": "Srinu"
+        },
+        {
+            "IMDB_ID": "nm9952378",
+            "Name": "Srivi"
+        },
+        {
+            "IMDB_ID": "nm9952301",
+            "Name": "Vv Subramanyam"
+        },
+        {
+            "IMDB_ID": "nm9952270",
+            "Name": "Sundaram"
+        },
+        {
+            "IMDB_ID": "nm9952253",
+            "Name": "Swaraj"
+        },
+        {
+            "IMDB_ID": "nm9952371",
+            "Name": "Sree Teja"
+        },
+        {
+            "IMDB_ID": "nm0876310",
+            "Name": "Tulasi"
+        },
+        {
+            "IMDB_ID": "nm9952254",
+            "Name": "Veerabadram"
+        },
+        {
+            "IMDB_ID": "nm9952264",
+            "Name": "Maha Venkatesh"
+        },
+        {
+            "IMDB_ID": "nm9952300",
+            "Name": "Vidya"
+        },
+        {
+            "IMDB_ID": "nm5598665",
+            "Name": "Sri Vidya"
+        },
+        {
+            "IMDB_ID": "nm9952372",
+            "Name": "Srinivas Volety"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Nag Ashwin"
+    ],
+    "Genre": [
+        "Biography",
+        "Drama"
+    ],
+    "Languages": [
+        "Telugu",
+        "Tamil"
+    ],
+    "Name": "Mahanati",
+    "Runtime": 177
+}

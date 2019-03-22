@@ -1,0 +1,80 @@
+{
+    "Bio": "An NRI and his wife decide to stay in his ancestral home, paying no heed to the warnings about ghosts. Soon, inexplicable occurrences cause him to call a psychiatrist to help solve the mystery.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0474774",
+            "Name": "Akshay Kumar"
+        },
+        {
+            "IMDB_ID": "nm1799038",
+            "Name": "Vidya Balan"
+        },
+        {
+            "IMDB_ID": "nm1832004",
+            "Name": "Shiney Ahuja"
+        },
+        {
+            "IMDB_ID": "nm0665349",
+            "Name": "Ameesha Patel"
+        },
+        {
+            "IMDB_ID": "nm0712546",
+            "Name": "Paresh Rawal"
+        },
+        {
+            "IMDB_ID": "nm1056425",
+            "Name": "Rajpal Yadav"
+        },
+        {
+            "IMDB_ID": "nm2147526",
+            "Name": "Asrani"
+        },
+        {
+            "IMDB_ID": "nm0324845",
+            "Name": "Vikram Gokhale"
+        },
+        {
+            "IMDB_ID": "nm1259084",
+            "Name": "Manoj Joshi"
+        },
+        {
+            "IMDB_ID": "nm1671375",
+            "Name": "Rasika Joshi"
+        },
+        {
+            "IMDB_ID": "nm2537606",
+            "Name": "Tarina Patel"
+        },
+        {
+            "IMDB_ID": "nm5434905",
+            "Name": "Jimit Trivedi"
+        },
+        {
+            "IMDB_ID": "nm0898913",
+            "Name": "Vineeth"
+        },
+        {
+            "IMDB_ID": "nm2817703",
+            "Name": "Kaveri Jha"
+        },
+        {
+            "IMDB_ID": "nm0004564",
+            "Name": "Hema Malini"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Priyadarshan"
+    ],
+    "Genre": [
+        "Comedy",
+        "Horror",
+        "Mystery"
+    ],
+    "Languages": [
+        "Hindi",
+        "Bengali"
+    ],
+    "Name": "Bhool Bhulaiyaa",
+    "Runtime": 159
+}

@@ -1,0 +1,87 @@
+{
+    "Bio": "A young man returns to Kashmir after his father's disappearance to confront his uncle - the man he suspects of playing a role in his father's fate.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0007102",
+            "Name": "Tabu"
+        },
+        {
+            "IMDB_ID": "nm1372788",
+            "Name": "Shahid Kapoor"
+        },
+        {
+            "IMDB_ID": "nm3601766",
+            "Name": "Shraddha Kapoor"
+        },
+        {
+            "IMDB_ID": "nm1946407",
+            "Name": "Kay Kay Menon"
+        },
+        {
+            "IMDB_ID": "nm2368423",
+            "Name": "Narendra Jha"
+        },
+        {
+            "IMDB_ID": "nm0451425",
+            "Name": "Kulbhushan Kharbanda"
+        },
+        {
+            "IMDB_ID": "nm1391032",
+            "Name": "Lalit Parimoo"
+        },
+        {
+            "IMDB_ID": "nm0896573",
+            "Name": "Ashish Vidyarthi"
+        },
+        {
+            "IMDB_ID": "nm2085856",
+            "Name": "Aamir Bashir"
+        },
+        {
+            "IMDB_ID": "nm4444484",
+            "Name": "Sumit Kaul"
+        },
+        {
+            "IMDB_ID": "nm4488932",
+            "Name": "Rajat Bhagat"
+        },
+        {
+            "IMDB_ID": "nm2586977",
+            "Name": "Ashwath Bhatt"
+        },
+        {
+            "IMDB_ID": "nm0451234",
+            "Name": "Irrfan Khan"
+        },
+        {
+            "IMDB_ID": "nm6527505",
+            "Name": "Anshuman Malhotra"
+        },
+        {
+            "IMDB_ID": "nm7499800",
+            "Name": "Lankesh Bhardwaj"
+        },
+        {
+            "IMDB_ID": "nm9093959",
+            "Name": "Bhawani Muzamil"
+        },
+        {
+            "IMDB_ID": "nm6487252",
+            "Name": "Mohommed Ali Shah"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Vishal Bhardwaj"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Haider",
+    "Runtime": 160
+}

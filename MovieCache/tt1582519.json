@@ -1,0 +1,97 @@
+{
+    "Bio": "When a mysterious illness ravages a remote village, the villagers embrace a reluctant taxi driver as their savior.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm1121870",
+            "Name": "Mahesh Babu"
+        },
+        {
+            "IMDB_ID": "nm2011932",
+            "Name": "Anushka Shetty"
+        },
+        {
+            "IMDB_ID": "nm0695177",
+            "Name": "Prakash Raj"
+        },
+        {
+            "IMDB_ID": "nm0103977",
+            "Name": "Brahmanandam"
+        },
+        {
+            "IMDB_ID": "nm0080238",
+            "Name": "Tanikella Bharani"
+        },
+        {
+            "IMDB_ID": "nm1198628",
+            "Name": "Suneel"
+        },
+        {
+            "IMDB_ID": "nm0837189",
+            "Name": "Sudha"
+        },
+        {
+            "IMDB_ID": "nm0019382",
+            "Name": "Ali"
+        },
+        {
+            "IMDB_ID": "nm0621263",
+            "Name": "M.S. Narayana"
+        },
+        {
+            "IMDB_ID": "nm2310461",
+            "Name": "Shafi"
+        },
+        {
+            "IMDB_ID": "nm1759615",
+            "Name": "Subbaraju"
+        },
+        {
+            "IMDB_ID": "nm0223506",
+            "Name": "Dharmavarapu Subramanyam"
+        },
+        {
+            "IMDB_ID": "nm2747117",
+            "Name": "Archana"
+        },
+        {
+            "IMDB_ID": "nm4442569",
+            "Name": "Joy Badlani"
+        },
+        {
+            "IMDB_ID": "nm3474130",
+            "Name": "Aman Dhaliwal"
+        },
+        {
+            "IMDB_ID": "nm3575688",
+            "Name": "Pawan Jam"
+        },
+        {
+            "IMDB_ID": "nm0439828",
+            "Name": "Supriya Karnik"
+        },
+        {
+            "IMDB_ID": "nm3559559",
+            "Name": "Rao Ramesh"
+        },
+        {
+            "IMDB_ID": "nm9855558",
+            "Name": "Pammi Sai"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Trivikram Srinivas"
+    ],
+    "Genre": [
+        "Action",
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Telugu",
+        "Hindi",
+        "English"
+    ],
+    "Name": "Khaleja",
+    "Runtime": 170
+}

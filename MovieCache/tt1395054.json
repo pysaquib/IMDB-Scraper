@@ -1,0 +1,239 @@
+{
+    "Bio": "A smuggler rises to power in in 1970s Mumbai, a younger gangster seeks to overthrow him and a police officer is caught in the middle.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0222426",
+            "Name": "Ajay Devgn"
+        },
+        {
+            "IMDB_ID": "nm1431656",
+            "Name": "Emraan Hashmi"
+        },
+        {
+            "IMDB_ID": "nm2144007",
+            "Name": "Kangana Ranaut"
+        },
+        {
+            "IMDB_ID": "nm2278458",
+            "Name": "Prachi Desai"
+        },
+        {
+            "IMDB_ID": "nm0393535",
+            "Name": "Randeep Hooda"
+        },
+        {
+            "IMDB_ID": "nm1240831",
+            "Name": "Naved Aslam"
+        },
+        {
+            "IMDB_ID": "nm1983446",
+            "Name": "Sanjeev Wilson"
+        },
+        {
+            "IMDB_ID": "nm3080979",
+            "Name": "Allauddin Khan"
+        },
+        {
+            "IMDB_ID": "nm6563134",
+            "Name": "Rajeev Yadav"
+        },
+        {
+            "IMDB_ID": "nm3124900",
+            "Name": "Sushil Pandey"
+        },
+        {
+            "IMDB_ID": "nm2013724",
+            "Name": "Mehul Bhojak"
+        },
+        {
+            "IMDB_ID": "nm2776317",
+            "Name": "Anjum Sharma"
+        },
+        {
+            "IMDB_ID": "nm3358585",
+            "Name": "Dheerendra Dwivedi"
+        },
+        {
+            "IMDB_ID": "nm4444484",
+            "Name": "Sumit Kaul"
+        },
+        {
+            "IMDB_ID": "nm1334512",
+            "Name": "Ravi Khanvilkar"
+        },
+        {
+            "IMDB_ID": "nm1234545",
+            "Name": "Chandrakant Taneja"
+        },
+        {
+            "IMDB_ID": "nm3174904",
+            "Name": "Asif Hussain"
+        },
+        {
+            "IMDB_ID": "nm1616485",
+            "Name": "Hemant Chaudhary"
+        },
+        {
+            "IMDB_ID": "nm3035025",
+            "Name": "Vikas Shrivastav"
+        },
+        {
+            "IMDB_ID": "nm1794460",
+            "Name": "Asif Basra"
+        },
+        {
+            "IMDB_ID": "nm0318622",
+            "Name": "Avtar Gill"
+        },
+        {
+            "IMDB_ID": "nm7365947",
+            "Name": "Pankaj Sharma"
+        },
+        {
+            "IMDB_ID": "nm3128487",
+            "Name": "Dinkar Gavande"
+        },
+        {
+            "IMDB_ID": "nm1566197",
+            "Name": "Gyan Prakash"
+        },
+        {
+            "IMDB_ID": "nm0958860",
+            "Name": "Prithvi Zutshi"
+        },
+        {
+            "IMDB_ID": "nm7365948",
+            "Name": "Tarang Nehra"
+        },
+        {
+            "IMDB_ID": "nm7081300",
+            "Name": "Rakesh Biduwa"
+        },
+        {
+            "IMDB_ID": "nm3138453",
+            "Name": "Krishna Raaz"
+        },
+        {
+            "IMDB_ID": "nm1242974",
+            "Name": "Meenal Patel"
+        },
+        {
+            "IMDB_ID": "nm2506844",
+            "Name": "Anuj Tikku"
+        },
+        {
+            "IMDB_ID": "nm4492997",
+            "Name": "Payal Nair"
+        },
+        {
+            "IMDB_ID": "nm2818040",
+            "Name": "Pradip Sagar"
+        },
+        {
+            "IMDB_ID": "nm2246740",
+            "Name": "Imran Hasnee"
+        },
+        {
+            "IMDB_ID": "nm7365949",
+            "Name": "Anamika Benn"
+        },
+        {
+            "IMDB_ID": "nm4107768",
+            "Name": "Amy Kingston"
+        },
+        {
+            "IMDB_ID": "nm4426779",
+            "Name": "Sanjay Roy"
+        },
+        {
+            "IMDB_ID": "nm4190866",
+            "Name": "Mahendra Shrivas"
+        },
+        {
+            "IMDB_ID": "nm3835549",
+            "Name": "Sanjay Kulkarni"
+        },
+        {
+            "IMDB_ID": "nm7365950",
+            "Name": "Dhanlaxmi"
+        },
+        {
+            "IMDB_ID": "nm6419802",
+            "Name": "Prashant Barot"
+        },
+        {
+            "IMDB_ID": "nm7365951",
+            "Name": "Resham Arora"
+        },
+        {
+            "IMDB_ID": "nm5587153",
+            "Name": "Ratan Lal"
+        },
+        {
+            "IMDB_ID": "nm4710418",
+            "Name": "Madhuri Bedekar"
+        },
+        {
+            "IMDB_ID": "nm2052194",
+            "Name": "Raaj Gopal Iyer"
+        },
+        {
+            "IMDB_ID": "nm3662667",
+            "Name": "Kamal Adeep"
+        },
+        {
+            "IMDB_ID": "nm2982943",
+            "Name": "Rohit Pathak"
+        },
+        {
+            "IMDB_ID": "nm7365952",
+            "Name": "Tareeq"
+        },
+        {
+            "IMDB_ID": "nm3936027",
+            "Name": "Anand Alkunte"
+        },
+        {
+            "IMDB_ID": "nm5578392",
+            "Name": "Krishna Choudhary"
+        },
+        {
+            "IMDB_ID": "nm1568415",
+            "Name": "Kamal Adib"
+        },
+        {
+            "IMDB_ID": "nm3193990",
+            "Name": "Varun Bagri"
+        },
+        {
+            "IMDB_ID": "nm4614232",
+            "Name": "Herbie Crasto"
+        },
+        {
+            "IMDB_ID": "nm4546597",
+            "Name": "Namit Dahiya"
+        },
+        {
+            "IMDB_ID": "nm0451171",
+            "Name": "Arbaaz Ali Khan"
+        },
+        {
+            "IMDB_ID": "nm1247401",
+            "Name": "Gauhar Khan"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Milan Luthria"
+    ],
+    "Genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Once Upon a Time in Mumbaai",
+    "Runtime": 134
+}

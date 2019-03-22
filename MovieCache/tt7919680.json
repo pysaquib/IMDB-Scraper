@@ -1,0 +1,138 @@
+{
+    "Bio": "Two friends and a chirpy teenager take a road trip from Bangalore to Kochi.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0451234",
+            "Name": "Irrfan Khan"
+        },
+        {
+            "IMDB_ID": "nm4921260",
+            "Name": "Dulquer Salmaan"
+        },
+        {
+            "IMDB_ID": "nm7331044",
+            "Name": "Mithila Palkar"
+        },
+        {
+            "IMDB_ID": "nm0023839",
+            "Name": "Amala Akkineni"
+        },
+        {
+            "IMDB_ID": "nm0452021",
+            "Name": "Akash Khurana"
+        },
+        {
+            "IMDB_ID": "nm3713653",
+            "Name": "Kriti Kharbanda"
+        },
+        {
+            "IMDB_ID": "nm8708419",
+            "Name": "Donna Munshi"
+        },
+        {
+            "IMDB_ID": "nm2935202",
+            "Name": "Abir Abrar"
+        },
+        {
+            "IMDB_ID": "nm0066455",
+            "Name": "Beena Banerjee"
+        },
+        {
+            "IMDB_ID": "nm5913962",
+            "Name": "Siddharth Menon"
+        },
+        {
+            "IMDB_ID": "nm9607546",
+            "Name": "Adrika Shetty"
+        },
+        {
+            "IMDB_ID": "nm6875639",
+            "Name": "Sameer Saxena"
+        },
+        {
+            "IMDB_ID": "nm4240443",
+            "Name": "Kallirroi Tziafeta"
+        },
+        {
+            "IMDB_ID": "nm8629332",
+            "Name": "Richard John Lovatt"
+        },
+        {
+            "IMDB_ID": "nm4147929",
+            "Name": "Nipun Dharmadhikari"
+        },
+        {
+            "IMDB_ID": "nm9719924",
+            "Name": "Adhaar Khurana"
+        },
+        {
+            "IMDB_ID": "nm8447223",
+            "Name": "Sarang Sathye"
+        },
+        {
+            "IMDB_ID": "nm8981894",
+            "Name": "Shubrajyoti Bharat"
+        },
+        {
+            "IMDB_ID": "nm1550800",
+            "Name": "Ambika Mohan"
+        },
+        {
+            "IMDB_ID": "nm4150487",
+            "Name": "Jan Bostock"
+        },
+        {
+            "IMDB_ID": "nm9119259",
+            "Name": "R. Bhakti Klein"
+        },
+        {
+            "IMDB_ID": "nm9938544",
+            "Name": "Prasanthkumar Chandran"
+        },
+        {
+            "IMDB_ID": "nm1017879",
+            "Name": "Varghees Cherai"
+        },
+        {
+            "IMDB_ID": "nm1016319",
+            "Name": "Rohit Dandwani"
+        },
+        {
+            "IMDB_ID": "nm7992976",
+            "Name": "Boloram Das"
+        },
+        {
+            "IMDB_ID": "nm5080963",
+            "Name": "Aziz Hussain"
+        },
+        {
+            "IMDB_ID": "nm1741239",
+            "Name": "Sanjeevkumar Nair"
+        },
+        {
+            "IMDB_ID": "nm4375685",
+            "Name": "Muzammil S. Qureshi"
+        },
+        {
+            "IMDB_ID": "nm1205111",
+            "Name": "Sunil Rodrigues"
+        },
+        {
+            "IMDB_ID": "nm6421781",
+            "Name": "Kashin Shetty"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Akarsh Khurana"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Karwaan",
+    "Runtime": 114
+}

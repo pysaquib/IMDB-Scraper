@@ -1,0 +1,76 @@
+{
+    "Bio": "Michael, Arjun and Lallan, three men from three different strata of society, cross paths one morning in Calcutta and change one another's lives forever.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0222426",
+            "Name": "Ajay Devgn"
+        },
+        {
+            "IMDB_ID": "nm0045393",
+            "Name": "Abhishek Bachchan"
+        },
+        {
+            "IMDB_ID": "nm0611552",
+            "Name": "Rani Mukerji"
+        },
+        {
+            "IMDB_ID": "nm1059103",
+            "Name": "Vivek Oberoi"
+        },
+        {
+            "IMDB_ID": "nm0004626",
+            "Name": "Kareena Kapoor"
+        },
+        {
+            "IMDB_ID": "nm0219968",
+            "Name": "Esha Deol"
+        },
+        {
+            "IMDB_ID": "nm0700875",
+            "Name": "Om Puri"
+        },
+        {
+            "IMDB_ID": "nm1399243",
+            "Name": "Sonu Sood"
+        },
+        {
+            "IMDB_ID": "nm0619047",
+            "Name": "Anant Nag"
+        },
+        {
+            "IMDB_ID": "nm0704694",
+            "Name": "Vijay Raaz"
+        },
+        {
+            "IMDB_ID": "nm0592790",
+            "Name": "Loveleen Mishra"
+        },
+        {
+            "IMDB_ID": "nm3508781",
+            "Name": "Abhinav Kashyap"
+        },
+        {
+            "IMDB_ID": "nm0795661",
+            "Name": "Saurabh Shukla"
+        },
+        {
+            "IMDB_ID": "nm0801264",
+            "Name": "Simran"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Mani Ratnam"
+    ],
+    "Genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "Languages": [
+        "Hindi",
+        "Bengali"
+    ],
+    "Name": "Yuva",
+    "Runtime": 161
+}

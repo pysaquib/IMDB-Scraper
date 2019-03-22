@@ -1,0 +1,82 @@
+{
+    "Bio": "Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country's next cricket stars.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm3822770",
+            "Name": "Rajkummar Rao"
+        },
+        {
+            "IMDB_ID": "nm3818286",
+            "Name": "Sushant Singh Rajput"
+        },
+        {
+            "IMDB_ID": "nm2815326",
+            "Name": "Amit Sadh"
+        },
+        {
+            "IMDB_ID": "nm3629670",
+            "Name": "Amrita Puri"
+        },
+        {
+            "IMDB_ID": "nm5695367",
+            "Name": "Digvijay Deshmukh"
+        },
+        {
+            "IMDB_ID": "nm1794460",
+            "Name": "Asif Basra"
+        },
+        {
+            "IMDB_ID": "nm1964139",
+            "Name": "Manav Kaul"
+        },
+        {
+            "IMDB_ID": "nm5030347",
+            "Name": "Ashish Kakkad"
+        },
+        {
+            "IMDB_ID": "nm1257474",
+            "Name": "Muni Jha"
+        },
+        {
+            "IMDB_ID": "nm5651050",
+            "Name": "Morli Patel"
+        },
+        {
+            "IMDB_ID": "nm1576124",
+            "Name": "Amitabh Srivastava"
+        },
+        {
+            "IMDB_ID": "nm1016876",
+            "Name": "Bina Shah"
+        },
+        {
+            "IMDB_ID": "nm4541970",
+            "Name": "Irfan Khan"
+        },
+        {
+            "IMDB_ID": "nm3795810",
+            "Name": "Tahir Raj Bhasin"
+        },
+        {
+            "IMDB_ID": "nm1398205",
+            "Name": "Ajay Jadeja"
+        },
+        {
+            "IMDB_ID": "nm9028643",
+            "Name": "Sunil Upadhyay"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Abhishek Kapoor"
+    ],
+    "Genre": [
+        "Drama",
+        "Sport"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Kai po che!",
+    "Runtime": 120
+}

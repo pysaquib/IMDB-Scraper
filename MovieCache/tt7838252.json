@@ -1,0 +1,266 @@
+{
+    "Bio": "Set in the 1970s, it's the story of a fierce rebel who rises against the brutal oppression and becomes the symbol of hope to legions of downtrodden people.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm5232139",
+            "Name": "Yash"
+        },
+        {
+            "IMDB_ID": "nm8635807",
+            "Name": "Srinidhi Shetty"
+        },
+        {
+            "IMDB_ID": "nm1034613",
+            "Name": "Ramachandra Raju"
+        },
+        {
+            "IMDB_ID": "nm1034613",
+            "Name": "Archana Jois"
+        },
+        {
+            "IMDB_ID": "nm0619047",
+            "Name": "Anant Nag"
+        },
+        {
+            "IMDB_ID": "nm7181957",
+            "Name": "Vasishta N. Simha"
+        },
+        {
+            "IMDB_ID": "nm1961459",
+            "Name": "Tamannaah Bhatia"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Ajith"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Akash"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Anji"
+        },
+        {
+            "IMDB_ID": "nm1044907",
+            "Name": "Anmol"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Arun"
+        },
+        {
+            "IMDB_ID": "nm1044907",
+            "Name": "Aryadev"
+        },
+        {
+            "IMDB_ID": "nm1042715",
+            "Name": "Ninasam Ashwath"
+        },
+        {
+            "IMDB_ID": "nm1034613",
+            "Name": "B.S. Avinash"
+        },
+        {
+            "IMDB_ID": "nm4948556",
+            "Name": "Malavika Avinash"
+        },
+        {
+            "IMDB_ID": "nm4442569",
+            "Name": "Joy Badlani"
+        },
+        {
+            "IMDB_ID": "nm1044907",
+            "Name": "Balakrishna"
+        },
+        {
+            "IMDB_ID": "nm8918479",
+            "Name": "Usha Bhandary"
+        },
+        {
+            "IMDB_ID": "nm1035627",
+            "Name": "Vinay Bidappa"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Dabhar"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Devaraj"
+        },
+        {
+            "IMDB_ID": "nm9934189",
+            "Name": "Govinde Gowda"
+        },
+        {
+            "IMDB_ID": "nm1044910",
+            "Name": "Hemanth"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Hruthvik"
+        },
+        {
+            "IMDB_ID": "nm1044785",
+            "Name": "Ramesh Indhira"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Jogi"
+        },
+        {
+            "IMDB_ID": "nm2994788",
+            "Name": "Mohan Juneja"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Karthik"
+        },
+        {
+            "IMDB_ID": "nm4071279",
+            "Name": "John Kokken"
+        },
+        {
+            "IMDB_ID": "nm2587360",
+            "Name": "Krishnappa"
+        },
+        {
+            "IMDB_ID": "nm5724719",
+            "Name": "Achyuth Kumar"
+        },
+        {
+            "IMDB_ID": "nm1044907",
+            "Name": "Lakki Lakshman"
+        },
+        {
+            "IMDB_ID": "nm1550224",
+            "Name": "Lakshmipathi"
+        },
+        {
+            "IMDB_ID": "nm5741813",
+            "Name": "Dinesh Mangaluru"
+        },
+        {
+            "IMDB_ID": "nm0619056",
+            "Name": "T.S. Nagabharana"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Nagesh"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Naren"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Naveen"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Naveendra"
+        },
+        {
+            "IMDB_ID": "nm1024473",
+            "Name": "Tharak Ponnappa"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Dhool Prakash"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Prasanna"
+        },
+        {
+            "IMDB_ID": "nm6064694",
+            "Name": "Harish Rai"
+        },
+        {
+            "IMDB_ID": "nm8956204",
+            "Name": "Ugramm Ravi"
+        },
+        {
+            "IMDB_ID": "nm1044907",
+            "Name": "Roopa Rayappa"
+        },
+        {
+            "IMDB_ID": "nm4655028",
+            "Name": "Mouni Roy"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Puneeth Rudranag"
+        },
+        {
+            "IMDB_ID": "nm1044907",
+            "Name": "Sampath"
+        },
+        {
+            "IMDB_ID": "nm1044910",
+            "Name": "Jaguar Sannappa"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Satish"
+        },
+        {
+            "IMDB_ID": "nm1044910",
+            "Name": "Seendhe"
+        },
+        {
+            "IMDB_ID": "nm1044963",
+            "Name": "Ashok Sharma"
+        },
+        {
+            "IMDB_ID": "nm5697538",
+            "Name": "Ayyappa P. Sharma"
+        },
+        {
+            "IMDB_ID": "nm5852684",
+            "Name": "Shekar"
+        },
+        {
+            "IMDB_ID": "nm7903598",
+            "Name": "Yash Shetty"
+        },
+        {
+            "IMDB_ID": "nm1044909",
+            "Name": "Shyam"
+        },
+        {
+            "IMDB_ID": "nm6036390",
+            "Name": "B. Suresh"
+        },
+        {
+            "IMDB_ID": "nm1044908",
+            "Name": "Uma"
+        },
+        {
+            "IMDB_ID": "nm1044907",
+            "Name": "Vinay"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Prashanth Neel"
+    ],
+    "Genre": [
+        "Action",
+        "Drama"
+    ],
+    "Languages": [
+        "Kannada",
+        "Chinese",
+        "Japanese",
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "English",
+        "Korean"
+    ],
+    "Name": "K.G.F: Chapter 1",
+    "Runtime": 156
+}

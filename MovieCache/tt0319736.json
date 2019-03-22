@@ -1,0 +1,402 @@
+{
+    "Bio": "The story of a young revolutionary who raised an armed resistance against the British rule in India.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0222426",
+            "Name": "Ajay Devgn"
+        },
+        {
+            "IMDB_ID": "nm0839820",
+            "Name": "Sushant Singh"
+        },
+        {
+            "IMDB_ID": "nm1430018",
+            "Name": "D. Santosh"
+        },
+        {
+            "IMDB_ID": "nm0592782",
+            "Name": "Akhilendra Mishra"
+        },
+        {
+            "IMDB_ID": "nm0044796",
+            "Name": "Raj Babbar"
+        },
+        {
+            "IMDB_ID": "nm0416077",
+            "Name": "Farida Jalal"
+        },
+        {
+            "IMDB_ID": "nm1182255",
+            "Name": "Amrita Rao"
+        },
+        {
+            "IMDB_ID": "nm0864608",
+            "Name": "Mukesh Tiwari"
+        },
+        {
+            "IMDB_ID": "nm1242796",
+            "Name": "Surendra Rajan"
+        },
+        {
+            "IMDB_ID": "nm1019748",
+            "Name": "Saurabh Dubey"
+        },
+        {
+            "IMDB_ID": "nm0474903",
+            "Name": "Swaroop Kumar"
+        },
+        {
+            "IMDB_ID": "nm1574616",
+            "Name": "Arun Patwardhan"
+        },
+        {
+            "IMDB_ID": "nm1199163",
+            "Name": "Keneth Desai"
+        },
+        {
+            "IMDB_ID": "nm0659162",
+            "Name": "Sitaram Panchal"
+        },
+        {
+            "IMDB_ID": "nm1569756",
+            "Name": "Bhaswar Chatterjee"
+        },
+        {
+            "IMDB_ID": "nm1570370",
+            "Name": "Amit Dhawan"
+        },
+        {
+            "IMDB_ID": "nm1631881",
+            "Name": "Harsh Khurana"
+        },
+        {
+            "IMDB_ID": "nm2576006",
+            "Name": "Kapil Sharma"
+        },
+        {
+            "IMDB_ID": "nm1108417",
+            "Name": "Indrani Banerjee"
+        },
+        {
+            "IMDB_ID": "nm1569093",
+            "Name": "Amitabh Bhattacharjee"
+        },
+        {
+            "IMDB_ID": "nm1631880",
+            "Name": "Shish Khan"
+        },
+        {
+            "IMDB_ID": "nm0788915",
+            "Name": "Sanjay Sharma"
+        },
+        {
+            "IMDB_ID": "nm1576664",
+            "Name": "Raja Tomer"
+        },
+        {
+            "IMDB_ID": "nm0051721",
+            "Name": "Deepak Kumar Bandhu"
+        },
+        {
+            "IMDB_ID": "nm1133212",
+            "Name": "Niraj Sah"
+        },
+        {
+            "IMDB_ID": "nm1568797",
+            "Name": "Pradeep Bajpai"
+        },
+        {
+            "IMDB_ID": "nm1576952",
+            "Name": "Aditya Verma"
+        },
+        {
+            "IMDB_ID": "nm1572198",
+            "Name": "Romie Jaspal"
+        },
+        {
+            "IMDB_ID": "nm1571487",
+            "Name": "Sunil Grover"
+        },
+        {
+            "IMDB_ID": "nm1568773",
+            "Name": "Girish Badlani"
+        },
+        {
+            "IMDB_ID": "nm1572021",
+            "Name": "Siddharth Hussain"
+        },
+        {
+            "IMDB_ID": "nm1571393",
+            "Name": "Abir Goswami"
+        },
+        {
+            "IMDB_ID": "nm1221483",
+            "Name": "Pramod Pathak"
+        },
+        {
+            "IMDB_ID": "nm1573907",
+            "Name": "Aashu Mohil"
+        },
+        {
+            "IMDB_ID": "nm1631983",
+            "Name": "Manu Malik"
+        },
+        {
+            "IMDB_ID": "nm1569087",
+            "Name": "Navin Bhaskar"
+        },
+        {
+            "IMDB_ID": "nm1569737",
+            "Name": "Praful Chandra"
+        },
+        {
+            "IMDB_ID": "nm1574539",
+            "Name": "Shreyas Pandit"
+        },
+        {
+            "IMDB_ID": "nm1574433",
+            "Name": "Rakesh Oon"
+        },
+        {
+            "IMDB_ID": "nm1339795",
+            "Name": "Kiran Randhawa"
+        },
+        {
+            "IMDB_ID": "nm0944832",
+            "Name": "Ganesh Yadav"
+        },
+        {
+            "IMDB_ID": "nm0867434",
+            "Name": "Tony"
+        },
+        {
+            "IMDB_ID": "nm0802185",
+            "Name": "Padam Singh"
+        },
+        {
+            "IMDB_ID": "nm1094054",
+            "Name": "Ashok Sharma"
+        },
+        {
+            "IMDB_ID": "nm1632184",
+            "Name": "Mahesh Raja"
+        },
+        {
+            "IMDB_ID": "nm1632380",
+            "Name": "Vikki"
+        },
+        {
+            "IMDB_ID": "nm1569724",
+            "Name": "Piyush Chakravorthy"
+        },
+        {
+            "IMDB_ID": "nm1576912",
+            "Name": "Vasudevan"
+        },
+        {
+            "IMDB_ID": "nm1632189",
+            "Name": "Narendra Rawal"
+        },
+        {
+            "IMDB_ID": "nm1575949",
+            "Name": "Shamsher Singh"
+        },
+        {
+            "IMDB_ID": "nm1575125",
+            "Name": "Oshima Rekhi"
+        },
+        {
+            "IMDB_ID": "nm1572644",
+            "Name": "Sukhmani Kohli"
+        },
+        {
+            "IMDB_ID": "nm1591118",
+            "Name": "Ankush"
+        },
+        {
+            "IMDB_ID": "nm1575944",
+            "Name": "Karanbir Singh"
+        },
+        {
+            "IMDB_ID": "nm1576059",
+            "Name": "Renu Soni"
+        },
+        {
+            "IMDB_ID": "nm0030101",
+            "Name": "Anita"
+        },
+        {
+            "IMDB_ID": "nm1574536",
+            "Name": "Renu Pandey"
+        },
+        {
+            "IMDB_ID": "nm1632285",
+            "Name": "Komal Singh"
+        },
+        {
+            "IMDB_ID": "nm1575942",
+            "Name": "Gyandev Singh"
+        },
+        {
+            "IMDB_ID": "nm1587171",
+            "Name": "Channi Singh"
+        },
+        {
+            "IMDB_ID": "nm1575946",
+            "Name": "Nakshdeep Singh"
+        },
+        {
+            "IMDB_ID": "nm1574859",
+            "Name": "Majahan Prashant"
+        },
+        {
+            "IMDB_ID": "nm1568696",
+            "Name": "Hayat Asif"
+        },
+        {
+            "IMDB_ID": "nm1372094",
+            "Name": "Sardar Sohi"
+        },
+        {
+            "IMDB_ID": "nm1575940",
+            "Name": "Bikramjeet Singh"
+        },
+        {
+            "IMDB_ID": "nm1416011",
+            "Name": "Prasanna Ketkar"
+        },
+        {
+            "IMDB_ID": "nm1573357",
+            "Name": "Kishor Mahabole"
+        },
+        {
+            "IMDB_ID": "nm1568625",
+            "Name": "Ajit Apte"
+        },
+        {
+            "IMDB_ID": "nm1185344",
+            "Name": "Shehzad Khan"
+        },
+        {
+            "IMDB_ID": "nm1031073",
+            "Name": "Gurinder Makna"
+        },
+        {
+            "IMDB_ID": "nm1059615",
+            "Name": "Rajesh Tripathi"
+        },
+        {
+            "IMDB_ID": "nm0864607",
+            "Name": "Lalit Tiwari"
+        },
+        {
+            "IMDB_ID": "nm1574617",
+            "Name": "Dileep Patwe"
+        },
+        {
+            "IMDB_ID": "nm1065428",
+            "Name": "Wahid Hashmi"
+        },
+        {
+            "IMDB_ID": "nm1591446",
+            "Name": "Shashikant Chawan"
+        },
+        {
+            "IMDB_ID": "nm1631831",
+            "Name": "Amir Jade"
+        },
+        {
+            "IMDB_ID": "nm0451864",
+            "Name": "Viju Khote"
+        },
+        {
+            "IMDB_ID": "nm0022073",
+            "Name": "Gil Alon"
+        },
+        {
+            "IMDB_ID": "nm2336913",
+            "Name": "Ryan Jonathan"
+        },
+        {
+            "IMDB_ID": "nm1631857",
+            "Name": "Mark Junior"
+        },
+        {
+            "IMDB_ID": "nm1587078",
+            "Name": "Mark Senior"
+        },
+        {
+            "IMDB_ID": "nm1572162",
+            "Name": "Bernard Jakel"
+        },
+        {
+            "IMDB_ID": "nm2350047",
+            "Name": "Martin"
+        },
+        {
+            "IMDB_ID": "nm1632186",
+            "Name": "Will Randall"
+        },
+        {
+            "IMDB_ID": "nm1591503",
+            "Name": "Conrad"
+        },
+        {
+            "IMDB_ID": "nm1558782",
+            "Name": "Mark"
+        },
+        {
+            "IMDB_ID": "nm1504396",
+            "Name": "Tim"
+        },
+        {
+            "IMDB_ID": "nm1586831",
+            "Name": "Richard"
+        },
+        {
+            "IMDB_ID": "nm1558173",
+            "Name": "Mario"
+        },
+        {
+            "IMDB_ID": "nm5664750",
+            "Name": "Rotem Bar"
+        },
+        {
+            "IMDB_ID": "nm1688143",
+            "Name": "C. Mario Lindsay"
+        },
+        {
+            "IMDB_ID": "nm8960676",
+            "Name": "Omkaar"
+        },
+        {
+            "IMDB_ID": "nm5126114",
+            "Name": "R.P. Singh"
+        },
+        {
+            "IMDB_ID": "nm0917224",
+            "Name": "Egbert Jan Weeber"
+        },
+        {
+            "IMDB_ID": "nm5664774",
+            "Name": "Omer Yariv"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Rajkumar Santoshi"
+    ],
+    "Genre": [
+        "Action",
+        "Biography",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi",
+        "English",
+        "Bengali",
+        "Punjabi"
+    ],
+    "Name": "The Legend of Bhagat Singh",
+    "Runtime": 155
+}

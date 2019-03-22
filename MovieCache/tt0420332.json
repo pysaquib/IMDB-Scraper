@@ -1,0 +1,185 @@
+{
+    "Bio": "Veer-Zaara is a saga of love, separation, courage and sacrifice. A love story that is an inspiration and will remain a legend forever.",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm0451321",
+            "Name": "Shah Rukh Khan"
+        },
+        {
+            "IMDB_ID": "nm0611552",
+            "Name": "Rani Mukerji"
+        },
+        {
+            "IMDB_ID": "nm0006689",
+            "Name": "Preity Zinta"
+        },
+        {
+            "IMDB_ID": "nm0451601",
+            "Name": "Kiron Kher"
+        },
+        {
+            "IMDB_ID": "nm0244890",
+            "Name": "Divya Dutta"
+        },
+        {
+            "IMDB_ID": "nm1224082",
+            "Name": "Boman Irani"
+        },
+        {
+            "IMDB_ID": "nm0451600",
+            "Name": "Anupam Kher"
+        },
+        {
+            "IMDB_ID": "nm0000821",
+            "Name": "Amitabh Bachchan"
+        },
+        {
+            "IMDB_ID": "nm0004564",
+            "Name": "Hema Malini"
+        },
+        {
+            "IMDB_ID": "nm0048075",
+            "Name": "Manoj Bajpayee"
+        },
+        {
+            "IMDB_ID": "nm0782247",
+            "Name": "Zohra Sehgal"
+        },
+        {
+            "IMDB_ID": "nm1012529",
+            "Name": "S.M. Zaheer"
+        },
+        {
+            "IMDB_ID": "nm0022758",
+            "Name": "Tom Alter"
+        },
+        {
+            "IMDB_ID": "nm0592782",
+            "Name": "Akhilendra Mishra"
+        },
+        {
+            "IMDB_ID": "nm0050187",
+            "Name": "Arun Bali"
+        },
+        {
+            "IMDB_ID": "nm0530948",
+            "Name": "Gurdas Maan"
+        },
+        {
+            "IMDB_ID": "nm2117833",
+            "Name": "Rushad Rana"
+        },
+        {
+            "IMDB_ID": "nm2117528",
+            "Name": "Vinod Negi"
+        },
+        {
+            "IMDB_ID": "nm1220256",
+            "Name": "Balwant Bansal"
+        },
+        {
+            "IMDB_ID": "nm2111791",
+            "Name": "Rajesh Jolly"
+        },
+        {
+            "IMDB_ID": "nm2117524",
+            "Name": "Anup Kanwal Singh"
+        },
+        {
+            "IMDB_ID": "nm2116437",
+            "Name": "Kanwar Jagdish"
+        },
+        {
+            "IMDB_ID": "nm2118072",
+            "Name": "Dev K. Kantawall"
+        },
+        {
+            "IMDB_ID": "nm1206317",
+            "Name": "Vicky Ahuja"
+        },
+        {
+            "IMDB_ID": "nm2119186",
+            "Name": "Ranjeev Verma"
+        },
+        {
+            "IMDB_ID": "nm2114469",
+            "Name": "Chandni Jas Keerat"
+        },
+        {
+            "IMDB_ID": "nm2121364",
+            "Name": "Sanjay Singh Bhadli"
+        },
+        {
+            "IMDB_ID": "nm2117378",
+            "Name": "Kulbir Badesron"
+        },
+        {
+            "IMDB_ID": "nm2121659",
+            "Name": "Shivaya Singh"
+        },
+        {
+            "IMDB_ID": "nm2115677",
+            "Name": "Huzefa Gadiwala"
+        },
+        {
+            "IMDB_ID": "nm2119028",
+            "Name": "Vishal Om Prakash"
+        },
+        {
+            "IMDB_ID": "nm1311763",
+            "Name": "Amir Zadey"
+        },
+        {
+            "IMDB_ID": "nm1795494",
+            "Name": "Syed Firdaus"
+        },
+        {
+            "IMDB_ID": "nm2115358",
+            "Name": "Manish Arora"
+        },
+        {
+            "IMDB_ID": "nm2117890",
+            "Name": "Banwarhlal Jhol"
+        },
+        {
+            "IMDB_ID": "nm1937218",
+            "Name": "Darshan Aulakh"
+        },
+        {
+            "IMDB_ID": "nm1854452",
+            "Name": "Jitendra Bhardwaj"
+        },
+        {
+            "IMDB_ID": "nm2120556",
+            "Name": "Pankaj Raina"
+        },
+        {
+            "IMDB_ID": "nm2116198",
+            "Name": "Gurinder Singh"
+        },
+        {
+            "IMDB_ID": "nm0007181",
+            "Name": "Yash Chopra"
+        },
+        {
+            "IMDB_ID": "nm9036653",
+            "Name": "Surendra Rahi"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Yash Chopra"
+    ],
+    "Genre": [
+        "Drama",
+        "Family",
+        "Musical"
+    ],
+    "Languages": [
+        "Hindi",
+        "Urdu",
+        "Punjabi"
+    ],
+    "Name": "Veer-Zaara",
+    "Runtime": 192
+}

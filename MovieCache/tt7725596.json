@@ -1,0 +1,70 @@
+{
+    "Bio": "A man faces embarrassment in the society when he finds out his mother is pregnant",
+    "Cast_List": [
+        {
+            "IMDB_ID": "nm4731677",
+            "Name": "Ayushmann Khurrana"
+        },
+        {
+            "IMDB_ID": "nm7621667",
+            "Name": "Sanya Malhotra"
+        },
+        {
+            "IMDB_ID": "nm0348481",
+            "Name": "Neena Gupta"
+        },
+        {
+            "IMDB_ID": "nm0710549",
+            "Name": "Gajraj Rao"
+        },
+        {
+            "IMDB_ID": "nm0149441",
+            "Name": "Sheeba Chaddha"
+        },
+        {
+            "IMDB_ID": "nm0797773",
+            "Name": "Surekha Sikri"
+        },
+        {
+            "IMDB_ID": "nm7156561",
+            "Name": "Shardul Rana"
+        },
+        {
+            "IMDB_ID": "nm8313060",
+            "Name": "Rahul Tewari"
+        },
+        {
+            "IMDB_ID": "nm9577426",
+            "Name": "Arun Kalra"
+        },
+        {
+            "IMDB_ID": "nm1320935",
+            "Name": "Alka Amin"
+        },
+        {
+            "IMDB_ID": "nm3438304",
+            "Name": "Manoj Bakshi"
+        },
+        {
+            "IMDB_ID": "nm7478179",
+            "Name": "Alka Badola Kaushal"
+        },
+        {
+            "IMDB_ID": "nm8738938",
+            "Name": "Vimi Mehta"
+        }
+    ],
+    "Country": "India",
+    "Directors": [
+        "Amit Ravindernath Sharma"
+    ],
+    "Genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "Languages": [
+        "Hindi"
+    ],
+    "Name": "Badhaai Ho",
+    "Runtime": 124
+}
