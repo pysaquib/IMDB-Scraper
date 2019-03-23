@@ -302,11 +302,11 @@ def analyseCoActors(movies):
                     if(main == j):      #Checking if lead actor key matches
                         for cast in k[l][1:6]:    #Iterating loop over next five actors
                             count = 1
-                            for idmatch in dicById[j]['frequent_co']:
+                            for idmatch in dicById[j]['frequent_co_actors']:
                                 if(idmatch['id']==cast['IMDB_ID']):
                                     count+=idmatch['num_movies']    #Incrementing the count of the movies if actor already exist in the dictionary
                             n = {'id' : cast['IMDB_ID'], 'name' : cast['Name'], 'num_movies' : count}      #Creating a new dictionary for every new co-actor
-                            dicById[j]['frequent_co'].append(n)     #Appending the dictionary in frequent_co_actors list of the main dictionary
+                            dicById[j]['frequent_co_actors'].append(n)     #Appending the dictionary in frequent_co_actors list of the main dictionary
     return dicById
 # pprint.pprint(analyseCoActors(movies))
 
